@@ -1,9 +1,9 @@
 ## Building a personal blog is so difficult!
 ## So I change my mind to just build one like this.
-https://www.youtube.com/watch?v=NbNPJr_0tqA
 
-This song is so good and I listened to it hundreds of times. 
-Though life is hard, we are going to build a better future.
+[This song](https://www.youtube.com/watch?v=NbNPJr_0tqA) is so good and I listened to it hundreds of times.
+
+Though life is hard, we are working continuously to build a better future.
 
 ### Markdown
 
