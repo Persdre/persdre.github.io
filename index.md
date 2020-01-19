@@ -2,7 +2,8 @@
 ## So I change my mind to just build one like this.
 https://www.youtube.com/watch?v=NbNPJr_0tqA
 
-I listened to it hundreds of times. 
+This song is so good and I listened to it hundreds of times. 
+Though life is hard, we are going to build a better future.
 
 ### Markdown
 
