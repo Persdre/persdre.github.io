@@ -1,2 +1,2 @@
-# persdre.github.io
-This is a personal blog.
+# Personal Blog
+
