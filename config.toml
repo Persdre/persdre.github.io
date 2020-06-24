@@ -1,8 +1,8 @@
-baseURL = "https://persdre.github.io/"
+baseURL = "https://personal-blog-8i2n.onrender.com"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Qian"                         # site title  # 网站标题
-
+publishDir = "public"
 hasCJKLanguage = true                  # has chinese/japanese/korean ?  # 自动检测是否包含 中文\日文\韩文
 summaryLength = 100
 paginate = 4                           # shows the number of articles  # 首页显示文章数量
