@@ -6,10 +6,19 @@
     <description>Recent content on Qian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://qian.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关于push的思考</title>
+      <link>https://qian.onrender.com/posts/about-push/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://qian.onrender.com/posts/about-push/</guid>
+      <description>今天看到微博上面一个博主说了两点感悟，觉得挺有意思就记录一下。 push无用 人和人天资有差别，不可能每个人都擅长学习。正如同我们承认黑人音乐天赋异禀，黄种人勤奋踏实。没有的品质就算push也push不出</description>
+    </item>
     
     <item>
       <title>About</title>
