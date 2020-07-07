@@ -1,5 +1,5 @@
 ---
-title: "《精进》读后感"
+title: "精进"
 date: 2020-07-07
 draft: false
 tags: ["中文", "随笔"]
