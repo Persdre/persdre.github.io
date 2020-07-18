@@ -6,10 +6,19 @@
     <description>Recent content on Qian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://qian.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>从本源着手</title>
+      <link>https://qian.onrender.com/posts/start-from-source/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://qian.onrender.com/posts/start-from-source/</guid>
+      <description>之前有一个功能一直实现不了，烦心了很久。昨天晚上突发奇想去看看源代码，果然有收获，两个小时就搞定了。 摘录一段毛泽东写于1917年的书信： 动其心者，当具有大本之源。今日变法，俱从枝节入手，如议会、宪法、</description>
+    </item>
     
     <item>
       <title>精进</title>
