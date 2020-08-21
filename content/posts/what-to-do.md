@@ -14,3 +14,4 @@ Keep working and thinking is so hard. People will do anything to avoid thinking.
 <br/>
 Be self-motivated.
 Never give up half-way.
+Try to learn something new everyday.
