@@ -1,2 +1,2 @@
 # Personal Blog
-document thoughts and knowledge
+document my thoughts and knowledge

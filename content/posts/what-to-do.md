@@ -10,6 +10,7 @@ People are restricted by conditions such as families, talents, and opportunities
 <br/>
 <br/>
 Keep working and thinking is so hard. People will do anything to avoid thinking. Facing difficulties, trying to conquer them, and achieving oneself.
+
 <br/>
 <br/>
 Be self-motivated.
