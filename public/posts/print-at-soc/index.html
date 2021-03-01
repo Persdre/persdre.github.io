@@ -8,11 +8,12 @@
 	
 	
 	
-	<title>Posts ｜ Qian</title>
+	<title>How to print at NUS SoC ｜ Qian</title>
 	
     
     
-    <meta name="description" content="personal website published with Hugo" />
+    <meta name="description" content="Adding printer to my mac is so hard. After trying it for 30 mins, I gave up. Then I searched on the Internet and got this tutorial.
+# Login to Sunfire ssh e0123456@sunfire.comp.nus.edu.sg # Copy a local file to Sunfire scp some_file.txt e0123456@sunfire.comp.nus.edu.sg:/home/e/e0123456/ # Copy a local directory to Sunfire scp -r ./some_directory e0123456@sunfire.comp.nus.edu.sg:/home/e/e0123456/ # Convert PDF to PS file pdftops input.pdf # Print via Sunfire, use printer pstsb, also can use psts and pstsc lpr -Ppstsb input.ps # Convert PS file to 2 pages per sheet psnup -2up input.ps output.ps refer to Aaron Choo&#39;s post" />
     
 
     
@@ -21,8 +22,6 @@
     
 
 	
-	<link rel="alternate" type="application/rss+xml" href="https://qian.onrender.com/posts/index.xml" title="Qian" />
-    
     
     <link rel="shortcut icon" href="https://qian.onrender.com/images/favicon.ico" />
 
@@ -88,79 +87,55 @@
     </div>
 </div>
         <div class="content">
-            <div class="list_with_title">
-                
-                <div class="listing_title">2021</div>
-                <div class="listing">
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/print-at-soc/">How to print at NUS SoC</a>
-                            <div class="post_time"><span class="date">03-01</span></div>
-                        </div>
+            <div class="post_page">
+                <div class="post animate__animated animate__fadeInDown">
+                    <div class="post_title post_detail_title">
+                        <h2><a href='/posts/print-at-soc/'>How to print at NUS SoC</a></h2>
+                        <span class="date">2021.03.01</span>
                     </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/new-year-plan/">新年计划</a>
-                            <div class="post_time"><span class="date">01-04</span></div>
+                    <div class="post_content markdown"><p>Adding printer to my mac is so hard. After trying it for 30 mins, I gave up. Then I searched on the Internet and got this tutorial.</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback"># Login to Sunfire
+ssh e0123456@sunfire.comp.nus.edu.sg
+
+# Copy a local file to Sunfire
+scp some_file.txt e0123456@sunfire.comp.nus.edu.sg:/home/e/e0123456/
+
+# Copy a local directory to Sunfire
+scp -r ./some_directory e0123456@sunfire.comp.nus.edu.sg:/home/e/e0123456/
+
+# Convert PDF to PS file
+pdftops input.pdf
+
+# Print via Sunfire, use printer pstsb, also can use psts and pstsc
+lpr -Ppstsb input.ps
+
+# Convert PS file to 2 pages per sheet
+psnup -2up input.ps output.ps
+</code></pre></div><p>refer to <a href="https://medium.com/@aaroncql/printing-via-sunfire-for-nus-soc-students-a879ce381630">Aaron Choo's post</a></p>
+</div>
+                    <div class="post_footer">
+                        
+                        <div class="meta">
+                            <div class="info">
+                                <span class="field tags">
+                                    <i class="ri-stack-line"></i>
+                                    
+                                    <a href="https://qian.onrender.com/tags/english/">English</a>
+                                    
+                                    <a href="https://qian.onrender.com/tags/tech/">Tech</a>
+                                    
+                                </span>
+                            </div>
                         </div>
+                        
                     </div>
-                    
                 </div>
                 
-                <div class="listing_title">2020</div>
-                <div class="listing">
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/english-thought/">What To Do and How To Do</a>
-                            <div class="post_time"><span class="date">08-01</span></div>
-                        </div>
-                    </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/start-from-source/">从本源着手</a>
-                            <div class="post_time"><span class="date">07-18</span></div>
-                        </div>
-                    </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/jingjin-reading/">精进</a>
-                            <div class="post_time"><span class="date">07-07</span></div>
-                        </div>
-                    </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/about-push/">关于push的思考</a>
-                            <div class="post_time"><span class="date">06-27</span></div>
-                        </div>
-                    </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/chinese-preview/">当你老了</a>
-                            <div class="post_time"><span class="date">06-24</span></div>
-                        </div>
-                    </div>
-                    
-                    <div class="listing_item">
-                        <div class="listing_post">
-                            <a href="/posts/english-preview/">When You Are Old</a>
-                            <div class="post_time"><span class="date">06-24</span></div>
-                        </div>
-                    </div>
-                    
-                </div>
                 
             </div>
-            <div class="pagination"></div>
         </div>
-        <a id="back_to_top" href="#" class="back_to_top"><span>△</span></a>
     </div>
+    <a id="back_to_top" href="#" class="back_to_top"><span>△</span></a>
     <footer class="footer">
     <div class="powered_by">
         <a href="https://github.com/Persdre">Designed by Wang Qian,</a>

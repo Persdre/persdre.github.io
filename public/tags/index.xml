@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Qian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://qian.onrender.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>English</title>
+      <link>https://qian.onrender.com/tags/english/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://qian.onrender.com/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://qian.onrender.com/tags/tech/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://qian.onrender.com/tags/tech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>中文</title>
@@ -26,15 +44,6 @@
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://qian.onrender.com/tags/%E9%9A%8F%E7%AC%94/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://qian.onrender.com/tags/english/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://qian.onrender.com/tags/english/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,20 @@
     <description>Recent content on Qian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://qian.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to print at NUS SoC</title>
+      <link>https://qian.onrender.com/posts/print-at-soc/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://qian.onrender.com/posts/print-at-soc/</guid>
+      <description>Adding printer to my mac is so hard. After trying it for 30 mins, I gave up. Then I searched on the Internet and got this tutorial.
+# Login to Sunfire ssh e0123456@sunfire.comp.nus.edu.sg # Copy a local file to Sunfire scp some_file.txt e0123456@sunfire.comp.nus.edu.sg:/home/e/e0123456/ # Copy a local directory to Sunfire scp -r ./some_directory e0123456@sunfire.comp.nus.edu.sg:/home/e/e0123456/ # Convert PDF to PS file pdftops input.pdf # Print via Sunfire, use printer pstsb, also can use psts and pstsc lpr -Ppstsb input.ps # Convert PS file to 2 pages per sheet psnup -2up input.ps output.ps refer to Aaron Choo&#39;s post</description>
+    </item>
     
     <item>
       <title>新年计划</title>
