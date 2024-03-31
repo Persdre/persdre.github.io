@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a CS Ph.D. student at [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from [National University of Singapore (NUS)](https://nus.edu.sg/). Before that, I was an undergraduate from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
+I am now a CS Ph.D. student at [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from [National University of Singapore](https://nus.edu.sg/). Before that, I was an undergraduate from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
 At present, my research interest lies in  **LLM Agents, Graph Neural Network, Natural Language Processing, and Blockchain**.
 
