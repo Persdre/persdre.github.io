@@ -7,10 +7,10 @@ main:
     url: "/#-news"
 
   - title: "First-author Publications"
-    url: "/#-publications"
+    url: "/#-first-author-publications"
 
   - title: "Educations"
-    url: "/#-first-author-publications "
+    url: "/#-educations "
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
