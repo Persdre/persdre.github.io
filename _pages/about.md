@@ -29,9 +29,9 @@ Ethereum and X was accepted as a poster by ICLR24!
 - *2023.08*: &nbsp;Qian served as TA for [CS3219 Software Engineering Principles and Patterns](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns), Fall 2023, Instructor: Akshay Narayan.
 
 
-# 📝 Publications 
+# 📝 First-author Publications 
 
-- ICLR24: EX-Graph: A Pioneering Dataset Bridging Ethereum and X [**Paper**](https://arxiv.org/abs/2310.01015) [**Code**](https://github.com/Persdre/EX-Graph)
+- [ICLR 24] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [**Paper**](https://arxiv.org/abs/2310.01015) [**Code**](https://github.com/Persdre/EX-Graph)
 
 # 📖 Educations
 
