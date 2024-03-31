@@ -17,42 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am now a CS Ph.D. student at [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from NUS. Before that, I was an undergrate from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+At present, my research interest lies in  **LLM agents, Graph Neural Network, Natural Language Processing, and Blockchain**.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03*: &nbsp;LegalExpert winned The Venture Initiation Program@SoC (VIP@SoC) with SGD10K! LegalExpert offers immediate, professional legal explanations and document assistance powered by LLM technology. 
+- *2024.01*: &nbsp;🎉🎉 EX-Graph: A Pioneering Dataset Bridging
+Ethereum AND X was accepted as a poster by ICLR24!
+- *2023.09*: &nbsp;🎉🎉 Stablecoin On-Chain Vigilance Project has been successfully included in the final selection for the SBIP 2023! [Slides](https://docs.google.com/presentation/d/1egOBX-0kWb7ZO5ix3bB3P6D8LU7zYlziTGbDKCzVIe8/edit?usp=sharing]
+- *2023.08*: &nbsp;Qian served as TA for [CS3219 Software Engineering Principles and Patterns](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns), Fall 2023, Instructor: Akshay Narayan.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Qian Wang**, Zhen Zhang, Zemin Liu, Shengliang Lu, Bingqiao Luo, Bingsheng He
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[ **Paper**](https://arxiv.org/abs/2310.01015) [ **Code**](https://github.com/Persdre/EX-Graph)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2023.01 - Now*, Ph.D. Student, **National University of Singapore**, Computer Science
+- *2019.08 - 2022.12*, Bachelor, **National University of Singapore**, Computer Science
+- *2017.09 - 2019.06*, Bachelor, **Shanghai Jiao Tong University**, Chemistry
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+- *2023.12*, Qian was invited to give a talk of EX-Graph at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2022.05 - 2022.08*, Algorithm Tutor, OI Wiki, GitHub
+- *2021.05 - 2021.08*, Backend Engineer Intern, Ant Group, Shanghai
+- *2020.05 - 2020.08*, Python Tutor, Intermine, University of Cambridge
