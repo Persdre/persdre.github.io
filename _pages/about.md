@@ -17,28 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a CS Ph.D. student at [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from NUS. Before that, I was an undergrate from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
+I am now a CS Ph.D. student at [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from [National University of Singapore (NUS)](https://nus.edu.sg/). Before that, I was an undergrate from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
-At present, my research interest lies in  **LLM agents, Graph Neural Network, Natural Language Processing, and Blockchain**.
+At present, my research interest lies in  **LLM Agents, Graph Neural Network, Natural Language Processing, and Blockchain**.
 
 # 🔥 News
 - *2024.03*: &nbsp;LegalExpert winned The Venture Initiation Program@SoC (VIP@SoC) with SGD10K! LegalExpert offers immediate, professional legal explanations and document assistance powered by LLM technology. 
 - *2024.01*: &nbsp;🎉🎉 EX-Graph: A Pioneering Dataset Bridging
 Ethereum AND X was accepted as a poster by ICLR24!
-- *2023.09*: &nbsp;🎉🎉 Stablecoin On-Chain Vigilance Project has been successfully included in the final selection for the SBIP 2023! [Slides](https://docs.google.com/presentation/d/1egOBX-0kWb7ZO5ix3bB3P6D8LU7zYlziTGbDKCzVIe8/edit?usp=sharing]
+- *2023.09*: &nbsp;🎉🎉 Stablecoin On-Chain Vigilance Project has been successfully included in the final selection for the SBIP 2023! [Slides](https://docs.google.com/presentation/d/1egOBX-0kWb7ZO5ix3bB3P6D8LU7zYlziTGbDKCzVIe8/edit?usp=sharing)
 - *2023.08*: &nbsp;Qian served as TA for [CS3219 Software Engineering Principles and Patterns](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns), Fall 2023, Instructor: Akshay Narayan.
 
 
 # 📝 Publications 
 
-[ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X
+- *2024.03*: &nbsp [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X
 
 **Qian Wang**, Zhen Zhang, Zemin Liu, Shengliang Lu, Bingqiao Luo, Bingsheng He
 
-[ **Paper**](https://arxiv.org/abs/2310.01015) [ **Code**](https://github.com/Persdre/EX-Graph)
-
-</div>
-</div>
+[**Paper**](https://arxiv.org/abs/2310.01015) [**Code**](https://github.com/Persdre/EX-Graph)
 
 # 📖 Educations
 
