@@ -31,11 +31,7 @@ Ethereum AND X was accepted as a poster by ICLR24!
 
 # 📝 Publications 
 
-- *2024.03*: &nbsp [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X
-
-**Qian Wang**, Zhen Zhang, Zemin Liu, Shengliang Lu, Bingqiao Luo, Bingsheng He
-
-[**Paper**](https://arxiv.org/abs/2310.01015) [**Code**](https://github.com/Persdre/EX-Graph)
+- ICLR24: EX-Graph: A Pioneering Dataset Bridging Ethereum and X [**Paper**](https://arxiv.org/abs/2310.01015) [**Code**](https://github.com/Persdre/EX-Graph)
 
 # 📖 Educations
 
