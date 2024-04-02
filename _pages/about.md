@@ -23,6 +23,7 @@ At present, my research interest lies in  **LLM Agents, Graph Neural Network, Na
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 LegalExpert winned The Venture Initiation Program@SoC (VIP@SoC) with SGD10K! LegalExpert offers immediate, professional legal explanations and document assistance powered by LLM technology. 
+- *2024.02*: &nbsp;Qian was invited to serve as a reviewer for SIGKDD 2024.
 - *2024.01*: &nbsp;🎉🎉 EX-Graph: A Pioneering Dataset Bridging
 Ethereum and X was accepted as a poster by ICLR24!
 - *2023.09*: &nbsp;🎉🎉 Stablecoin On-Chain Vigilance Project was successfully included in the final selection for the SBIP 2023! [Slides](https://docs.google.com/presentation/d/1egOBX-0kWb7ZO5ix3bB3P6D8LU7zYlziTGbDKCzVIe8/edit?usp=sharing)
