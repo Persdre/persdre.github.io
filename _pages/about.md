@@ -36,9 +36,9 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 
 # 📖 Educations
 
-- *2023.01 - Now*, Ph.D. Student, **National University of Singapore**, Computer Science
-- *2019.08 - 2022.12*, Bachelor, **National University of Singapore**, Computer Science
-- *2017.09 - 2019.06*, Undergraduate, **Shanghai Jiao Tong University**, Chemistry
+- *2023.01 - Now*, Ph.D. Student, Computer Science, **National University of Singapore**
+- *2019.08 - 2022.12*, Bachelor, Computer Science with a Minor in Economics, **National University of Singapore**
+- *2017.09 - 2019.06*, Undergraduate, Chemistry, **Shanghai Jiao Tong University**
 
 # 💬 Invited Talks
 
