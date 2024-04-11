@@ -49,3 +49,6 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 - *2022.05 - 2022.08*, Algorithm Tutor, OI Wiki, GitHub
 - *2021.05 - 2021.08*, Backend Engineer Intern, Ant Group, Shanghai
 - *2020.05 - 2020.08*, Python Tutor, InterMine, University of Cambridge
+
+# 🔥 Service
+- *2023.08 - Now*, Fire Warden, School of Computing, NUS
