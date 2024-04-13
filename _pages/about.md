@@ -26,7 +26,7 @@ At present, my research interest lies in  **LLM Agents, Graph Neural Network, Na
 - *2024.02*: &nbsp;Qian was invited to serve as a reviewer for SIGKDD 2024.
 - *2024.01*: &nbsp;🎉🎉 EX-Graph: A Pioneering Dataset Bridging
 Ethereum and X was accepted as a poster by ICLR 2024!
-- *2023.09*: &nbsp;🎉🎉 Stablecoin On-Chain Vigilance Project was successfully included in the final selection for the SBIP 2023! [Slides](https://docs.google.com/presentation/d/1egOBX-0kWb7ZO5ix3bB3P6D8LU7zYlziTGbDKCzVIe8/edit?usp=sharing)
+- *2023.09*: &nbsp;🎉🎉 Stablecoin On-Chain Vigilance Project was successfully included in the final selection for the [SBIP 2023](https://sbip.sg/)! [Slides](https://docs.google.com/presentation/d/1egOBX-0kWb7ZO5ix3bB3P6D8LU7zYlziTGbDKCzVIe8/edit?usp=sharing)
 - *2023.08*: &nbsp;Qian served as TA for [CS3219 Software Engineering Principles and Patterns](https://nusmods.com/courses/CS3219/software-engineering-principles-and-patterns), Fall 2023, Instructor: Prof. [Bimlesh WADHWA](https://www.comp.nus.edu.sg/cs/people/bimlesh/).
 
 
