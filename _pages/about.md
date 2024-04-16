@@ -44,7 +44,7 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 
 - *2023.12*, Qian was invited to give a talk of [EX-Graph](https://arxiv.org/abs/2310.01015) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
 
-# 💬 Awards
+# 🏆 Awards
 
 - *2024.03*, [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
 - *2019.08 - 2022.08*, Ong Sin Seng & Lim Song Kie Bursary, NUS
