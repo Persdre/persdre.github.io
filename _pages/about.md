@@ -46,13 +46,13 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 
 # 💬 Awards
 
-- *2024.3*, [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
-- *2019.8 - 2022.8*, Ong Sin Seng & Lim Song Kie Bursary, NUS
-- *2019.2*, Third-Class Academic Scholarship, SJTU
+- *2024.03*, [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
+- *2019.08 - 2022.08*, Ong Sin Seng & Lim Song Kie Bursary, NUS
+- *2019.02*, Third-Class Academic Scholarship, SJTU
 - *2018.12*, Zhiyuan Honors Scholarship, SJTU
 - *2018.10*, [Soh Bing Undergraduate Scholarship](https://en.wikipedia.org/wiki/Shuping_Scholarship), Shanghai
 - *2017.12*, Zhiyuan Honors Scholarship, SJTU
-- *2016.2*, [Soh Bing High School Student Scholarship](https://baike.baidu.com/item/%E5%8F%94%E8%98%8B%E5%A5%96%E5%AD%A6%E9%87%91/15518392), Fuyang
+- *2016.02*, [Soh Bing High School Student Scholarship](https://baike.baidu.com/item/%E5%8F%94%E8%98%8B%E5%A5%96%E5%AD%A6%E9%87%91/15518392), Fuyang
 
 # 💻 Internships
 
