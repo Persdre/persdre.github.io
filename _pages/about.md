@@ -32,7 +32,7 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 
 # 📝 First-author Publications 
 
-- [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [**Paper**](https://arxiv.org/abs/2310.01015) [**Code**](https://github.com/Persdre/EX-Graph)
+- [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://arxiv.org/abs/2310.01015) [Code](https://github.com/Persdre/EX-Graph)
 
 # 📖 Educations
 
@@ -42,7 +42,7 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 
 # 💬 Invited Talks
 
-- *2023.12*, Qian was invited to give a talk of [EX-Graph](https://arxiv.org/abs/2310.01015) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/)
+- *2023.12*, Qian was invited to give a talk of [EX-Graph](https://arxiv.org/abs/2310.01015) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). [Slides](https://drive.google.com/file/d/1Iy7wUvbZ-Z-7dLvlEY0CupCVrPX5GbyL/view?usp=sharing)
 
 # 🏆 Awards
 
