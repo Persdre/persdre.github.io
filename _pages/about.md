@@ -61,4 +61,5 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 - *2020.05 - 2020.08*, Python Tutor, InterMine, University of Cambridge
 
 # 🔥 Service
+- *2023.08 - Now*, Seminar Organizer, Xtra Lab, NUS
 - *2023.08 - Now*, Fire Warden, School of Computing, NUS
