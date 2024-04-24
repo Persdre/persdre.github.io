@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a Computer Science Ph.D. student at [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from [National University of Singapore](https://nus.edu.sg/). Before that, I was an undergraduate from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
 
-At present, my research interest lies in  **LLM Agents, Graph Neural Network, Natural Language Processing, and Blockchain**.
+At present, my research interest lies in  **LLM Agents and Cryptocurrency**.
 
 # 🔥 News
 - *2024.03*: &nbsp;LegalExpert winned The [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/) in NUS with SGD10K! LegalExpert offers immediate, professional legal explanations and document assistance powered by LLM technology. 
