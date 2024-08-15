@@ -22,7 +22,7 @@ I am now a Computer Science Ph.D. candidate at National University of Singapore,
 At present, my research interest lies in  **LLM Agents and Cryptocurrency**. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
 
 # 🔥 News
-- *2024.06*: &nbsp;Qian was invited to serve as a reviewer for ICLR 2025.
+- *2024.08*: &nbsp;Qian was invited to serve as a reviewer for ICLR 2025.
 - *2024.06*: &nbsp;Qian was invited to serve as a reviewer for NeurIPS 2024.
 - *2024.05*: &nbsp;Qian passed her Ph.D. Qualifying Examination.
 - *2024.03*: &nbsp;LegalExpert winned The [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/) in NUS with SGD10K! LegalExpert offers immediate, professional legal explanations and document assistance powered by LLM technology. [Slides](https://docs.google.com/presentation/d/1VvXjADW5UZHEzk2tE8Y0o1gxQUuDNCb6/edit?usp=sharing&ouid=105468601115621673213&rtpof=true&sd=true)
