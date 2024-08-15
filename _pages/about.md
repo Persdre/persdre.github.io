@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Computer Science Ph.D. candidate at [National University of Singapore](https://nus.edu.sg/), supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from [National University of Singapore](https://nus.edu.sg/). Before that, I was an undergraduate from [Zhiyuan College](https://en.zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). 
+I am now a Computer Science Ph.D. candidate at National University of Singapore, supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from National University of Singapore. Before that, I was an undergraduate from Zhiyuan College, Shanghai Jiao Tong University. 
 
 At present, my research interest lies in  **LLM Agents and Cryptocurrency**. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
 
 # 🔥 News
+- *2024.06*: &nbsp;Qian was invited to serve as a reviewer for ICLR 2025.
 - *2024.06*: &nbsp;Qian was invited to serve as a reviewer for NeurIPS 2024.
 - *2024.05*: &nbsp;Qian passed her Ph.D. Qualifying Examination.
 - *2024.03*: &nbsp;LegalExpert winned The [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/) in NUS with SGD10K! LegalExpert offers immediate, professional legal explanations and document assistance powered by LLM technology. [Slides](https://docs.google.com/presentation/d/1VvXjADW5UZHEzk2tE8Y0o1gxQUuDNCb6/edit?usp=sharing&ouid=105468601115621673213&rtpof=true&sd=true)
@@ -40,9 +41,9 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 
 # 📖 Educations
 
-- *2023.01 - Now*, Ph.D. Student, Computer Science, **National University of Singapore**
-- *2019.08 - 2022.12*, Bachelor, Computer Science with a Minor in Economics, **National University of Singapore**
-- *2017.09 - 2019.06*, Undergraduate, Chemistry, **Shanghai Jiao Tong University**
+- *2023.01 - Now*, Ph.D. Student, Computer Science, National University of Singapore
+- *2019.08 - 2022.12*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
+- *2017.09 - 2019.06*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
 # 💬 Invited Talks
 
