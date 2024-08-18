@@ -37,7 +37,7 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 
 - [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://arxiv.org/pdf/2310.01015) [Code](https://github.com/Persdre/EX-Graph)
 
-- A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. (Project Lead) [Paper](https://arxiv.org/pdf/2407.09546) [Code](https://anonymous.4open.science/r/CryptoTrade-Public-92FC/README.md)
+- A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [Paper](https://arxiv.org/pdf/2407.09546) [Code](https://anonymous.4open.science/r/CryptoTrade-Public-92FC/README.md)
 
 # 📖 Educations
 
