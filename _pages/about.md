@@ -39,6 +39,8 @@ Ethereum and X was accepted as a poster by ICLR 2024!
 
 - A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [Paper](https://arxiv.org/pdf/2407.09546) [Code](https://anonymous.4open.science/r/CryptoTrade-Public-92FC/README.md)
 
+- MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems. [Paper](https://arxiv.org/pdf/2408.09955) [Code](https://anonymous.4open.science/r/MegaAgent-81F3/README.md)
+
 # 📖 Educations
 
 - *2023.01 - Now*, Ph.D. Student, Computer Science, National University of Singapore
