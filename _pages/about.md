@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a Computer Science Ph.D. candidate at National University of Singapore, supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from National University of Singapore. Before that, I was an undergraduate from Zhiyuan College, Shanghai Jiao Tong University. 
 
-At present, my research interest lies in  **LLM Agents and Cryptocurrency**. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
+At present, my research interest lies in  **LLM Agents and Cryptocurrency**. I also have research experience in Graph Neural Networks and Deep Time Series Models. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
 
 # 🔥 News
 - *2024.08*: &nbsp;Qian won Research Achievement Award.
