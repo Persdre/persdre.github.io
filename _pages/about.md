@@ -48,7 +48,9 @@ At present, my research interest lies in  **LLM Agents and Cryptocurrency**. I a
 - *2019.08 - 2022.12*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
 - *2017.09 - 2019.06*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
-# 💬 Invited Talks
+# 💬 Invited Talks/Interviews
+- *2024.09*, Qian was interviewed by the Open Source Promotion Plan (OSPP), a summer program organized by the Institute of Software at the Chinese Academy of Sciences. You can read the interview [here](https://mp.weixin.qq.com/s/MWJtW-cB_wXkXHsOHy2m3Q).
+
 
 - *2023.12*, Qian was invited to give a talk of [EX-Graph](https://arxiv.org/abs/2310.01015) at The Hong Kong University of Science and Technology (Guangzhou). [Slides](https://drive.google.com/file/d/1Iy7wUvbZ-Z-7dLvlEY0CupCVrPX5GbyL/view?usp=sharing)
 
