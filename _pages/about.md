@@ -63,6 +63,9 @@ At present, my research interest lies in  **LLM Agents and Cryptocurrency**. I a
 - *2018.12*, Zhiyuan Honors Scholarship, SJTU
 - *2018.10*, [Soh Bing Undergraduate Scholarship](https://en.wikipedia.org/wiki/Shuping_Scholarship), Shanghai
 - *2017.12*, Zhiyuan Honors Scholarship, SJTU
+- *2017.09*, Zhiyuan Honors Program (Top 5% in all undergraduates), SJTU
+- *2017.06*, Top 0.1% in Chinese Science Gaokao, Anhui
+- *2017.04*, Top 0.3% in Tsinghua University's Independent Admission Program, Anhui
 - *2016.02*, [Soh Bing High School Student Scholarship](https://baike.baidu.com/item/%E5%8F%94%E8%98%8B%E5%A5%96%E5%AD%A6%E9%87%91/15518392), Fuyang
 
 # 💻 Internships
