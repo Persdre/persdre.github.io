@@ -37,7 +37,7 @@ At present, my research interest lies in  **LLM Agents and Cryptocurrency**. I a
 
 # 📝 Selective Publications 
 
-(I only list the first-author/leading papers here. My complete list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
+(I have listed some of my first-author and leading papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
 - [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. (Project Lead) [Paper](https://arxiv.org/pdf/2407.09546) [Code](https://github.com/Xtra-Computing/CryptoTrade)
 
 - [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://arxiv.org/pdf/2310.01015) [Code](https://github.com/Persdre/EX-Graph)
