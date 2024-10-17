@@ -42,7 +42,7 @@ At present, my research interest lies in  **LLM Agents and Cryptocurrency**. I a
 
 - [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://arxiv.org/pdf/2310.01015) [Code](https://github.com/Persdre/EX-Graph)
 
-- Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning [Paper](https://arxiv.org/abs/2410.12464) [Code](https://anonymous.4open.science/r/FS-ReasoningAgent-B55F/)
+- Enhancing LLM Trading Performance with Fact-Subjectivity Aware Reasoning. [Paper](https://arxiv.org/abs/2410.12464) [Code](https://anonymous.4open.science/r/FS-ReasoningAgent-B55F/)
 
 - MegaAgent: A Practical Framework for Autonomous Cooperation in Large-Scale LLM Agent Systems. [Paper](https://arxiv.org/pdf/2408.09955) [Code](https://anonymous.4open.science/r/MegaAgent-81F3/README.md)
 
