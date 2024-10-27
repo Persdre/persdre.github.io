@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, talented young minds visiting my website! **I am recruiting undergraduate/graduate research interns to co-author publications for top conferences.** I have successfully led multiple papers that resulted in strong publications (one ICLR, one EMNLP, two papers are in submission). Your authorship position—either first or second author—will be determined by the level of your contribution. I will also provide guidance on how to write a good paper and prepare for conferences/applications to PhD programs. If interested, please reach out as soon as possible.
+Hello, talented young minds visiting my website! **I am recruiting undergraduate/graduate research interns to co-author publications for top conferences.** I have successfully led multiple papers that resulted in strong publications (one ICLR, one EMNLP, two papers are in submission). Your authorship position—either first or second author—will be determined by the level of your contribution. I will also provide guidance on how to write a good paper and prepare for applications to PhD programs. If interested, please reach out as soon as possible.
 
 I am now a Computer Science Ph.D. candidate at National University of Singapore, supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from National University of Singapore. Before that, I was an undergraduate from Zhiyuan College, Shanghai Jiao Tong University. 
 
