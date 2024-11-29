@@ -38,10 +38,10 @@ At present, my research interest lies in  **LLM Agents, LLM Interpretability, LL
 - *2023.09*: &nbsp;Stablecoin On-Chain Vigilance Project was successfully included in the final selection for the [SBIP 2023](https://sbip.sg/)! [Slides](https://docs.google.com/presentation/d/1egOBX-0kWb7ZO5ix3bB3P6D8LU7zYlziTGbDKCzVIe8/edit?usp=sharing)
 
 
-# 📝 Selective Publications 
+# 📝 First-author Publications 
 
-(I have listed some of my first-author and leading papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
-- [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. (Project Lead) [Paper](https://arxiv.org/pdf/2407.09546) [Code](https://github.com/Xtra-Computing/CryptoTrade)
+(I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
+- [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [Paper](https://arxiv.org/pdf/2407.09546) [Code](https://github.com/Xtra-Computing/CryptoTrade)
 
 - [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://arxiv.org/pdf/2310.01015) [Code](https://github.com/Persdre/EX-Graph)
 
