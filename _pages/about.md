@@ -21,7 +21,7 @@ Hello, talented young minds visiting my website! **I am recruiting undergraduate
 
 I am now a Computer Science Ph.D. candidate at National University of Singapore, supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from National University of Singapore in 2022. Prior to that, I studied as an undergraduate at Zhiyuan Honors College, Shanghai Jiao Tong University, from 2017 to 2019. 
 
-At present, my research interest lies in  **LLM Agents, LLM Interpretability, LLM Reasoning, and Cryptocurrency**. I also have research experience in Graph Neural Networks and Deep Time Series Models. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
+At present, my research interest lies in  **LLM Agents, LLM Interpretability/Reasoning/Evaluation, and Cryptocurrency**. I also have research experience in Graph Neural Networks and Deep Time Series Models. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
 
 # 🔥 News
 - *2024.11*: &nbsp;One paper was accepted to ACM Computing Surveys.
