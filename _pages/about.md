@@ -35,8 +35,6 @@ At present, my research interest lies in  **LLM Agents, LLM Interpretability, LL
 - *2024.03*: &nbsp;LegalExpert won The [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/) in NUS with SGD10K! LegalExpert offers immediate, professional legal explanations and document assistance powered by LLM technology. [Slides](https://docs.google.com/presentation/d/1VvXjADW5UZHEzk2tE8Y0o1gxQUuDNCb6/edit?usp=sharing&ouid=105468601115621673213&rtpof=true&sd=true)
 - *2024.02*: &nbsp;Qian was invited to serve as a reviewer for SIGKDD 2024.
 - *2024.01*: &nbsp;Qian's first paper, where Qian was the first author, was accepted as a poster at ICLR 2024!
-- *2023.09*: &nbsp;Stablecoin On-Chain Vigilance Project was successfully included in the final selection for the [SBIP 2023](https://sbip.sg/)! [Slides](https://docs.google.com/presentation/d/1egOBX-0kWb7ZO5ix3bB3P6D8LU7zYlziTGbDKCzVIe8/edit?usp=sharing)
-
 
 # 📝 First-author Publications 
 
