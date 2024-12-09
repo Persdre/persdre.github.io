@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, talented young minds visiting my website! **I am recruiting undergraduate/graduate research interns to co-author publications for top conferences.** I have successfully led multiple papers that resulted in strong publications (one ICLR, one EMNLP, three papers are in submission). Your authorship position—either first or second author—will be determined by the level of your contribution. I will also provide guidance on how to write a good paper and prepare for applications to PhD programs. If interested, please reach out as soon as possible.
 
-I am now a Computer Science Ph.D. candidate at National University of Singapore, supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I got my bachelor degree from National University of Singapore in 2022. Prior to that, I studied as an undergraduate at Zhiyuan Honors College, Shanghai Jiao Tong University, from 2017 to 2019. 
+I am now a Computer Science Ph.D. candidate at National University of Singapore, supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
 
 At present, my research interest lies in  **LLM Agents, LLM Interpretability/Reasoning/Evaluation, and Cryptocurrency**. I also have research experience in Graph Neural Networks and Deep Time Series Models. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
 
@@ -45,35 +45,35 @@ At present, my research interest lies in  **LLM Agents, LLM Interpretability/Rea
 
 # 📖 Educations
 
-- *2023.01 - Now*, Ph.D. Student, Computer Science, National University of Singapore
-- *2019.08 - 2022.12*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
-- *2017.09 - 2019.06*, Undergraduate, Chemistry, Shanghai Jiao Tong University
+- *2023 - Now*, Ph.D. Student, Computer Science, National University of Singapore
+- *2019 - 2022*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
+- *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
 # 💬 Invited Talks/Interviews
-- *2024.09*, Qian was interviewed by the Open Source Promotion Plan (OSPP), a summer program organized by the Institute of Software at the Chinese Academy of Sciences. You can read the interview [here](https://mp.weixin.qq.com/s/MWJtW-cB_wXkXHsOHy2m3Q).
+- *2024*, Qian was interviewed by the Open Source Promotion Plan (OSPP), a summer program organized by the Institute of Software at the Chinese Academy of Sciences. You can read the interview [here](https://mp.weixin.qq.com/s/MWJtW-cB_wXkXHsOHy2m3Q).
 
 
-- *2023.12*, Qian was invited to give a talk of [EX-Graph](https://arxiv.org/abs/2310.01015) at The Hong Kong University of Science and Technology (Guangzhou). [Slides](https://drive.google.com/file/d/1Iy7wUvbZ-Z-7dLvlEY0CupCVrPX5GbyL/view?usp=sharing)
+- *2023*, Qian was invited to give a talk of [EX-Graph](https://arxiv.org/abs/2310.01015) at The Hong Kong University of Science and Technology (Guangzhou). [Slides](https://drive.google.com/file/d/1Iy7wUvbZ-Z-7dLvlEY0CupCVrPX5GbyL/view?usp=sharing)
 
 # 🏆 Awards
-- *2024.08*, Research Achievement Award, NUS
-- *2024.03*, [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
-- *2019.08 - 2022.08*, Ong Sin Seng & Lim Song Kie Bursary, NUS
-- *2019.02*, Third-Class Academic Scholarship, SJTU
-- *2018.12*, Zhiyuan Honors Scholarship, SJTU
-- *2018.10*, [Soh Bing Undergraduate Scholarship](https://en.wikipedia.org/wiki/Shuping_Scholarship), Shanghai
-- *2017.12*, Zhiyuan Honors Scholarship, SJTU
-- *2017.09*, Zhiyuan Honors Program (Top 5% in all undergraduates), SJTU
-- *2017.06*, Top 0.1% in Chinese Science Gaokao, Anhui
-- *2017.04*, Top 0.3% in Tsinghua University's Independent Admission Program, Anhui
-- *2016.02*, [Soh Bing High School Student Scholarship](https://baike.baidu.com/item/%E5%8F%94%E8%98%8B%E5%A5%96%E5%AD%A6%E9%87%91/15518392), Fuyang
+- *2024*, Research Achievement Award, NUS
+- *2024*, [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
+- *2019 - 2022*, Ong Sin Seng & Lim Song Kie Bursary, NUS
+- *2019*, Third-Class Academic Scholarship, SJTU
+- *2018*, Zhiyuan Honors Scholarship, SJTU
+- *2018*, [Soh Bing Undergraduate Scholarship](https://en.wikipedia.org/wiki/Shuping_Scholarship), Shanghai
+- *2017*, Zhiyuan Honors Scholarship, SJTU
+- *2017*, Zhiyuan Honors Program (Top 5% in all undergraduates), SJTU
+- *2017*, Top 0.1% in Chinese Science Gaokao, Anhui
+- *2017*, Top 0.3% in Tsinghua University's Independent Admission Program, Anhui
+- *2016*, [Soh Bing High School Student Scholarship](https://baike.baidu.com/item/%E5%8F%94%E8%98%8B%E5%A5%96%E5%AD%A6%E9%87%91/15518392), Fuyang
 
 # 💻 Internships
 
-- *2022.05 - 2022.08*, Algorithm Tutor, OI Wiki, GitHub
-- *2021.05 - 2021.08*, Backend Engineer Intern, Ant Group, Shanghai
-- *2020.05 - 2020.08*, Python Tutor, InterMine, University of Cambridge
+- *2022*, Algorithm Tutor, OI Wiki, GitHub
+- *2021*, Backend Engineer Intern, Ant Group, Shanghai
+- *2020*, Python Tutor, InterMine, University of Cambridge
 
 # 🔥 Service
-- *2023.08 - Now*, Seminar Organizer, Xtra Lab, NUS
-- *2023.08 - Now*, Fire Warden, School of Computing, NUS
+- *2023 - Now*, Seminar Organizer, Xtra Lab, NUS
+- *2023 - Now*, Fire Warden, School of Computing, NUS
