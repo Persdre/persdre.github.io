@@ -39,9 +39,9 @@ At present, my research interest lies in  **LLM Agents, LLM Interpretability/Rea
 # 📝 First-author Publications 
 
 (I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
-- [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [Paper](https://arxiv.org/pdf/2407.09546) [Code](https://github.com/Xtra-Computing/CryptoTrade)
+- [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [Paper](https://aclanthology.org/2024.emnlp-main.63.pdf) [Code](https://github.com/Xtra-Computing/CryptoTrade)
 
-- [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://arxiv.org/pdf/2310.01015) [Code](https://github.com/Persdre/EX-Graph)
+- [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://openreview.net/forum?id=juE0rWGCJW) [Code](https://github.com/Persdre/EX-Graph)
 
 # 📖 Educations
 
