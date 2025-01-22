@@ -24,7 +24,7 @@ I am now a Computer Science Ph.D. candidate at National University of Singapore,
 At present, my research interest lies in  **LLM Agents, LLM Interpretability/Reasoning/Evaluation, and Cryptocurrency**. I also have research experience in Graph Neural Networks and Deep Time Series Models. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
 
 # 🔥 News
-- *2025.01*: &nbsp;Two papers were accepted to ICLR 2025 BlogPosts Track.
+- *2025.01*: &nbsp;Two papers were accepted to ICLR 2025 BlogPosts Track. Looking forward to seeing you in Singapore!
 - *2025.01*: &nbsp;Qian was invited to serve as a Program Committee for IJCAI 2025.
 - *2024.11*: &nbsp;One paper was accepted to ACM Computing Surveys.
 - *2024.09*: &nbsp;One paper was accepted to NeurIPS 2024.
