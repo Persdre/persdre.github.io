@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, talented young minds visiting my website! **I am recruiting undergraduate/graduate research interns to co-author publications for top conferences.** I have successfully led multiple papers that resulted in strong publications (one ICLR, one EMNLP, three papers are in submission). Your authorship position—either first or second author—will be determined by the level of your contribution. I will also provide guidance on how to write a good paper and prepare for applications to PhD programs. If interested, please reach out as soon as possible.
+I am now a Computer Science Ph.D. candidate at National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
 
-I am now a Computer Science Ph.D. candidate at National University of Singapore, supervised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
-
-At present, my research interest lies in  **LLM Agents, LLM Interpretability/Reasoning/Evaluation, and Cryptocurrency**. I also have research experience in Graph Neural Networks and Deep Time Series Models. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com.
+At present, my research interest lies in **LLM Agents, LLM Reasoning/Evaluation, and Cryptocurrency**. I also have research experience in Graph Neural Networks and Deep Time Series Models. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com. I am always open to collaboration! 
 
 # 🔥 News
 - *2025.02*: &nbsp;One paper was accepted by TKDE.
 - *2025.02*: &nbsp;Qian was invited to serve as a reviewer for ICLR 2025 LLM Reason and Plan Workshop.
 - *2025.02*: &nbsp;Qian was invited to serve as a reviewer for ACL 2025.
-- *2025.01*: &nbsp;Two papers were accepted to ICLR 2025 BlogPosts Track. Looking forward to seeing you in Singapore!
+- *2025.01*: &nbsp;Two papers were accepted to ICLR 2025 BlogPosts Track. **Looking forward to seeing you in Singapore!**
 - *2025.01*: &nbsp;Qian was invited to serve as a Program Committee for IJCAI 2025.
 - *2024.11*: &nbsp;One paper was accepted to ACM Computing Surveys.
 - *2024.09*: &nbsp;One paper was accepted to NeurIPS 2024.
