@@ -44,9 +44,14 @@ At present, my research interest lies in  **LLM Agents, LLM Interpretability/Rea
 # 📝 First-author Publications 
 
 (I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
+
+- [ICLR 2025 Blogposts Track] From ChatGPT to DeepSeek: Can LLMs Simulate Humanity? [Paper](https://arxiv.org/pdf/2502.18210) 
+
 - [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [Paper](https://aclanthology.org/2024.emnlp-main.63.pdf) [Code](https://github.com/Xtra-Computing/CryptoTrade)
 
 - [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://openreview.net/forum?id=juE0rWGCJW) [Code](https://github.com/Persdre/EX-Graph)
+
+- [Bachelor Dissertation] Analyzing the Profiles of Celebrities in NFT: A Graph Analysis. [Paper](https://drive.google.com/file/d/1QKU7hlRi2CDLEx6TAjq4lw5-BlXSIdgd/view)
 
 # 📖 Educations
 
@@ -62,15 +67,13 @@ At present, my research interest lies in  **LLM Agents, LLM Interpretability/Rea
 
 # 🏆 Awards
 - *2024*, Research Achievement Award, NUS
-- *2024*, [Venture Initiation Program@SoC](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
+- *2024*, [Venture Initiation Program@SoC (10K SGD)](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
 - *2019 - 2022*, Ong Sin Seng & Lim Song Kie Bursary, NUS
-- *2019*, Third-Class Academic Scholarship, SJTU
+- *2019*, Academic Scholarship, SJTU
 - *2018*, Zhiyuan Honors Scholarship, SJTU
 - *2018*, [Soh Bing Undergraduate Scholarship](https://en.wikipedia.org/wiki/Shuping_Scholarship), Shanghai
 - *2017*, Zhiyuan Honors Scholarship, SJTU
 - *2017*, Zhiyuan Honors Program (Top 5% in all undergraduates), SJTU
-- *2017*, Top 0.1% in Chinese Science Gaokao, Anhui
-- *2017*, Top 0.3% in Tsinghua University's Independent Admission Program, Anhui
 - *2016*, [Soh Bing High School Student Scholarship](https://baike.baidu.com/item/%E5%8F%94%E8%98%8B%E5%A5%96%E5%AD%A6%E9%87%91/15518392), Fuyang
 
 # 💻 Internships
