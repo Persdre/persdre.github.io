@@ -58,6 +58,9 @@ At present, my research interest lies in **LLM Agents, LLM Reasoning/Evaluation,
 - *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
 # 💬 Invited Talks/Interviews
+- *2025*, Qian was invited to give a talk about her ICLR 2025 BlogPost "Can LLMs truly Simulate Humanity? A Deep Dive" by AI Time. You can watch the video [here](https://www.bilibili.com/video/BV1JuRPYRECM/?share_source=copy_web&vd_source=cc8bcf9a00d3f9ba43eb256a2c7068bd).
+
+
 - *2024*, Qian was interviewed by the Open Source Promotion Plan (OSPP), a summer program organized by the Institute of Software at the Chinese Academy of Sciences. You can read the interview [here](https://mp.weixin.qq.com/s/MWJtW-cB_wXkXHsOHy2m3Q).
 
 
