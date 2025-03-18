@@ -22,7 +22,7 @@ I am now a Computer Science Ph.D. candidate at National University of Singapore,
 At present, my research interest lies in **LLM Agents, LLM Reasoning/Evaluation/Safety/Fairness, and Cryptocurrency**. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. I also have research experience in Graph Neural Networks and Deep Time Series Models. If you have any questions or research topics you'd like to discuss, please feel free to contact me at persdre@gmail.com. I am always open to collaboration! 
 
 # 🔥 News
-- *2025.03*: &nbsp;Two paper were accepted by ICLR 2025 FM-Wild Workshop.
+- *2025.03*: &nbsp;Two paper were accepted by ICLR 2025 FM-Wild Workshop. One was selected as oral (10/140).
 - *2025.03*: &nbsp;One paper was accepted by ICLR 2025 Advances in Financial AI Workshop.
 - *2025.02*: &nbsp;One paper was accepted by TKDE.
 - *2025.02*: &nbsp;Qian was invited to serve as a reviewer for ICLR 2025 LLM Reason and Plan Workshop.
@@ -43,9 +43,9 @@ At present, my research interest lies in **LLM Agents, LLM Reasoning/Evaluation/
 
 (I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
 
-- [ICLR 2025 FM-Wild Workshop] AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems [Paper](https://openreview.net/forum?id=0iLbiYYIpC&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
+- [ICLR 2025 FM-Wild Workshop (Oral)] All It Takes Is One Prompt: An Autonomous LLM-MA System [Paper](https://openreview.net/forum?id=mSKj2bCWRr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
 
-- [ICLR 2025 FM-Wild Workshop] All It Takes Is One Prompt: An Autonomous LLM-MA System [Paper](https://openreview.net/forum?id=mSKj2bCWRr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
+- [ICLR 2025 FM-Wild Workshop] AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems [Paper](https://openreview.net/forum?id=0iLbiYYIpC&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
 
 
 - [ICLR 2025 Blogposts Track] From ChatGPT to DeepSeek: Can LLMs Simulate Humanity? [Paper](https://arxiv.org/pdf/2502.18210) 
