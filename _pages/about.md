@@ -57,8 +57,6 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 - [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://openreview.net/forum?id=juE0rWGCJW) [Code](https://github.com/Persdre/EX-Graph)
 
-- [Bachelor Dissertation] Analyzing the Profiles of Celebrities in NFT: A Graph Analysis. [Paper](https://drive.google.com/file/d/1QKU7hlRi2CDLEx6TAjq4lw5-BlXSIdgd/view)
-
 # 📖 Educations
 
 - *2023 - Now*, Ph.D. Student, Computer Science, National University of Singapore
