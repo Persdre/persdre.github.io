@@ -57,12 +57,6 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 - [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://openreview.net/forum?id=juE0rWGCJW) [Code](https://github.com/Persdre/EX-Graph)
 
-# 📖 Educations
-
-- *2023 - Now*, Ph.D. Student, Computer Science, National University of Singapore
-- *2019 - 2022*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
-- *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
-
 # 💬 Invited Talks/Interviews
 - *2025*, Qian was invited to give a talk about LLM-based human simulations, invited by [Yunhai Wang](https://www.yunhaiwang.net/) of Renmin University of China. [Slides](https://docs.google.com/presentation/d/1o1QLzx59E2pbUxGg935crnCGPt-fww4nTpRZ5KONi_w/edit?usp=sharing)
   
@@ -73,6 +67,12 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 
 - *2023*, Qian was invited to give a talk of [EX-Graph](https://arxiv.org/abs/2310.01015) at The Hong Kong University of Science and Technology (Guangzhou). [Slides](https://drive.google.com/file/d/1Iy7wUvbZ-Z-7dLvlEY0CupCVrPX5GbyL/view?usp=sharing)
+
+# 📖 Educations
+
+- *2023 - Now*, Ph.D. Student, Computer Science, National University of Singapore
+- *2019 - 2022*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
+- *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
 # 🏆 Awards
 - *2024*, Research Achievement Award, NUS
