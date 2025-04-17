@@ -24,6 +24,7 @@ At present, my research interest lies in **LLM Agents, LLM Reasoning/Evaluation/
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com or add me on WeChat (codemuse). I’m always open to collaboration! 
 
 # 🔥 News
+- *2025.04*: &nbsp;Qian was invited to serve as a reviewer for NeurIPS 2025
 - *2025.04*: &nbsp;One paper was accepted as oral by AI4X 2025.
 - *2025.03*: &nbsp;One paper was accepted by JMIR Infodemiology after a two-year review process.
 - *2025.03*: &nbsp;Two paper were accepted by ICLR 2025 FM-Wild Workshop. One was selected as oral (10/140).
