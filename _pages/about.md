@@ -24,6 +24,7 @@ At present, my research interest lies in **LLM Agents, LLM Reasoning/Evaluation/
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com or add me on WeChat (codemuse). I’m always open to collaboration! 
 
 # 🔥 News
+- *2025.05*: &nbsp;One paper was accepted by ACL 2025 Findings.
 - *2025.04*: &nbsp;Qian was invited to serve as a reviewer for NeurIPS 2025.
 - *2025.04*: &nbsp;One paper was accepted as oral by AI4X 2025.
 - *2025.03*: &nbsp;One paper was accepted by JMIR Infodemiology after a two-year review process.
@@ -47,10 +48,9 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 (I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
 
-- [ICLR 2025 FM-Wild Workshop] (Oral) All It Takes Is One Prompt: An Autonomous LLM-MA System [Paper](https://openreview.net/forum?id=mSKj2bCWRr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
+- [ACL 2025 Findings] [ICLR 2025 FM-Wild Workshop (Oral)] All It Takes Is One Prompt: An Autonomous LLM-MA System [Paper](https://openreview.net/forum?id=mSKj2bCWRr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
 
 - [ICLR 2025 FM-Wild Workshop] AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems [Paper](https://openreview.net/forum?id=0iLbiYYIpC&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
-
 
 - [ICLR 2025 Blogposts Track] From ChatGPT to DeepSeek: Can LLMs Simulate Humanity? [Paper](https://arxiv.org/pdf/2502.18210) 
 
