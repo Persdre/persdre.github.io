@@ -49,7 +49,7 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 (I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
 
-- [ACL 2025 Findings] & [ICLR 2025 FM-Wild Workshop (Oral)] All It Takes Is One Prompt: An Autonomous LLM-MA System [Paper](https://openreview.net/forum?id=mSKj2bCWRr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
+- [ACL 2025 Findings] & [ICLR 2025 FM-Wild Workshop (Oral)] MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs [Paper](https://arxiv.org/abs/2408.09955) [Code](https://github.com/Xtra-Computing/MegaAgent)
 
 - [ICLR 2025 FM-Wild Workshop] AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems [Paper](https://openreview.net/forum?id=0iLbiYYIpC&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
 
