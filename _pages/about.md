@@ -77,6 +77,7 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 - *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
 # 🏆 Awards
+- *2025*, Graduate Student Travel Grant, NUS
 - *2024*, Research Achievement Award, NUS
 - *2024*, [Venture Initiation Program@SoC (10K SGD)](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
 - *2019 - 2022*, Ong Sin Seng & Lim Song Kie Bursary, NUS
