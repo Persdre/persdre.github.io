@@ -19,11 +19,12 @@ redirect_from:
 
 I am now a Computer Science Ph.D. candidate at National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
 
-At present, my research interest lies in **LLM Multi-agent Systems; LLM Reasoning/Evaluation/Safety and Cryptocurrency**. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. I also have research experience in Graph Neural Networks and Deep Time Series Models. 
+At present, my research interest lies in **LLM Multi-Agent Systems; LLM Reasoning/Evaluation/Safety and Cryptocurrency**. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. I also have research experience in Graph Neural Networks and Deep Time Series Models. 
 
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com or add me on WeChat (codemuse). I’m always open to collaboration! 
 
 # 🔥 News
+- *2025.06*: &nbsp;Two papers were accepted by ICML 2025 Multi-Agent Systems Workshop.
 - *2025.06*: &nbsp;Qian was invited to serve as a PC member by CIKM 2025.
 - *2025.05*: &nbsp;One full paper was accepted by KSEM 2025 (Acceptance Rate: 20%).
 - *2025.05*: &nbsp;Qian was invited to serve as a reviewer for ICML 2025 LLM Multi-Agent Systems Workshop.
