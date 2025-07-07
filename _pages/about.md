@@ -90,7 +90,6 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 # 💻 Internships
 
-- *2025*, LLM Agent Research Intern, Sea AI Lab, Singapore
 - *2022*, Algorithm Tutor, OI Wiki, GitHub
 - *2021*, Backend Engineer Intern, Ant Group, Shanghai
 - *2020*, Python Tutor, InterMine, University of Cambridge
