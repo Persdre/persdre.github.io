@@ -24,7 +24,7 @@ At present, my research interest lies in **LLM Multi-Agent Systems; LLM Reasonin
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com or add me on WeChat (codemuse). <span style="color:#800020;">I am always open to collaborations. If you share similar interests or see potential synergies, please feel free to reach out via email!</span>
 
 # 🔥 News
-- *2025.07*: &nbsp;One paper was accepted by COLM 2025.
+- *2025.07*: &nbsp;One paper was accepted by COLM 2025. **Looking forward to seeing you in Montreal!**
 - *2025.06*: &nbsp;Two papers were accepted by ICML 2025 Multi-Agent Systems Workshop.
 - *2025.06*: &nbsp;Qian was invited to serve as a PC member by CIKM 2025.
 - *2025.05*: &nbsp;One full paper was accepted by KSEM 2025 (Acceptance Rate: 20%).
