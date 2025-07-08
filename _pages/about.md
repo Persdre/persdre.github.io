@@ -24,6 +24,7 @@ At present, my research interest lies in **LLM Multi-Agent Systems; LLM Reasonin
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com or add me on WeChat (codemuse). <span style="color:#800020;">I am always open to collaborations. If you share similar interests or see potential synergies, please feel free to reach out via email!</span>
 
 # 🔥 News
+- *2025.07*: &nbsp;One paper was accepted by COLM 2025.
 - *2025.06*: &nbsp;Two papers were accepted by ICML 2025 Multi-Agent Systems Workshop.
 - *2025.06*: &nbsp;Qian was invited to serve as a PC member by CIKM 2025.
 - *2025.05*: &nbsp;One full paper was accepted by KSEM 2025 (Acceptance Rate: 20%).
@@ -49,9 +50,9 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 (I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
 
-- [ACL 2025 Findings] & [ICLR 2025 FM-Wild Workshop (Oral)] MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs [Paper](https://arxiv.org/abs/2408.09955) [Code](https://github.com/Xtra-Computing/MegaAgent)
+- [COLM 2025] Assessing Judging Bias in Large Reasoning Models: An Empirical Study [Paper](https://arxiv.org/abs/2504.09946)
 
-- [ICLR 2025 FM-Wild Workshop] AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems [Paper](https://openreview.net/forum?id=0iLbiYYIpC&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FWorkshop%2FFM-Wild%2FAuthors%23your-submissions))
+- [ACL 2025 Findings] & [ICLR 2025 FM-Wild Workshop (Oral)] MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs [Paper](https://arxiv.org/abs/2408.09955) [Code](https://github.com/Xtra-Computing/MegaAgent)
 
 - [ICLR 2025 Blogposts Track] From ChatGPT to DeepSeek: Can LLMs Simulate Humanity? [Paper](https://arxiv.org/pdf/2502.18210) 
 
