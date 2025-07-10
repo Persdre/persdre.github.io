@@ -61,6 +61,9 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 - [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://openreview.net/forum?id=juE0rWGCJW) [Code](https://github.com/Persdre/EX-Graph)
 
 # 💬 Invited Talks/Interviews
+
+- *2025*, Qian was invited to give a talk about how to utilize LLMs to make trading decisions in cryptocurrency market at AI4X 2025.
+
 - *2025*, Qian was invited to give a talk about LLM-based human simulations, invited by [Yunhai Wang](https://www.yunhaiwang.net/) of Renmin University of China. [Slides](https://docs.google.com/presentation/d/1o1QLzx59E2pbUxGg935crnCGPt-fww4nTpRZ5KONi_w/edit?usp=sharing)
   
 - *2025*, Qian was invited to give a talk about her ICLR 2025 BlogPost "Can LLMs Truly Simulate Humanity? A Deep Dive" by AI Time. You can watch the video [here](https://www.bilibili.com/video/BV1JuRPYRECM/?share_source=copy_web&vd_source=cc8bcf9a00d3f9ba43eb256a2c7068bd).
