@@ -44,8 +44,7 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 - *2024.09*: &nbsp;One paper was accepted to NeurIPS 2024.
 - *2024.09*: &nbsp;Qian was invited to serve as a Program Committee for AAAI 2025.
 - *2024.09*: &nbsp;One paper was accepted to EMNLP 2024 (Main).
-- *2024.08*: &nbsp;Qian won Research Achievement Award.
-
+  
 # 📝 First-author Publications 
 
 (I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
