@@ -24,7 +24,7 @@ At present, my research interest lies in **LLM Multi-Agent Systems; LLM Reasonin
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com or add me on WeChat (codemuse). <span style="color:#800020;">I am always open to collaborations. If you share similar interests or see potential synergies, please feel free to reach out via email!</span>
 
 # 🔥 News
-
+- *2025.09*: Serve as a reviewer for MTI-LLM @ NeurIPS 2025.
 - *2025.08*: &nbsp;Our work [Position: The Current AI Conference Model is Unsustainable! Diagnosing the Crisis of Centralized AI Conference](https://arxiv.org/abs/2508.04586) was reported by 机器之心 and 新智元. [Article](https://mp.weixin.qq.com/s/jRkiOny77nwTHTfxppc03g) [Article](https://mp.weixin.qq.com/s/rCgF0IgPf9pk6yhkCQqZVg) Congrats to all collaborators!
 - *2025.07*: &nbsp;One paper was accepted by COLM 2025. **Looking forward to seeing you in Montreal!**
 - *2025.06*: &nbsp;Two papers were accepted by ICML 2025 Multi-Agent Systems Workshop.
@@ -43,9 +43,6 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 - *2025.01*: &nbsp;Two papers were accepted to ICLR 2025 BlogPosts Track. **Looking forward to seeing you in Singapore!**
 - *2025.01*: &nbsp;Qian was invited to serve as a Program Committee for IJCAI 2025.
 - *2024.11*: &nbsp;One paper was accepted to ACM Computing Surveys.
-- *2024.09*: &nbsp;One paper was accepted to NeurIPS 2024.
-- *2024.09*: &nbsp;Qian was invited to serve as a Program Committee for AAAI 2025.
-- *2024.09*: &nbsp;One paper was accepted to EMNLP 2024 (Main).
   
 # 📝 First-author Publications 
 
