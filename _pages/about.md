@@ -69,7 +69,7 @@ Here are a couple of projects I'm proud of:
 
 # 💬 Invited Talks/Interviews
 
-- *2025*, Qian was invited to give a talk at Qube Research & Technologies’ Singapore office on leveraging LLMs to make fair and unbiased judgments about trading factors.
+- *2025*, Qian was invited to give a talk at Qube Research & Technologies’ Singapore office on leveraging LLMs to make fair and unbiased judgments about factors.
 
 
 - *2025*, Qian was invited to give a talk about how to utilize LLMs to make trading decisions in cryptocurrency market at AI4X 2025.
