@@ -19,7 +19,8 @@ redirect_from:
 
 I am now a Computer Science Ph.D. candidate at National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
 
-At present, my research interest lies in **LLM Multi-Agent Systems; LLM Reasoning/Evaluation/Safety and Cryptocurrency**. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. I also have research experience in Graph Neural Networks and Deep Time Series Models. 
+At present, my research interest lies in **LLM Multi-Agent Systems; LLM Reasoning/Evaluation/Safety and Cryptocurrency**. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. In addition, I have a strong interest in quantitative trading and practical experience through Kaggle-based quantitative research projects.
+
 
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com. <span style="color:#800020;">I am always open to collaborations. If you share similar interests or see potential synergies, please feel free to reach out via email!</span>
 
