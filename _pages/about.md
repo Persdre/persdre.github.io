@@ -114,5 +114,6 @@ Here are a couple of projects I'm proud of:
 - *2020*, Python Tutor, InterMine, University of Cambridge
 
 # 🔥 Service
+- *2025*, ICAIF 2025 Secure FinAI Contest Local Organizer
 - *2023 - Now*, Seminar Organizer, Xtra Lab, NUS
 - *2023 - Now*, Fire Warden, School of Computing, NUS
