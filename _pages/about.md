@@ -49,7 +49,7 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 - *2025.01*: &nbsp;Qian was invited to serve as a Program Committee for IJCAI 2025.
 - *2024.11*: &nbsp;One paper was accepted to ACM Computing Surveys.
   
-# 📝 First-author Publications 
+# 📝 Selective Publications 
 
 (I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
 
@@ -57,7 +57,7 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 - [ACL 2025 Findings] & [ICLR 2025 FM-Wild Workshop (Oral)] MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs [Paper](https://arxiv.org/abs/2408.09955) [Code](https://github.com/Xtra-Computing/MegaAgent)
 
-- [ICLR 2025 Blogposts Track] From ChatGPT to DeepSeek: Can LLMs Simulate Humanity? [Paper](https://arxiv.org/pdf/2502.18210) 
+- [LOG 2025 Oral] Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs
 
 - [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [Paper](https://aclanthology.org/2024.emnlp-main.63.pdf) [Code](https://github.com/Xtra-Computing/CryptoTrade)
 
