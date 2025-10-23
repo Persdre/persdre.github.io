@@ -67,15 +67,14 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 Here are a couple of projects I'm proud of:
 
-- **SurviveSJTU Manual:** I authored a chapter for the latest edition of the SurviveSJTU Manual—an online survival guide for students at Shanghai Jiao Tong University. You can browse the manual and my contributions on GitHub [here](https://github.com/SurviveSJTU/SurviveSJTUManual).
-
 - **QRT Football Game Prediction:** In the Kaggle-like QRT Data Challenge “Football: Can you guess the winner?”, I ranked 6th out of about 900 participants. You can read more about the challenge [here](https://challengedata.ens.fr/challenges/143).
+
+- **SurviveSJTU Manual:** I authored a chapter for the latest edition of the SurviveSJTU Manual—an online survival guide for students at Shanghai Jiao Tong University. You can browse the manual and my contributions on GitHub [here](https://github.com/SurviveSJTU/SurviveSJTUManual).
 
 
 # 💬 Invited Talks/Interviews
 
 - *2025*, Qian was invited to give a talk at Qube Research & Technologies’ Singapore office on leveraging LLMs to make fair and unbiased judgments about factors.
-
 
 - *2025*, Qian was invited to give a talk about how to utilize LLMs to make trading decisions in cryptocurrency market at AI4X 2025.
 
