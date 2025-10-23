@@ -28,6 +28,7 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 
 # 🔥 News
+- *2025.10*: &nbsp;One paper was accepted by LOG 2025 as an oral. 
 - *2025.10*: &nbsp;One paper was accepted by NeurIPS 2025 Lock-LLM workshop. [Towards Evaluating Fake Reasoning Bias in Language Models](https://arxiv.org/abs/2507.13758).
 - *2025.09*: &nbsp;Serve as a reviewer for MTI-LLM @ NeurIPS 2025 & ICLR 2026.
 - *2025.08*: &nbsp;Our work [Position: The Current AI Conference Model is Unsustainable! Diagnosing the Crisis of Centralized AI Conference](https://arxiv.org/abs/2508.04586) was reported by 机器之心 and 新智元. [Article](https://mp.weixin.qq.com/s/jRkiOny77nwTHTfxppc03g) [Article](https://mp.weixin.qq.com/s/rCgF0IgPf9pk6yhkCQqZVg) Congrats to all collaborators!
