@@ -35,7 +35,6 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 - *2025.07*: &nbsp;One paper was accepted by COLM 2025. **Looking forward to seeing you in Montreal!**
 - *2025.06*: &nbsp;Two papers were accepted by ICML 2025 Multi-Agent Systems Workshop.
 - *2025.06*: &nbsp;Qian was invited to serve as a PC member by CIKM 2025.
-- *2025.05*: &nbsp;One full paper was accepted by KSEM 2025 (Acceptance Rate: 20%).
 - *2025.05*: &nbsp;Qian was invited to serve as a reviewer for ICML 2025 LLM Multi-Agent Systems Workshop.
 - *2025.05*: &nbsp;One paper was accepted by ACL 2025 Findings. **Looking forward to seeing you in Vienna!**
 - *2025.04*: &nbsp;Qian was invited to serve as a reviewer for NeurIPS 2025.
