@@ -31,7 +31,7 @@ I welcome connections and enjoy discussing a variety of topics, including (but n
 
 <iframe 
   src="https://calendar.google.com/calendar/embed?src=persdre%40gmail.com&ctz=Asia%2FSingapore"
-  style="border: 0; width: 100%; height: 700px;"
+  style="border: 0; width: 80%; height: 400px;"
   frameborder="0"
   scrolling="no">
 </iframe>
