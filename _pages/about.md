@@ -23,8 +23,18 @@ I am now a Computer Science Ph.D. candidate at National University of Singapore,
 
 At present, my research interest lies in **LLM Multi-Agent Systems; LLM Reasoning/Evaluation/Safety and Cryptocurrency**. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. In addition, I have a strong interest in quantitative trading and practical experience through Kaggle-based quantitative research projects.
 
-
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com. <span style="color:#800020;">I am always open to collaborations. If you share similar interests or see potential synergies, please feel free to reach out via email!</span>
+
+I welcome connections and enjoy discussing a variety of topics, including (but not limited to) life choices, PhD applications, research, and personal experiences. I offer 30-minute chats, and we can converse in either English or Chinese. You can schedule a time that works for you here:
+
+<h2>My Public Calendar</h2>
+
+<iframe 
+  src="https://calendar.google.com/calendar/embed?src=persdre%40gmail.com&ctz=Asia%2FSingapore"
+  style="border: 0; width: 100%; height: 700px;"
+  frameborder="0"
+  scrolling="no">
+</iframe>
 
 
 # 🔥 News
