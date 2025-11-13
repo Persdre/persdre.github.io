@@ -25,7 +25,7 @@ At present, my research interest lies in **LLM Multi-Agent Systems; LLM Reasonin
 
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com. <span style="color:#800020;">I am always open to collaborations. If you share similar interests or see potential synergies, please feel free to reach out via email!</span>
 
-I welcome connections and enjoy discussing a variety of topics, including (but not limited to) life choices, PhD applications, research, and personal experiences. I offer 30-minute chats, and we can converse in either English or Chinese. You can schedule a time that works for you here:
+And I welcome connections and enjoy discussing a variety of topics, including (but not limited to) life choices, PhD applications, research, and personal relationships. I offer 30-minute chats, and we can converse in either English or Chinese. If you're interested, please send me an email with a few time slots that work for both of us, and we can schedule a time.
 
 <h2>My Public Calendar</h2>
 
