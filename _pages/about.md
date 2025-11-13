@@ -28,6 +28,7 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 
 
 # 🔥 News
+- *2025.11*: &nbsp;Nominated as CVPR 2026 reviewer.
 - *2025.10*: &nbsp;One paper was accepted by LOG 2025 as an oral. 
 - *2025.10*: &nbsp;One paper was accepted by NeurIPS 2025 Lock-LLM workshop. [Towards Evaluating Fake Reasoning Bias in Language Models](https://arxiv.org/abs/2507.13758).
 - *2025.09*: &nbsp;Serve as a reviewer for MTI-LLM @ NeurIPS 2025 & ICLR 2026.
