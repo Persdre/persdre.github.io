@@ -58,7 +58,7 @@ And I welcome connections and enjoy discussing a variety of topics, including (b
 - *2025.02*: &nbsp;Qian was invited to serve as a reviewer for ACL 2025.
 - *2025.01*: &nbsp;Two papers were accepted to ICLR 2025 BlogPosts Track. **Looking forward to seeing you in Singapore!**
 - *2025.01*: &nbsp;Qian was invited to serve as a Program Committee for IJCAI 2025.
-- *2024.11*: &nbsp;One paper was accepted to ACM Computing Surveys.
+
   
 # 📝 Selective Publications 
 
