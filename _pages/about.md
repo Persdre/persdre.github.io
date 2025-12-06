@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="color:#800020;">Update: I am actively seeking internship opportunities starting in January 2026 or May 2026. If my research and profile align with your interests, please feel free to contact me at persdre@gmail.com.</span>
-
 I am now a Computer Science Ph.D. candidate at National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
 
 At present, my research interest lies in **LLM Multi-Agent Systems and Trustworthy AI**. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. In addition, I have a strong interest in quantitative trading and practical experience through Kaggle-based quantitative research projects.
