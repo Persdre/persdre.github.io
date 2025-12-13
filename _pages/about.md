@@ -36,7 +36,7 @@ And I welcome connections and enjoy discussing a variety of topics, including (b
 
 
 # 🔥 News
-- *2025.12*: &nbsp;Two papers were accepted by AAAI 2026 AI4Research Workshop.
+- *2025.12*: &nbsp;Two papers were accepted by AAAI 2026 AI4Research Workshop. **Looking forward to seeing you in Singapore!**
 - *2025.11*: &nbsp;Nominated as CVPR 2026 reviewer.
 - *2025.10*: &nbsp;One paper was accepted by LOG 2025 as an oral. 
 - *2025.10*: &nbsp;One paper was accepted by NeurIPS 2025 Lock-LLM workshop. [Towards Evaluating Fake Reasoning Bias in Language Models](https://arxiv.org/abs/2507.13758).
