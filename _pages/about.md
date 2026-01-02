@@ -118,6 +118,7 @@ Here are a couple of projects I'm proud of:
 
 # 💻 Internships
 
+- *01/2026-Now*, Quant Researcher on factor improvement with LLM-based MAS, MS Capital, Singapore
 - *2022*, Algorithm Tutor, OI Wiki, GitHub
 - *2021*, Backend Engineer Intern, Ant Group, Shanghai
 - *2020*, Python Tutor, InterMine, University of Cambridge
