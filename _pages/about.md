@@ -36,7 +36,7 @@ And I welcome connections and enjoy discussing a variety of topics, including (b
 
 
 # 🔥 News
-- *2026.01*: &nbsp;One paper was accepted by ICLR 2026. **Looking forward to seeing you in Rio de Janeiro!**
+- *2026.01*: &nbsp;One paper was accepted by ICLR 2026. 
 - *2026.01*: &nbsp;Qian will present her works on LLM-as-a-judge bias on SSNLP 2026. **Looking forward to seeing you in SUTD!**
 - *2025.12*: &nbsp;Two papers were accepted by AAAI 2026 AI4Research Workshop. **Looking forward to seeing you in Singapore!**
 - *2025.11*: &nbsp;Nominated as CVPR 2026 reviewer.
