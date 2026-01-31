@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Thoughts"
+    url: "/blog/"
+
   - title: "About Me"
     url: "/#about-me"
 
@@ -8,7 +11,7 @@ main:
 
   - title: "First-author Publications"
     url: "/#-first-author-publications"
-  
+
   - title: "Projects"
     url: "/#-projects"
 
@@ -26,6 +29,3 @@ main:
 
   - title: "Service"
     url: "/#-service"
-
-  - title: "Thoughts"
-    url: "/blog/"

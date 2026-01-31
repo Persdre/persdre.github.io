@@ -34,6 +34,11 @@ And I welcome connections and enjoy discussing a variety of topics, including (b
   scrolling="no">
 </iframe>
 
+# 💭 Thoughts
+
+<div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+Beyond research, I enjoy reflecting on ideas, life, and everything in between. Visit my <a href="/blog/"><strong>Thoughts</strong></a> page where I share essays and reflections on topics ranging from productivity to the PhD journey.
+</div>
 
 # 🔥 News
 - *2026.01*: &nbsp;One paper was accepted by ICLR 2026. 
