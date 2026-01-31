@@ -26,3 +26,6 @@ main:
 
   - title: "Service"
     url: "/#-service"
+
+  - title: "Thoughts"
+    url: "/blog/"
