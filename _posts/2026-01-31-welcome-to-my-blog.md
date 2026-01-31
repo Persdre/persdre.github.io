@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Thoughts"
 date: 2026-01-31
-layout: default
+excerpt: ""
 author_profile: true
 ---
 
