@@ -11,10 +11,22 @@ author_profile: true
 
 Here I share some reflections on research, life, and everything in between.
 
-{% for post in site.posts %}
-- *{{ post.date | date: "%Y.%m" }}*: &nbsp;[{{ post.title }}]({{ post.url }})
+## Paul Graham Essays
+
+{% for essay in site.essays %}
+{% if essay.path contains 'paul-graham' %}
+- [{{ essay.title }}]({{ essay.url }})
+{% endif %}
 {% endfor %}
 
-{% if site.posts.size == 0 %}
-No posts yet. Stay tuned!
+## Joel Spolsky Essays
+
+{% for essay in site.essays %}
+{% if essay.path contains 'joel-spolsky' %}
+- [{{ essay.title }}]({{ essay.url }})
+{% endif %}
+{% endfor %}
+
+{% if site.essays.size == 0 %}
+No essays yet. Stay tuned!
 {% endif %}

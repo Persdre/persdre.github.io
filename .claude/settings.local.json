@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:paulgraham.com)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd 20 more Paul Graham essay reflections \\(100 total\\)\n\nNew essays covering:\n- Writes and Write-Nots, The Reddits, The Airbnbs\n- Billionaires Build, Alien Truth, Persuade xor Discover\n- What Happened to Yahoo, The Acceleration of Addictiveness\n- What Startups Are Really Like, Ramen Profitable\n- The Power of the Marginal, Be Good, and more\n\nAll written from builder/founder perspective.\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "WebFetch(domain:www.paulgraham.com)",
+      "Bash(git commit:*)",
+      "Bash(ls:*)",
+      "WebFetch(domain:www.joelonsoftware.com)"
+    ]
+  }
+}

@@ -60,11 +60,18 @@ author:
   zhihu            : "xiao-fan-90"
 
 
+# Collections
+collections:
+  essays:
+    output: true
+    permalink: /essays/:path/
+
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
+  - _essays
 exclude:
   - docs
   - google_scholar_crawler
@@ -124,6 +131,13 @@ defaults:
   - scope:
       path: ""
       type: pages
+    values:
+      layout: default
+      author_profile: true
+  # _essays
+  - scope:
+      path: ""
+      type: essays
     values:
       layout: default
       author_profile: true
