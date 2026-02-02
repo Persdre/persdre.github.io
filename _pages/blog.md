@@ -5,11 +5,11 @@ excerpt: ""
 author_profile: true
 ---
 
-<span class='anchor' id='thoughts'></span>
+<span class='anchor' id='articles'></span>
 
-# 💭 Thoughts
+# Articles
 
-Here I share some reflections on research, life, and everything in between.
+Reading notes, reflections, and original writing.
 
 ## Paul Graham Essays
 
