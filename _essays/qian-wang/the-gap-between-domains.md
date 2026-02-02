@@ -27,7 +27,7 @@ Neither approach is superior. But they rarely talk to each other.
 
 ## The Luo Yonghao Insight
 
-This reminds me of something Luo Yonghao discussed in his podcast with leaders from emerging car companies. He observed that their conversations were compelling precisely because they didn't get stuck debating technical definitions of autonomous driving. Instead, they talked about the *experience* of being in these cars.
+This reminds me of something Luo Yonghao discussed in his [podcast with leaders from emerging car companies](https://www.bilibili.com/video/BV1sM2yBUEJj/). He observed that their conversations were compelling precisely because they didn't get stuck debating technical definitions of autonomous driving. Instead, they talked about the *experience* of being in these cars.
 
 Most technical discussions go nowhere because experts argue over definitions. What's "Level 4 autonomy"? What counts as "fully autonomous"? These debates matter to engineers but bore everyone else.
 
