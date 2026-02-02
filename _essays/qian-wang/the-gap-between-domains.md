@@ -19,7 +19,7 @@ What struck me was her research method: recruiting real users, facing countless 
 
 ## Two Worlds of Research
 
-My research world looks nothing like hers. I work with models, datasets, benchmarks. I can run experiments at 3 AM without asking anyone's permission. I optimize metrics that other researchers have agreed to care about.
+My research world looks nothing like hers. I work with models, datasets, benchmarks. I can run experiments at 3 AM without asking anyone's permission (though honestly, I'm usually asleep by 11 PM—unless a deadline is looming). I optimize metrics that other researchers have agreed to care about.
 
 Her world requires human cooperation at every step. Each data point is a person who chose to participate. Each finding reflects actual human behavior, not predicted behavior.
 
