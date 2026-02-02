@@ -11,6 +11,14 @@ author_profile: true
 
 Reading notes, reflections, and original writing.
 
+## Original Writing
+
+{% for essay in site.essays %}
+{% if essay.path contains 'qian-wang' %}
+- [{{ essay.title }}]({{ essay.url }})
+{% endif %}
+{% endfor %}
+
 ## Paul Graham Essays
 
 {% for essay in site.essays %}
