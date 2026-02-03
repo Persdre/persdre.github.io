@@ -9,6 +9,8 @@ date: 2026-02-03
 
 # What Chinese School Actually Taught Me
 
+*Written on February 3, 2026*
+
 Looking back at my years in China's education system—primary school, junior high, and high school—I realize the most valuable lessons had nothing to do with textbooks. The formulas faded. The exam scores became irrelevant. But three things stayed with me, shaping how I navigate the world today.
 
 ## Writing Is the Ultimate Leverage
