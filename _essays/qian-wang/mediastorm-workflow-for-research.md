@@ -9,6 +9,8 @@ author_profile: true
 
 # What Content Creators Can Teach Us About Research Management
 
+*Written on February 5, 2026*
+
 Tim, founder of [MediaStorm (影视飓风)](https://www.bilibili.com/video/BV13QzbYuEWr/), shared how his team produced 150 videos in 2024 while maintaining quality. As someone who leads junior researchers, I found unexpected parallels between scaling content production and managing research projects.
 
 ## The Four Pillars of MediaStorm's Workflow
