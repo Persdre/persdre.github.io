@@ -34,10 +34,10 @@ And I welcome connections and enjoy discussing a variety of topics, including (b
   scrolling="no">
 </iframe>
 
-# 📚 Articles
+# 📰 News
 
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
-<strong>I want to be a builder in this age.</strong> Beyond research, I enjoy reflecting on ideas, life, and everything in between. Visit my <a href="/blog/"><strong>Articles</strong></a> page where I share reading notes, reflections, and original writing.
+Check out my latest <a href="/blog/"><strong>News</strong></a> for recent updates on research, talks, and activities.
 </div>
 
 # 📝 Selective Publications 
