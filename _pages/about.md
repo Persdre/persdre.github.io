@@ -23,22 +23,15 @@ At present, my research interest lies in **LLM Multi-Agent Systems and Trustwort
 
 As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com. <span style="color:#800020;">I am always open to collaborations. If you share similar interests or see potential synergies, please feel free to reach out via email!</span>
 
-And I welcome connections and enjoy discussing a variety of topics, including (but not limited to) life choices, PhD applications, research, and personal relationships. I offer 30-minute chats, and we can converse in either English or Chinese. If you're interested, please send me an email with a few time slots that work for both of us, and we can schedule a time.
-
-<h2>My Public Calendar</h2>
-
-<iframe 
-  src="https://calendar.google.com/calendar/embed?src=persdre%40gmail.com&ctz=Asia%2FSingapore"
-  style="border: 0; width: 100%; height: 360px;"
-  frameborder="0"
-  scrolling="no">
-</iframe>
+I welcome connections and enjoy discussing a variety of topics, including (but not limited to) life choices, PhD applications, research, and personal relationships. If you're interested, feel free to reach out via email and we can schedule a time.
 
 # 📰 News
 
-<div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
-Check out my latest <a href="/blog/"><strong>News</strong></a> for recent updates on research, talks, and activities.
-</div>
+- *2026.04*, 3 papers were accepted to ACL 2026.
+- *2026.01*, 1 paper was accepted to ICLR 2026 as an Oral presentation.
+- *2025.10*, 1 paper was accepted to LOG 2025 as an Oral presentation.
+- *2025.07*, Our paper "Assessing Judging Bias in Large Reasoning Models: An Empirical Study" was accepted to COLM 2025.
+- *2025.05*, Our paper "MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs" was accepted to ACL 2025 Findings.
 
 # 📝 Selective Publications 
 
