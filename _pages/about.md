@@ -26,7 +26,7 @@ As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have 
 I welcome connections and enjoy discussing a variety of topics, including (but not limited to) life choices, PhD applications, research, and personal relationships. If you're interested, feel free to reach out via email and we can schedule a time.
 
 # 📰 News
-
+- *2026.05*, Received outstanding reviewer award from ACL community.
 - *2026.04*, 3 papers were accepted to ACL 2026.
 - *2026.01*, 1 paper was accepted to ICLR 2026 as an Oral presentation.
 - *2025.10*, 1 paper was accepted to LOG 2025 as an Oral presentation.
