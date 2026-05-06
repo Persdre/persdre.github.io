@@ -77,6 +77,7 @@ Here are a couple of projects I'm proud of:
 - *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
 # 🏆 Awards
+- *2026*, Outstanding Reviewer Award, EACL 2026
 - *2025*, Graduate Student Travel Grant * 2, NUS
 - *2024*, Research Achievement Award, NUS
 - *2024*, [Venture Initiation Program@SoC (10K SGD)](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
