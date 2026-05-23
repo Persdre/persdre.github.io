@@ -27,6 +27,7 @@ I welcome connections and enjoy discussing a variety of topics, including (but n
 
 # 📰 News
 - *2026.05*, Received outstanding reviewer award from ACL community.
+- *2026.05*, 4 papers were accepted to ICML 2026 AI4WILD Workshop. Looking forward to meeting you in Seoul!
 - *2026.04*, 3 papers were accepted to ACL 2026.
 - *2026.01*, 1 paper was accepted to ICLR 2026 as an Oral presentation.
 - *2025.10*, 1 paper was accepted to LOG 2025 as an Oral presentation.
