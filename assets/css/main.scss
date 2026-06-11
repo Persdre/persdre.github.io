@@ -132,8 +132,9 @@ $qw-honor: #c0392b;
     border: 1px solid #e8e8e8;
     border-left: 4px solid $qw-accent;
     border-radius: 6px;
-    padding: 0.9em 1.1em;
-    margin-bottom: 1em;
+    padding: 0.6em 1em;
+    margin-bottom: 0.7em;
+    line-height: 1.8;
     transition: box-shadow 0.2s ease, transform 0.2s ease;
 
     &:hover {
@@ -144,8 +145,7 @@ $qw-honor: #c0392b;
     .pub-title {
         font-weight: 700;
         font-size: 1.02em;
-        margin: 0.45em 0 0.55em;
-        line-height: 1.4;
+        margin-right: 0.35em;
     }
 }
 

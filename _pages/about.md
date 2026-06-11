@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research focuses on **LLM Multi-Agent Systems**, **Trustworthy AI**, and **data-centric approaches to improving foundation models** — from building pioneering datasets and benchmarks (e.g., [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) at ICLR 2024 and [CrossAlpha](https://arxiv.org/abs/2605.29286)) to characterizing and mitigating model biases, both empirically ([judging bias in large reasoning models](https://arxiv.org/abs/2504.09946), COLM 2025) and at training time via reinforcement learning ([Epistemic Independence Training](https://arxiv.org/abs/2602.01528)). I am also passionate about **LLMs for finance**: using LLMs to mine cross-market alpha factors from corporate disclosures and to guide trading decisions. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. My work has appeared at **ICLR, ACL, EMNLP, COLM, and LOG**, including <span class="news-hot">Oral</span> presentations, and I received an **Outstanding Reviewer Award** from the ACL community.
+I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research focuses on **LLM Multi-Agent Systems**, **Trustworthy AI**, and **data-centric approaches to improving foundation models**. My work has appeared at **ICLR, ACL, EMNLP, COLM, and LOG**, including <span class="news-hot">Oral</span> presentations, and I received an **Outstanding Reviewer Award** from the ACL community.
 
-As a typical ENTP, I'm positive, outgoing, and full of curiosity. I enjoy discussing research, PhD applications, life choices, and beyond — feel free to reach out. <span style="color:#800020;font-weight:600;">I am always open to collaborations: if you share similar interests or see potential synergies, email me at persdre@gmail.com!</span>
+My representative work, [**MegaAgent**](https://arxiv.org/abs/2408.09955) (ACL 2025 Findings), is a fully **autonomous** large-scale LLM-based multi-agent system that needs no predefined SOPs — it dynamically decomposes tasks, spawns and coordinates agents in parallel, and scales to **590 agents** in a national policy simulation.
+
+On the data side, I build pioneering datasets and benchmarks (e.g., [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) at ICLR 2024 and [CrossAlpha](https://arxiv.org/abs/2605.29286)), and I characterize and mitigate model biases both empirically ([judging bias in large reasoning models](https://arxiv.org/abs/2504.09946), COLM 2025) and at training time via reinforcement learning ([Epistemic Independence Training](https://arxiv.org/abs/2602.01528)). I am also passionate about **LLMs for finance**: using LLMs to mine cross-market alpha factors from corporate disclosures and to guide trading decisions.
+
+I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. As a typical ENTP, I'm positive, outgoing, and full of curiosity. I enjoy discussing research, PhD applications, life choices, and beyond — feel free to reach out. <span style="color:#800020;font-weight:600;">I am always open to collaborations: if you share similar interests or see potential synergies, email me at persdre@gmail.com!</span>
 
 # 📰 News
 
@@ -39,43 +43,43 @@ First-author papers are listed below. The complete list is available on my <span
 
 <div class="pub-card">
   <span class="badge-venue">Preprint 2026</span>
-  <div class="pub-title">CrossAlpha: An Annual-Report Benchmark for Cross-Market Factor Research</div>
-  <div class="pub-links"><a href="https://arxiv.org/abs/2605.29286">Paper</a></div>
+  <span class="pub-title">CrossAlpha: An Annual-Report Benchmark for Cross-Market Factor Research</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2605.29286">Paper</a></span>
 </div>
 
 <div class="pub-card">
   <span class="badge-venue">Preprint 2026</span>
-  <div class="pub-title">Making Bias Non-Predictive: Training Robust LLM Reasoning via Reinforcement Learning</div>
-  <div class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></div>
+  <span class="pub-title">Making Bias Non-Predictive: Training Robust LLM Reasoning via Reinforcement Learning</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></span>
 </div>
 
 <div class="pub-card">
   <span class="badge-venue">COLM 2025</span>
-  <div class="pub-title">Assessing Judging Bias in Large Reasoning Models: An Empirical Study</div>
-  <div class="pub-links"><a href="https://arxiv.org/abs/2504.09946">Paper</a></div>
+  <span class="pub-title">Assessing Judging Bias in Large Reasoning Models: An Empirical Study</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2504.09946">Paper</a></span>
 </div>
 
 <div class="pub-card">
   <span class="badge-venue">ACL 2025 Findings</span> <span class="badge-honor">ICLR 2025 FM-Wild Workshop Oral</span>
-  <div class="pub-title">MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs</div>
-  <div class="pub-links"><a href="https://arxiv.org/abs/2408.09955">Paper</a> <a href="https://github.com/Xtra-Computing/MegaAgent">Code</a></div>
+  <span class="pub-title">MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2408.09955">Paper</a> <a href="https://github.com/Xtra-Computing/MegaAgent">Code</a></span>
 </div>
 
 <div class="pub-card">
   <span class="badge-venue">LOG 2025</span> <span class="badge-honor">Oral</span>
-  <div class="pub-title">Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs</div>
+  <span class="pub-title">Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs</span>
 </div>
 
 <div class="pub-card">
   <span class="badge-venue">EMNLP 2024</span>
-  <div class="pub-title">CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading</div>
-  <div class="pub-links"><a href="https://aclanthology.org/2024.emnlp-main.63.pdf">Paper</a> <a href="https://github.com/Xtra-Computing/CryptoTrade">Code</a></div>
+  <span class="pub-title">CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading</span>
+  <span class="pub-links"><a href="https://aclanthology.org/2024.emnlp-main.63.pdf">Paper</a> <a href="https://github.com/Xtra-Computing/CryptoTrade">Code</a></span>
 </div>
 
 <div class="pub-card">
   <span class="badge-venue">ICLR 2024</span>
-  <div class="pub-title">EX-Graph: A Pioneering Dataset Bridging Ethereum and X</div>
-  <div class="pub-links"><a href="https://openreview.net/forum?id=juE0rWGCJW">Paper</a> <a href="https://github.com/Persdre/EX-Graph">Code</a></div>
+  <span class="pub-title">EX-Graph: A Pioneering Dataset Bridging Ethereum and X</span>
+  <span class="pub-links"><a href="https://openreview.net/forum?id=juE0rWGCJW">Paper</a> <a href="https://github.com/Persdre/EX-Graph">Code</a></span>
 </div>
 
 # 🏆 Awards
