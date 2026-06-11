@@ -107,3 +107,92 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* === Homepage restyle: section headings, publication cards, badges === */
+$qw-accent: #800020;
+$qw-honor: #c0392b;
+
+.page__content h1 {
+    font-size: 1.45em;
+    padding-bottom: 0.35em;
+    border-bottom: 2px solid #ececec;
+    position: relative;
+
+    &:after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: -2px;
+        width: 3em;
+        height: 2px;
+        background: $qw-accent;
+    }
+}
+
+.pub-card {
+    border: 1px solid #e8e8e8;
+    border-left: 4px solid $qw-accent;
+    border-radius: 6px;
+    padding: 0.9em 1.1em;
+    margin-bottom: 1em;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+    &:hover {
+        box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+        transform: translateY(-2px);
+    }
+
+    .pub-title {
+        font-weight: 700;
+        font-size: 1.02em;
+        margin: 0.45em 0 0.55em;
+        line-height: 1.4;
+    }
+}
+
+.badge-venue {
+    display: inline-block;
+    background: $qw-accent;
+    color: #fff;
+    border-radius: 4px;
+    padding: 0.12em 0.6em;
+    font-size: 0.78em;
+    font-weight: 700;
+    margin-right: 0.35em;
+    vertical-align: middle;
+}
+
+.badge-honor {
+    display: inline-block;
+    background: #fff;
+    color: $qw-honor;
+    border: 1px solid $qw-honor;
+    border-radius: 4px;
+    padding: 0.1em 0.55em;
+    font-size: 0.78em;
+    font-weight: 700;
+    margin-right: 0.35em;
+    vertical-align: middle;
+}
+
+.pub-links a {
+    display: inline-block;
+    border: 1px solid $qw-accent;
+    color: $qw-accent;
+    border-radius: 999px;
+    padding: 0.02em 0.85em;
+    font-size: 0.82em;
+    font-weight: 600;
+    margin-right: 0.4em;
+    text-decoration: none;
+
+    &:hover {
+        background: $qw-accent;
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+.news-hot {
+    color: $qw-honor;
+    font-weight: 700;
+}

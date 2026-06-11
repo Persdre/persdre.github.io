@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Qian Wang"
 description              : ""
-repository               : "https://persdre.github.io/"
+repository               : "persdre/persdre.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

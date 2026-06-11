@@ -17,78 +17,95 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Computer Science Ph.D. candidate at National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). 
+I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research focuses on **LLM Multi-Agent Systems**, **Trustworthy AI**, and **data-centric approaches to improving foundation models** — from building pioneering datasets and benchmarks (e.g., [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) at ICLR 2024 and [CrossAlpha](https://arxiv.org/abs/2605.29286)) to characterizing and mitigating model biases, both empirically ([judging bias in large reasoning models](https://arxiv.org/abs/2504.09946), COLM 2025) and at training time via reinforcement learning ([Epistemic Independence Training](https://arxiv.org/abs/2602.01528)). I am also passionate about **LLMs for finance**: using LLMs to mine cross-market alpha factors from corporate disclosures and to guide trading decisions. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. My work has appeared at **ICLR, ACL, EMNLP, COLM, and LOG**, including <span class="news-hot">Oral</span> presentations, and I received an **Outstanding Reviewer Award** from the ACL community.
 
-At present, my research interest lies in **LLM Multi-Agent Systems and Trustworthy AI**. I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment.
-
-As a typical ENTP, I’m positive, outgoing, and full of curiosity. If you have any questions or research topics you’d like to discuss, please feel free to contact me at persdre@gmail.com. <span style="color:#800020;">I am always open to collaborations. If you share similar interests or see potential synergies, please feel free to reach out via email!</span>
-
-I welcome connections and enjoy discussing a variety of topics, including (but not limited to) life choices, PhD applications, research, and personal relationships. If you're interested, feel free to reach out via email and we can schedule a time.
+As a typical ENTP, I'm positive, outgoing, and full of curiosity. I enjoy discussing research, PhD applications, life choices, and beyond — feel free to reach out. <span style="color:#800020;font-weight:600;">I am always open to collaborations: if you share similar interests or see potential synergies, email me at persdre@gmail.com!</span>
 
 # 📰 News
-- *2026.05*, 4 papers were accepted to ICML 2026 AI4WILD Workshop. Looking forward to meeting you in Seoul!
-- *2026.05*, Received outstanding reviewer award from ACL community.
-- *2026.04*, 3 papers were accepted to ACL 2026.
-- *2026.01*, 1 paper was accepted to ICLR 2026 as an Oral presentation.
-- *2025.10*, 1 paper was accepted to LOG 2025 as an Oral presentation.
-- *2025.07*, Our paper "Assessing Judging Bias in Large Reasoning Models: An Empirical Study" was accepted to COLM 2025.
-- *2025.05*, Our paper "MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs" was accepted to ACL 2025 Findings.
 
-# 📝 Selective Publications 
+- *2026.05* — 📈 New preprint **CrossAlpha**: an annual-report benchmark for cross-market factor research, covering ~3,600 firms across 5 markets with ~19M firm-pair scores. [arXiv](https://arxiv.org/abs/2605.29286)
+- *2026.05* — 🎉 **4 papers** accepted to the **ICML 2026** AI4WILD Workshop. Looking forward to meeting you in Seoul!
+- *2026.05* — 🏆 Received the <span class="news-hot">Outstanding Reviewer Award</span> from the ACL community.
+- *2026.04* — 🎉 **3 papers** accepted to **ACL 2026**.
+- *2026.02* — 🧠 New preprint **Making Bias Non-Predictive**: training robust LLM reasoning via reinforcement learning, with collaborators from UC Berkeley. [arXiv](https://arxiv.org/abs/2602.01528)
+- *2026.01* — 🎉 1 paper accepted to **ICLR 2026** as an <span class="news-hot">Oral</span> presentation.
+- *2025.10* — 1 paper accepted to **LOG 2025** as an <span class="news-hot">Oral</span> presentation.
+- *2025.07* — Our paper *Assessing Judging Bias in Large Reasoning Models: An Empirical Study* was accepted to **COLM 2025**.
+- *2025.05* — Our paper *MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs* was accepted to **ACL 2025** Findings.
 
-(I have listed some of my first-author papers here. My complete list of publications is available on my [Google Scholar](https://scholar.google.com/citations?user=KAGrBdoAAAAJ).)
+# 📝 Selected Publications
 
-- [COLM 2025] Assessing Judging Bias in Large Reasoning Models: An Empirical Study [Paper](https://arxiv.org/abs/2504.09946)
+First-author papers are listed below. The complete list is available on my <span class="pub-links"><a href="https://scholar.google.com/citations?user=KAGrBdoAAAAJ">Google Scholar</a></span>
 
-- [ACL 2025 Findings] & [ICLR 2025 FM-Wild Workshop (Oral)] MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs [Paper](https://arxiv.org/abs/2408.09955) [Code](https://github.com/Xtra-Computing/MegaAgent)
+<div class="pub-card">
+  <span class="badge-venue">Preprint 2026</span>
+  <div class="pub-title">CrossAlpha: An Annual-Report Benchmark for Cross-Market Factor Research</div>
+  <div class="pub-links"><a href="https://arxiv.org/abs/2605.29286">Paper</a></div>
+</div>
 
-- [LOG 2025 Oral] Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs
+<div class="pub-card">
+  <span class="badge-venue">Preprint 2026</span>
+  <div class="pub-title">Making Bias Non-Predictive: Training Robust LLM Reasoning via Reinforcement Learning</div>
+  <div class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></div>
+</div>
 
-- [EMNLP 2024] CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading. [Paper](https://aclanthology.org/2024.emnlp-main.63.pdf) [Code](https://github.com/Xtra-Computing/CryptoTrade)
+<div class="pub-card">
+  <span class="badge-venue">COLM 2025</span>
+  <div class="pub-title">Assessing Judging Bias in Large Reasoning Models: An Empirical Study</div>
+  <div class="pub-links"><a href="https://arxiv.org/abs/2504.09946">Paper</a></div>
+</div>
 
-- [ICLR 2024] EX-Graph: A Pioneering Dataset Bridging Ethereum and X. [Paper](https://openreview.net/forum?id=juE0rWGCJW) [Code](https://github.com/Persdre/EX-Graph)
+<div class="pub-card">
+  <span class="badge-venue">ACL 2025 Findings</span> <span class="badge-honor">ICLR 2025 FM-Wild Workshop Oral</span>
+  <div class="pub-title">MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs</div>
+  <div class="pub-links"><a href="https://arxiv.org/abs/2408.09955">Paper</a> <a href="https://github.com/Xtra-Computing/MegaAgent">Code</a></div>
+</div>
 
-# 💬 Projects
+<div class="pub-card">
+  <span class="badge-venue">LOG 2025</span> <span class="badge-honor">Oral</span>
+  <div class="pub-title">Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs</div>
+</div>
 
-Here are a couple of projects I'm proud of:
+<div class="pub-card">
+  <span class="badge-venue">EMNLP 2024</span>
+  <div class="pub-title">CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading</div>
+  <div class="pub-links"><a href="https://aclanthology.org/2024.emnlp-main.63.pdf">Paper</a> <a href="https://github.com/Xtra-Computing/CryptoTrade">Code</a></div>
+</div>
 
-- **SurviveSJTU Manual:** I authored a chapter for the latest edition of the SurviveSJTU Manual—an online survival guide for students at Shanghai Jiao Tong University. You can browse the manual and my contributions on GitHub [here](https://github.com/SurviveSJTU/SurviveSJTUManual).
-
-
-# 💬 Invited Talks/Interviews
-
-- *2025*, Qian was invited to give a talk at Qube Research & Technologies’ Singapore office on leveraging LLMs to make fair and unbiased judgments about factors.
-
-- *2025*, Qian was invited to give a talk about how to utilize LLMs to make trading decisions in cryptocurrency market at AI4X 2025.
-
-- *2025*, Qian was invited to give a talk about LLM-based human simulations, invited by [Yunhai Wang](https://www.yunhaiwang.net/) of Renmin University of China. [Slides](https://docs.google.com/presentation/d/1o1QLzx59E2pbUxGg935crnCGPt-fww4nTpRZ5KONi_w/edit?usp=sharing)
-  
-- *2025*, Qian was invited to give a talk about her ICLR 2025 BlogPost "Can LLMs Truly Simulate Humanity? A Deep Dive" by AI Time. You can watch the video [here](https://www.bilibili.com/video/BV1JuRPYRECM/?share_source=copy_web&vd_source=cc8bcf9a00d3f9ba43eb256a2c7068bd).
-
-
-- *2024*, Qian was interviewed by the Open Source Promotion Plan (OSPP), a summer program organized by the Institute of Software at the Chinese Academy of Sciences. You can read the interview [here](https://mp.weixin.qq.com/s/MWJtW-cB_wXkXHsOHy2m3Q).
-
-
-- *2023*, Qian was invited to give a talk of [EX-Graph](https://arxiv.org/abs/2310.01015) at The Hong Kong University of Science and Technology (Guangzhou). [Slides](https://drive.google.com/file/d/1Iy7wUvbZ-Z-7dLvlEY0CupCVrPX5GbyL/view?usp=sharing)
-
-# 📖 Educations
-
-- *2023 - Now*, Ph.D. Student, Computer Science, National University of Singapore
-- *2019 - 2022*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
-- *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
+<div class="pub-card">
+  <span class="badge-venue">ICLR 2024</span>
+  <div class="pub-title">EX-Graph: A Pioneering Dataset Bridging Ethereum and X</div>
+  <div class="pub-links"><a href="https://openreview.net/forum?id=juE0rWGCJW">Paper</a> <a href="https://github.com/Persdre/EX-Graph">Code</a></div>
+</div>
 
 # 🏆 Awards
-- *2026*, Outstanding Reviewer Award, EACL 2026
-- *2025*, Graduate Student Travel Grant * 2, NUS
-- *2024*, Research Achievement Award, NUS
-- *2024*, [Venture Initiation Program@SoC (10K SGD)](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
+
+- *2026*, <span class="news-hot">Outstanding Reviewer Award</span>, EACL 2026
+- *2025*, Graduate Student Travel Grant × 2, NUS
+- *2024*, **Research Achievement Award**, NUS
+- *2024*, [**Venture Initiation Program@SoC (10K SGD)**](https://www.comp.nus.edu.sg/entrepreneurship/awards/iepsoc/), NUS
 - *2019 - 2022*, Ong Sin Seng & Lim Song Kie Bursary, NUS
 - *2019*, Academic Scholarship, SJTU
 - *2018*, Zhiyuan Honors Scholarship, SJTU
 - *2018*, [Soh Bing Undergraduate Scholarship](https://en.wikipedia.org/wiki/Shuping_Scholarship), Shanghai
 - *2017*, Zhiyuan Honors Scholarship, SJTU
-- *2017*, Zhiyuan Honors Program (Top 5% in all undergraduates), SJTU
+- *2017*, **Zhiyuan Honors Program (Top 5% of all undergraduates)**, SJTU
 - *2016*, [Soh Bing High School Student Scholarship](https://baike.baidu.com/item/%E5%8F%94%E8%98%8B%E5%A5%96%E5%AD%A6%E9%87%91/15518392), Fuyang
+
+# 🎤 Invited Talks & Interviews
+
+- *2025*, Invited talk at **Qube Research & Technologies** (Singapore office) on leveraging LLMs to make fair and unbiased judgments about factors.
+- *2025*, Invited talk at **AI4X 2025** on utilizing LLMs to make trading decisions in the cryptocurrency market.
+- *2025*, Invited talk on LLM-based human simulations at **Renmin University of China**, hosted by [Yunhai Wang](https://www.yunhaiwang.net/). [Slides](https://docs.google.com/presentation/d/1o1QLzx59E2pbUxGg935crnCGPt-fww4nTpRZ5KONi_w/edit?usp=sharing)
+- *2025*, Invited talk by **AI Time** on my ICLR 2025 BlogPost *Can LLMs Truly Simulate Humanity? A Deep Dive*. [Video](https://www.bilibili.com/video/BV1JuRPYRECM/?share_source=copy_web&vd_source=cc8bcf9a00d3f9ba43eb256a2c7068bd)
+- *2024*, Interviewed by the **Open Source Promotion Plan (OSPP)**, a summer program organized by the Institute of Software, Chinese Academy of Sciences. [Interview](https://mp.weixin.qq.com/s/MWJtW-cB_wXkXHsOHy2m3Q)
+- *2023*, Invited talk on [EX-Graph](https://arxiv.org/abs/2310.01015) at **The Hong Kong University of Science and Technology (Guangzhou)**. [Slides](https://drive.google.com/file/d/1Iy7wUvbZ-Z-7dLvlEY0CupCVrPX5GbyL/view?usp=sharing)
+
+# 📖 Education
+
+- *2023 - Now*, Ph.D. Student, Computer Science, National University of Singapore
+- *2019 - 2022*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
+- *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
 # 💻 Internships
 
@@ -96,7 +113,12 @@ Here are a couple of projects I'm proud of:
 - *2021*, Backend Engineer Intern, Ant Group, Shanghai
 - *2020*, Python Tutor, InterMine, University of Cambridge
 
+# 💬 Projects
+
+- **SurviveSJTU Manual:** I authored a chapter for the latest edition of the SurviveSJTU Manual — an online survival guide for students at Shanghai Jiao Tong University. You can browse the manual and my contributions [on GitHub](https://github.com/SurviveSJTU/SurviveSJTUManual).
+
 # 🔥 Service
+
 - *2025*, ICAIF 2025 Secure FinAI Contest Local Organizer
 - *2023 - Now*, Seminar Organizer, Xtra Lab, NUS
 - *2023 - Now*, Fire Warden, School of Computing, NUS
