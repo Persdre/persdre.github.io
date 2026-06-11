@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research focuses on **LLM Multi-Agent Systems**, **Trustworthy AI**, and **data-centric approaches to improving foundation models**. My work has appeared at **ICLR, ACL, EMNLP, COLM, and LOG**, including <span class="news-hot">Oral</span> presentations, and I received an **Outstanding Reviewer Award** from the ACL community.
+I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research focuses on **LLM Multi-Agent Systems**, **Trustworthy AI**, and **data-centric approaches to improving foundation models**. My research has appeared at top venues including **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, as well as in journals such as **ACM Computing Surveys** and **IEEE TKDE**, with several <span class="news-hot">Oral</span> presentations. I also received an **Outstanding Reviewer Award** from the ACL community.
 
 My representative work, [**MegaAgent**](https://arxiv.org/abs/2408.09955) (ACL 2025 Findings), is a fully **autonomous** large-scale LLM-based multi-agent system that needs no predefined SOPs — it dynamically decomposes tasks, spawns and coordinates agents in parallel, and scales to **590 agents** in a national policy simulation.
 
