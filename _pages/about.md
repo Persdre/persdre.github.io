@@ -31,7 +31,7 @@ I believe LLMs should be developed and deployed in a way that benefits all of hu
 - *2026.05* — 🎉 **4 papers** accepted to the **ICML 2026** AI4WILD Workshop. Looking forward to meeting you in Seoul!
 - *2026.05* — 🏆 Received the <span class="news-hot">Outstanding Reviewer Award</span> from the ACL community.
 - *2026.04* — 🎉 **3 papers** accepted to **ACL 2026**.
-- *2026.02* — 🧠 New preprint **Making Bias Non-Predictive**: training robust LLM reasoning via reinforcement learning, with collaborators from UC Berkeley. [arXiv](https://arxiv.org/abs/2602.01528)
+- *2026.02* — 🧠 New preprint **Making Bias Non-Predictive**: training robust LLM reasoning via reinforcement learning, with collaborators from UC Berkeley — later accepted to the **ICML 2026** AI4GOOD Workshop. [arXiv](https://arxiv.org/abs/2602.01528)
 - *2026.01* — 🎉 1 paper accepted to **ICLR 2026** as an <span class="news-hot">Oral</span> presentation.
 - *2025.10* — 1 paper accepted to **LOG 2025** as an <span class="news-hot">Oral</span> presentation.
 - *2025.07* — Our paper *Assessing Judging Bias in Large Reasoning Models: An Empirical Study* was accepted to **COLM 2025**.
@@ -48,7 +48,7 @@ First-author papers are listed below. The complete list is available on my <span
 </div>
 
 <div class="pub-card">
-  <span class="badge-venue">Preprint 2026</span>
+  <span class="badge-venue">ICML 2026 AI4GOOD Workshop</span>
   <span class="pub-title">Making Bias Non-Predictive: Training Robust LLM Reasoning via Reinforcement Learning</span>
   <span class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></span>
 </div>
