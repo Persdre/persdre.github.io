@@ -113,7 +113,7 @@ First-author papers are listed below. The complete list is available on my <span
 
 # 💼 Industry Experience
 
-- *2026.01 - Now*, **Quant Researcher**, MS Capital, Singapore
+- *2026.01 - Now*, Quant Researcher, MS Capital, Singapore
 - *2022*, Algorithm Tutor, OI Wiki, GitHub
 - *2021*, Backend Engineer Intern, Ant Group, Shanghai
 - *2020*, Python Tutor, InterMine, University of Cambridge
