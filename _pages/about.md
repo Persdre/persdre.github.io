@@ -111,8 +111,9 @@ First-author papers are listed below. The complete list is available on my <span
 - *2019 - 2022*, Bachelor, Computer Science with a Minor in Economics, National University of Singapore
 - *2017 - 2019*, Undergraduate, Chemistry, Shanghai Jiao Tong University
 
-# 💻 Internships
+# 💼 Industry Experience
 
+- *2026.01 - Now*, **Quant Researcher**, MS Capital, Singapore
 - *2022*, Algorithm Tutor, OI Wiki, GitHub
 - *2021*, Backend Engineer Intern, Ant Group, Shanghai
 - *2020*, Python Tutor, InterMine, University of Cambridge
