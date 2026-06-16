@@ -36,7 +36,7 @@ I believe LLMs should be developed and deployed in a way that benefits all of hu
 - *2025.10* — 1 paper accepted to **LOG 2025** as an <span class="news-hot">Oral</span> presentation.
 - *2025.09* — 🛡️ **Towards Evaluating Fake Reasoning Bias in Language Models** was accepted to the **NeurIPS 2025** Lock-LLM Workshop.
 - *2025.07* — Our paper *Assessing Judging Bias in Large Reasoning Models: An Empirical Study* was accepted to **COLM 2025**.
-- *2025.06* — 🤝 **Multiple papers** accepted to **ICML 2025** workshops (incl. the MAS Workshop), covering multi-agent systems and LLMs for finance.
+- *2025.06* — 🤝 **Multiple papers** accepted to **ICML 2025** workshops (incl. the Multi-Agent Systems Workshop), covering multi-agent systems and LLMs for finance.
 - *2025.05* — Our paper *MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs* was accepted to **ACL 2025** Findings.
 
 # 📝 Selected Publications
@@ -65,7 +65,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 </div>
 
 <div class="pub-card" data-topic="mas">
-  <span class="badge-venue">ICML 2025 MAS Workshop</span>
+  <span class="badge-venue">ICML 2025 Multi-Agent Systems Workshop</span>
   <span class="pub-title">AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems</span>
   <span class="pub-links"><a href="https://openreview.net/forum?id=0iLbiYYIpC">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, N. Chen, T. Wang, B. He</span>
@@ -175,7 +175,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 </div>
 
 <div class="pub-card" data-topic="graph">
-  <span class="badge-venue">NeurIPS 2024 D&B</span>
+  <span class="badge-venue">NeurIPS 2024 Datasets & Benchmarks</span>
   <span class="pub-title">Multi-Chain Graphs of Graphs: A New Approach to Analyzing Blockchain Datasets</span>
   <span class="pub-links"><a href="https://openreview.net/forum?id=mlbVgVKwD7">Paper</a></span>
   <span class="pub-authors">B. Luo, Z. Zhang, <span class="me">Qian Wang</span>, B. He</span>
