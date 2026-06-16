@@ -28,8 +28,8 @@ I believe LLMs should be developed and deployed in a way that benefits all of hu
 # 📰 News
 
 - *2026.05* — 📈 New preprint **CrossAlpha**: an annual-report benchmark for cross-market factor research, covering ~3,600 firms across 5 markets with ~19M firm-pair scores. [arXiv](https://arxiv.org/abs/2605.29286)
-- *2026.05* — 🎉 **4 papers** accepted to the **ICML 2026** AI4WILD Workshop. Looking forward to meeting you in Seoul!
-- *2026.05* — 🏆 Received the <span class="news-hot">Outstanding Reviewer Award</span> from the ACL community.
+- *2026.05* — 🎉 **4 papers** accepted to the **ICML 2026** Agents-in-the-Wild Workshop. Looking forward to meeting you in Seoul!
+- *2026.05* — 🏆 Received the <span class="news-hot">Outstanding Reviewer Award</span> from **EACL 2026**.
 - *2026.05* — 🎯 **Treat Bias as Noise** (bias-robust LLM reasoning via reinforcement learning, with collaborators from UC Berkeley) was accepted to the **ICML 2026** AI4GOOD Workshop. [arXiv](https://arxiv.org/abs/2602.01528)
 - *2026.04* — 🎉 **3 papers** accepted to **ACL 2026** (incl. Findings).
 - *2026.01* — 🎉 **LLM DNA: Tracing Model Evolution via Functional Representations** was accepted to **ICLR 2026** as an <span class="news-hot">Oral</span> presentation.
