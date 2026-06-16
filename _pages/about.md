@@ -142,13 +142,15 @@ Papers are grouped by topic below; my name is shown in **bold**. The complete li
   <span class="pub-authors">Y. Li, B. Luo, <span class="me">Qian Wang</span>, N. Chen, X. Liu, B. He</span>
 </div>
 
-<div class="pub-topic">🕸️ Data, Benchmarks & Graph Learning</div>
+<div class="pub-topic">🔬 Foundation Model Analysis</div>
 
 <div class="pub-card">
   <span class="badge-venue">ICLR 2026</span> <span class="badge-honor">Oral</span>
   <span class="pub-title">LLM DNA: Tracing Model Evolution via Functional Representations</span>
   <span class="pub-authors">Z. Wu, H. Zhao, Z. Wang, J. Guo, <span class="me">Qian Wang</span>, B. He</span>
 </div>
+
+<div class="pub-topic">🕸️ Data, Benchmarks & Graph Learning</div>
 
 <div class="pub-card">
   <span class="badge-venue">ICLR 2024</span>
