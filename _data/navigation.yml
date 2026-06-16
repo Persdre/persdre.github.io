@@ -6,23 +6,23 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "First-author Publications"
-    url: "/#-first-author-publications"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
 
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Educations"
-    url: "/#-educations "
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#-invited-talks--interviews"
 
   - title: "Awards"
     url: "/#-awards"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Industry Experience"
+    url: "/#-industry-experience"
 
   - title: "Service"
     url: "/#-service"
