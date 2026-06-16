@@ -145,6 +145,12 @@ Papers are grouped by topic below; my name is shown in **bold**. The complete li
 <div class="pub-topic">🕸️ Data, Benchmarks & Graph Learning</div>
 
 <div class="pub-card">
+  <span class="badge-venue">ICLR 2026</span> <span class="badge-honor">Oral</span>
+  <span class="pub-title">LLM DNA: Tracing Model Evolution via Functional Representations</span>
+  <span class="pub-authors">Z. Wu, H. Zhao, Z. Wang, J. Guo, <span class="me">Qian Wang</span>, B. He</span>
+</div>
+
+<div class="pub-card">
   <span class="badge-venue">ICLR 2024</span>
   <span class="pub-title">EX-Graph: A Pioneering Dataset Bridging Ethereum and X</span>
   <span class="pub-links"><a href="https://openreview.net/forum?id=juE0rWGCJW">Paper</a> <a href="https://github.com/Persdre/EX-Graph">Code</a></span>
