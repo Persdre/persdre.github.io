@@ -67,6 +67,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="mas">
   <span class="badge-venue">ICML 2025 MAS Workshop</span>
   <span class="pub-title">AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems</span>
+  <span class="pub-links"><a href="https://openreview.net/forum?id=0iLbiYYIpC">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, N. Chen, T. Wang, B. He</span>
 </div>
 
@@ -86,12 +87,14 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="trust">
   <span class="badge-venue">NeurIPS 2025 Lock-LLM Workshop</span>
   <span class="pub-title">Towards Evaluating Fake Reasoning Bias in Language Models</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2507.13758">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, Z. Lou, N. Chen, W. Wang, B. He</span>
 </div>
 
 <div class="pub-card" data-topic="trust">
   <span class="badge-venue">Preprint 2025</span>
   <span class="pub-title">JudgeLRM: Large Reasoning Models as a Judge</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2504.00050">Paper</a></span>
   <span class="pub-authors">N. Chen, Z. Hu, Q. Zou, J. Wu, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
 </div>
 
@@ -105,24 +108,28 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="rl">
   <span class="badge-venue">Preprint 2026</span>
   <span class="pub-title">Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2604.00830">Paper</a></span>
   <span class="pub-authors">Z. Lou, H. Chen, Y. Li, <span class="me">Qian Wang</span>, B. Hooi</span>
 </div>
 
 <div class="pub-card" data-topic="rl">
   <span class="badge-venue">Preprint 2026</span>
   <span class="pub-title">RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2602.19974">Paper</a></span>
   <span class="pub-authors">T. Wang, Z. Ma, <span class="me">Qian Wang</span>, X. Zhang, X. Long, B. Zhou</span>
 </div>
 
 <div class="pub-card" data-topic="fma">
   <span class="badge-venue">ICLR 2026</span> <span class="badge-honor">Oral</span>
   <span class="pub-title">LLM DNA: Tracing Model Evolution via Functional Representations</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2509.24496">Paper</a></span>
   <span class="pub-authors">Z. Wu, H. Zhao, Z. Wang, J. Guo, <span class="me">Qian Wang</span>, B. He</span>
 </div>
 
 <div class="pub-card" data-topic="mem">
   <span class="badge-venue">Preprint 2026</span>
   <span class="pub-title">LLM Agent Memory: A Survey from a Unified Representation–Management Perspective</span>
+  <span class="pub-links"><a href="https://openreview.net/forum?id=KPs1EgGKcT">Paper</a></span>
   <span class="pub-authors">Z. Tang, X. He, T. Zhao, F. Wei, X. Liu, P. Dong, <span class="me">Qian Wang</span>, et al.</span>
 </div>
 
@@ -142,6 +149,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="fin">
   <span class="badge-venue">ICLR 2025 Financial AI Workshop</span>
   <span class="pub-title">Exploring LLM Cryptocurrency Trading Through Fact-Subjectivity Aware Reasoning</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2410.12464">Paper</a> <a href="https://github.com/Persdre/FS-ReasoningAgent">Code</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Y. Gao, Z. Tang, B. Luo, N. Chen, B. He</span>
 </div>
 
@@ -162,30 +170,35 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="graph">
   <span class="badge-venue">LOG 2025</span> <span class="badge-honor">Oral</span>
   <span class="pub-title">Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs</span>
+  <span class="pub-links"><a href="https://openreview.net/forum?id=6ikB5L1kzq">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Liu, Z. Zhang, B. Luo, B. He</span>
 </div>
 
 <div class="pub-card" data-topic="graph">
   <span class="badge-venue">NeurIPS 2024 D&B</span>
   <span class="pub-title">Multi-Chain Graphs of Graphs: A New Approach to Analyzing Blockchain Datasets</span>
+  <span class="pub-links"><a href="https://openreview.net/forum?id=mlbVgVKwD7">Paper</a></span>
   <span class="pub-authors">B. Luo, Z. Zhang, <span class="me">Qian Wang</span>, B. He</span>
 </div>
 
 <div class="pub-card" data-topic="graph">
   <span class="badge-venue">IEEE TKDE 2025</span>
   <span class="pub-title">A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2308.13821">Paper</a></span>
   <span class="pub-authors">Z. Liu, Y. Li, N. Chen, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
 </div>
 
 <div class="pub-card" data-topic="sim">
   <span class="badge-venue">Preprint 2025</span>
   <span class="pub-title">LLM-based Human Simulations Have Not Yet Been Reliable</span>
+  <span class="pub-links"><a href="https://arxiv.org/abs/2501.08579">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, J. Wu, Z. Tang, B. Luo, N. Chen, W. Chen, B. He</span>
 </div>
 
 <div class="pub-card" data-topic="sim">
   <span class="badge-venue">ICLR 2025 Blogposts</span>
   <span class="pub-title">Can LLM Simulations Truly Reflect Humanity? A Deep Dive</span>
+  <span class="pub-links"><a href="https://iclr-blogposts.github.io/2025/blog/rethinking-llm-simulation/">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, B. He</span>
 </div>
 
