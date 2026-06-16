@@ -128,13 +128,21 @@ $qw-honor: #c0392b;
     }
 }
 
+.pub-topic {
+    font-size: 1.06em;
+    font-weight: 700;
+    color: $qw-accent;
+    margin: 1.6em 0 0.8em;
+    letter-spacing: 0.01em;
+}
+
 .pub-card {
     border: 1px solid #e8e8e8;
     border-left: 4px solid $qw-accent;
     border-radius: 6px;
     padding: 0.6em 1em;
     margin-bottom: 0.7em;
-    line-height: 1.8;
+    line-height: 1.6;
     transition: box-shadow 0.2s ease, transform 0.2s ease;
 
     &:hover {
@@ -146,6 +154,18 @@ $qw-honor: #c0392b;
         font-weight: 700;
         font-size: 1.02em;
         margin-right: 0.35em;
+    }
+
+    .pub-authors {
+        display: block;
+        font-size: 0.85em;
+        color: #777;
+        margin-top: 0.2em;
+
+        .me {
+            font-weight: 700;
+            color: #444;
+        }
     }
 }
 
