@@ -196,6 +196,47 @@ $qw-honor: #c0392b;
             color: #444;
         }
     }
+
+    .pub-tldr {
+        display: block;
+        font-size: 0.9em;
+        font-style: italic;
+        color: #666;
+        margin-top: 0.15em;
+    }
+
+    &.has-thumb {
+        display: flex;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .pub-thumb {
+        flex: 0 0 auto;
+        width: 130px;
+        max-height: 100px;
+        object-fit: contain;
+        border: 1px solid #eee;
+        border-radius: 4px;
+        background: #fff;
+        padding: 3px;
+    }
+
+    .pub-body {
+        flex: 1 1 auto;
+        min-width: 0;
+    }
+
+    @media (max-width: 600px) {
+        &.has-thumb {
+            gap: 0.6em;
+        }
+
+        .pub-thumb {
+            width: 84px;
+            max-height: 68px;
+        }
+    }
 }
 
 .badge-venue {

@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research focuses on **LLM for Finance**, with broader interests in **LLM Multi-Agent Systems**, **Trustworthy AI**, and **data-centric approaches to improving foundation models**. My research has appeared at top venues including **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, as well as in journals such as **ACM Computing Surveys** and **IEEE TKDE**, with several <span class="news-hot">Oral</span> presentations. I also received an **Outstanding Reviewer Award** from **EACL 2026**.
+I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I work on **LLM for Finance**: teaching LLMs to read financial text and turn it into investment decisions, along three threads —
 
-My representative work, [**MegaAgent**](https://arxiv.org/abs/2408.09955) (ACL 2025 Findings), is a fully **autonomous** large-scale LLM-based multi-agent system that needs no predefined SOPs — it dynamically decomposes tasks, spawns and coordinates agents in parallel, and scales to **590 agents** in a national policy simulation.
+- **Financial benchmarks & data.** Building the datasets this field is missing, e.g., [**CrossAlpha**](https://arxiv.org/abs/2605.29286) (EMNLP 2026 Findings), an annual-report benchmark testing whether disclosures in one market predict stock returns in another.
+- **LLM trading agents.** Agents that reason over market information to make trading decisions, e.g., [**CryptoTrade**](https://aclanthology.org/2024.emnlp-main.63.pdf) (EMNLP 2024) and [FS-ReasoningAgent](https://arxiv.org/abs/2410.12464) (ICLR 2025 Financial AI Workshop).
+- **Trustworthy LLM judgment.** Financial decisions need unbiased judges — I characterize LLM judging bias empirically ([COLM 2025](https://arxiv.org/abs/2504.09946)) and mitigate it via reinforcement learning ([Treat Bias as Noise](https://arxiv.org/abs/2602.01528)).
 
-On the data side, I build pioneering datasets and benchmarks (e.g., [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) at ICLR 2024 and [CrossAlpha](https://arxiv.org/abs/2605.29286)), and I characterize and mitigate model biases both empirically ([judging bias in large reasoning models](https://arxiv.org/abs/2504.09946), COLM 2025) and at training time via reinforcement learning ([Treat Bias as Noise](https://arxiv.org/abs/2602.01528)). My current focus is **LLMs for finance**: using LLMs to mine cross-market alpha factors from corporate disclosures and to guide trading decisions.
+Before this, I worked broadly on LLM multi-agent systems ([**MegaAgent**](https://arxiv.org/abs/2408.09955), ACL 2025 Findings — a 590-agent fully autonomous system) and graph datasets ([EX-Graph](https://openreview.net/forum?id=juE0rWGCJW), ICLR 2024). My work has appeared at **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, with several <span class="news-hot">Oral</span> presentations and an **Outstanding Reviewer Award** (EACL 2026).
 
-I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. As a typical ENTP, I'm positive, outgoing, and full of curiosity. I enjoy discussing research, PhD applications, life choices, and beyond — feel free to reach out. <span style="color:#800020;font-weight:600;">I am always open to collaborations: if you share similar interests or see potential synergies, email me at persdre@gmail.com!</span>
+<span style="color:#800020;font-weight:600;">I am always open to collaborations</span> — and happy to chat about research, PhD applications, or life choices. Email me at persdre@gmail.com!
 
 # 📰 News
 
@@ -58,16 +60,21 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 
 <div id="pub-list">
 
-<div class="pub-card" data-topic="mas">
-  <span class="badge-venue">ACL 2025 Findings</span> <span class="badge-honor">ICLR 2025 FM-Wild Workshop Oral</span>
-  <span class="pub-title">MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2408.09955">Paper</a> <a href="https://github.com/Xtra-Computing/MegaAgent">Code</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, T. Wang, Z. Tang, Q. Li, N. Chen, J. Liang, B. He</span>
+<div class="pub-card has-thumb" data-topic="mas">
+  <img class="pub-thumb" src="/images/papers/megaagent.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">ACL 2025 Findings</span> <span class="badge-honor">ICLR 2025 FM-Wild Workshop Oral</span>
+    <span class="pub-title">MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs</span>
+    <span class="pub-tldr">An autonomous multi-agent framework that decomposes tasks, spawns agents on the fly, and coordinates up to 590 of them — no predefined SOPs.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2408.09955">Paper</a> <a href="https://github.com/Xtra-Computing/MegaAgent">Code</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, T. Wang, Z. Tang, Q. Li, N. Chen, J. Liang, B. He</span>
+  </div>
 </div>
 
 <div class="pub-card" data-topic="mas">
   <span class="badge-venue">ICML 2025 Multi-Agent Systems Workshop</span>
   <span class="pub-title">AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems</span>
+  <span class="pub-tldr">Dissects where tokens actually go inside LLM multi-agent systems and benchmarks their token efficiency.</span>
   <span class="pub-links"><a href="https://openreview.net/forum?id=0iLbiYYIpC">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, N. Chen, T. Wang, B. He</span>
 </div>
@@ -75,40 +82,55 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="mas">
   <span class="badge-venue">ACL 2026 Findings</span>
   <span class="pub-title">Diversity Collapse in Multi-Agent LLM Systems: Structural Coupling and Collective Failure in Open-Ended Idea Generation</span>
+  <span class="pub-tldr">Shows how tightly-coupled multi-agent LLM discussion collapses open-ended idea generation into the same few ideas.</span>
   <span class="pub-authors">N. Chen, Y. Tong, Y. Yang, X. Zhang, <span class="me">Qian Wang</span>, B. He</span>
 </div>
 
-<div class="pub-card" data-topic="trust">
-  <span class="badge-venue">COLM 2025</span>
-  <span class="pub-title">Assessing Judging Bias in Large Reasoning Models: An Empirical Study</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2504.09946">Paper</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Lou, Z. Tang, N. Chen, X. Zhao, W. Zhang, D. Song, B. He</span>
+<div class="pub-card has-thumb" data-topic="trust">
+  <img class="pub-thumb" src="/images/papers/judging-bias.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">COLM 2025</span>
+    <span class="pub-title">Assessing Judging Bias in Large Reasoning Models: An Empirical Study</span>
+    <span class="pub-tldr">An empirical audit of large reasoning models as judges, uncovering systematic bandwagon, authority, and position biases.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2504.09946">Paper</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Lou, Z. Tang, N. Chen, X. Zhao, W. Zhang, D. Song, B. He</span>
+  </div>
 </div>
 
-<div class="pub-card" data-topic="trust">
-  <span class="badge-venue">NeurIPS 2025 Lock-LLM Workshop</span>
-  <span class="pub-title">Towards Evaluating Fake Reasoning Bias in Language Models</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2507.13758">Paper</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, Z. Lou, N. Chen, W. Wang, B. He</span>
+<div class="pub-card has-thumb" data-topic="trust">
+  <img class="pub-thumb" src="/images/papers/fake-reasoning-bias.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">NeurIPS 2025 Lock-LLM Workshop</span>
+    <span class="pub-title">Towards Evaluating Fake Reasoning Bias in Language Models</span>
+    <span class="pub-tldr">Shows LLM judges reward text that merely looks like reasoning, and builds a benchmark to measure this bias.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2507.13758">Paper</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, Z. Lou, N. Chen, W. Wang, B. He</span>
+  </div>
 </div>
 
 <div class="pub-card" data-topic="trust">
   <span class="badge-venue">Preprint 2025</span>
   <span class="pub-title">JudgeLRM: Large Reasoning Models as a Judge</span>
+  <span class="pub-tldr">Trains large reasoning models into better judges with judgment-oriented reinforcement learning.</span>
   <span class="pub-links"><a href="https://arxiv.org/abs/2504.00050">Paper</a></span>
   <span class="pub-authors">N. Chen, Z. Hu, Q. Zou, J. Wu, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
 </div>
 
-<div class="pub-card" data-topic="rl">
-  <span class="badge-venue">ICML 2026 AI4GOOD Workshop</span>
-  <span class="pub-title">Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, X. Zhao, Z. Zhang, Z. Lou, N. Chen, D. Song, B. He</span>
+<div class="pub-card has-thumb" data-topic="rl">
+  <img class="pub-thumb" src="/images/papers/treat-bias-as-noise.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">ICML 2026 AI4GOOD Workshop</span>
+    <span class="pub-title">Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning</span>
+    <span class="pub-tldr">RL training that treats biased cues as noise, yielding LLM reasoning that stays robust on biased prompts.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, X. Zhao, Z. Zhang, Z. Lou, N. Chen, D. Song, B. He</span>
+  </div>
 </div>
 
 <div class="pub-card" data-topic="rl">
   <span class="badge-venue">Preprint 2026</span>
   <span class="pub-title">Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies</span>
+  <span class="pub-tldr">Language agents with learnable policies that decide how to adapt themselves at test time.</span>
   <span class="pub-links"><a href="https://arxiv.org/abs/2604.00830">Paper</a></span>
   <span class="pub-authors">Z. Lou, H. Chen, Y. Li, <span class="me">Qian Wang</span>, B. Hooi</span>
 </div>
@@ -116,20 +138,26 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="rl">
   <span class="badge-venue">Preprint 2026</span>
   <span class="pub-title">RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection</span>
+  <span class="pub-tldr">A generative spatial reasoner that learns to reflect on its own intermediate steps via reinforcement learning.</span>
   <span class="pub-links"><a href="https://arxiv.org/abs/2602.19974">Paper</a></span>
   <span class="pub-authors">T. Wang, Z. Ma, <span class="me">Qian Wang</span>, X. Zhang, X. Long, B. Zhou</span>
 </div>
 
-<div class="pub-card" data-topic="fma">
-  <span class="badge-venue">ICLR 2026</span> <span class="badge-honor">Oral</span>
-  <span class="pub-title">LLM DNA: Tracing Model Evolution via Functional Representations</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2509.24496">Paper</a></span>
-  <span class="pub-authors">Z. Wu, H. Zhao, Z. Wang, J. Guo, <span class="me">Qian Wang</span>, B. He</span>
+<div class="pub-card has-thumb" data-topic="fma">
+  <img class="pub-thumb" src="/images/papers/llm-dna.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">ICLR 2026</span> <span class="badge-honor">Oral</span>
+    <span class="pub-title">LLM DNA: Tracing Model Evolution via Functional Representations</span>
+    <span class="pub-tldr">Gives every LLM a functional 'DNA' embedding, making model lineage and evolution traceable across families.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2509.24496">Paper</a></span>
+    <span class="pub-authors">Z. Wu, H. Zhao, Z. Wang, J. Guo, <span class="me">Qian Wang</span>, B. He</span>
+  </div>
 </div>
 
 <div class="pub-card" data-topic="mem">
   <span class="badge-venue">Preprint 2026</span>
   <span class="pub-title">LLM Agent Memory: A Survey from a Unified Representation–Management Perspective</span>
+  <span class="pub-tldr">A survey unifying LLM agent memory research under one representation–management framework.</span>
   <span class="pub-links"><a href="https://openreview.net/forum?id=KPs1EgGKcT">Paper</a></span>
   <span class="pub-authors">Z. Tang, X. He, T. Zhao, F. Wei, X. Liu, P. Dong, <span class="me">Qian Wang</span>, et al.</span>
 </div>
@@ -137,40 +165,58 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="mem">
   <span class="badge-venue">ICML 2026 Agents-in-the-Wild Workshop</span>
   <span class="pub-title">Parameters as Agentic Memory: Internalizing Long-Horizon Memories for Efficient LLM Agents</span>
+  <span class="pub-tldr">Internalizes an agent's long-horizon memory into model parameters instead of ever-growing context.</span>
   <span class="pub-authors">Z. Tang, F. Wei, P. Dong, X. Liu, <span class="me">Qian Wang</span>, X. Chu, B. Li</span>
 </div>
 
-<div class="pub-card" data-topic="fin">
-  <span class="badge-venue">EMNLP 2026 Findings</span>
-  <span class="pub-title">CrossAlpha: An Annual-Report Benchmark for Cross-Market Factor Research</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2605.29286">Paper</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tong, N. Chen, Z. Wu, B. He</span>
+<div class="pub-card has-thumb" data-topic="fin">
+  <img class="pub-thumb" src="/images/papers/crossalpha.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">EMNLP 2026 Findings</span>
+    <span class="pub-title">CrossAlpha: An Annual-Report Benchmark for Cross-Market Factor Research</span>
+    <span class="pub-tldr">A public annual-report benchmark testing whether firm disclosures in one market predict stock returns in another.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2605.29286">Paper</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tong, N. Chen, Z. Wu, B. He</span>
+  </div>
 </div>
 
-<div class="pub-card" data-topic="fin">
-  <span class="badge-venue">ICLR 2025 Financial AI Workshop</span>
-  <span class="pub-title">Exploring LLM Cryptocurrency Trading Through Fact-Subjectivity Aware Reasoning</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2410.12464">Paper</a> <a href="https://github.com/Persdre/FS-ReasoningAgent">Code</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, Y. Gao, Z. Tang, B. Luo, N. Chen, B. He</span>
+<div class="pub-card has-thumb" data-topic="fin">
+  <img class="pub-thumb" src="/images/papers/fs-reasoningagent.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">ICLR 2025 Financial AI Workshop</span>
+    <span class="pub-title">Exploring LLM Cryptocurrency Trading Through Fact-Subjectivity Aware Reasoning</span>
+    <span class="pub-tldr">Splits crypto-trading reasoning into factual and subjective paths, improving LLM trading decisions.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2410.12464">Paper</a> <a href="https://github.com/Persdre/FS-ReasoningAgent">Code</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, Y. Gao, Z. Tang, B. Luo, N. Chen, B. He</span>
+  </div>
 </div>
 
-<div class="pub-card" data-topic="fin">
-  <span class="badge-venue">EMNLP 2024</span>
-  <span class="pub-title">CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading</span>
-  <span class="pub-links"><a href="https://aclanthology.org/2024.emnlp-main.63.pdf">Paper</a> <a href="https://github.com/Xtra-Computing/CryptoTrade">Code</a></span>
-  <span class="pub-authors">Y. Li, B. Luo, <span class="me">Qian Wang</span>, N. Chen, X. Liu, B. He</span>
+<div class="pub-card has-thumb" data-topic="fin">
+  <img class="pub-thumb" src="/images/papers/cryptotrade.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">EMNLP 2024</span>
+    <span class="pub-title">CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading</span>
+    <span class="pub-tldr">A reflective LLM agent that fuses on-chain and off-chain signals for zero-shot cryptocurrency trading.</span>
+    <span class="pub-links"><a href="https://aclanthology.org/2024.emnlp-main.63.pdf">Paper</a> <a href="https://github.com/Xtra-Computing/CryptoTrade">Code</a></span>
+    <span class="pub-authors">Y. Li, B. Luo, <span class="me">Qian Wang</span>, N. Chen, X. Liu, B. He</span>
+  </div>
 </div>
 
-<div class="pub-card" data-topic="graph">
-  <span class="badge-venue">ICLR 2024</span>
-  <span class="pub-title">EX-Graph: A Pioneering Dataset Bridging Ethereum and X</span>
-  <span class="pub-links"><a href="https://openreview.net/forum?id=juE0rWGCJW">Paper</a> <a href="https://github.com/Persdre/EX-Graph">Code</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Zhang, Z. Liu, S. Lu, B. Luo, B. He</span>
+<div class="pub-card has-thumb" data-topic="graph">
+  <img class="pub-thumb" src="/images/papers/ex-graph.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">ICLR 2024</span>
+    <span class="pub-title">EX-Graph: A Pioneering Dataset Bridging Ethereum and X</span>
+    <span class="pub-tldr">The first public dataset linking Ethereum transaction wallets with X (Twitter) accounts.</span>
+    <span class="pub-links"><a href="https://openreview.net/forum?id=juE0rWGCJW">Paper</a> <a href="https://github.com/Persdre/EX-Graph">Code</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Zhang, Z. Liu, S. Lu, B. Luo, B. He</span>
+  </div>
 </div>
 
 <div class="pub-card" data-topic="graph">
   <span class="badge-venue">LOG 2025</span> <span class="badge-honor">Oral</span>
   <span class="pub-title">Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs</span>
+  <span class="pub-tldr">Inserts buffer nodes into graphs to damp excessive majority-class influence in imbalanced node classification.</span>
   <span class="pub-links"><a href="https://openreview.net/forum?id=6ikB5L1kzq">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Liu, Z. Zhang, B. Luo, B. He</span>
 </div>
@@ -178,6 +224,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="graph">
   <span class="badge-venue">NeurIPS 2024 Datasets & Benchmarks</span>
   <span class="pub-title">Multi-Chain Graphs of Graphs: A New Approach to Analyzing Blockchain Datasets</span>
+  <span class="pub-tldr">A graphs-of-graphs dataset spanning multiple blockchains, enabling cross-chain analysis.</span>
   <span class="pub-links"><a href="https://openreview.net/forum?id=mlbVgVKwD7">Paper</a></span>
   <span class="pub-authors">B. Luo, Z. Zhang, <span class="me">Qian Wang</span>, B. He</span>
 </div>
@@ -185,6 +232,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="graph">
   <span class="badge-venue">IEEE TKDE 2025</span>
   <span class="pub-title">A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions</span>
+  <span class="pub-tldr">A systematic survey of imbalanced learning on graphs: problems, techniques, and future directions.</span>
   <span class="pub-links"><a href="https://arxiv.org/abs/2308.13821">Paper</a></span>
   <span class="pub-authors">Z. Liu, Y. Li, N. Chen, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
 </div>
@@ -192,6 +240,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="sim">
   <span class="badge-venue">Preprint 2025</span>
   <span class="pub-title">LLM-based Human Simulations Have Not Yet Been Reliable</span>
+  <span class="pub-tldr">Argues LLM-based human simulations are not yet reliable, and maps out where and why they fail.</span>
   <span class="pub-links"><a href="https://arxiv.org/abs/2501.08579">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, J. Wu, Z. Tang, B. Luo, N. Chen, W. Chen, B. He</span>
 </div>
@@ -199,6 +248,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card" data-topic="sim">
   <span class="badge-venue">ICLR 2025 Blogposts</span>
   <span class="pub-title">Can LLM Simulations Truly Reflect Humanity? A Deep Dive</span>
+  <span class="pub-tldr">A deep dive into whether LLM simulations truly reflect human behavior.</span>
   <span class="pub-links"><a href="https://iclr-blogposts.github.io/2025/blog/rethinking-llm-simulation/">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, B. He</span>
 </div>
