@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research focuses on **LLM Multi-Agent Systems**, **Trustworthy AI**, and **data-centric approaches to improving foundation models**. My research has appeared at top venues including **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, as well as in journals such as **ACM Computing Surveys** and **IEEE TKDE**, with several <span class="news-hot">Oral</span> presentations. I also received an **Outstanding Reviewer Award** from **EACL 2026**.
+I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). My research focuses on **LLM for Finance**, with broader interests in **LLM Multi-Agent Systems**, **Trustworthy AI**, and **data-centric approaches to improving foundation models**. My research has appeared at top venues including **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, as well as in journals such as **ACM Computing Surveys** and **IEEE TKDE**, with several <span class="news-hot">Oral</span> presentations. I also received an **Outstanding Reviewer Award** from **EACL 2026**.
 
 My representative work, [**MegaAgent**](https://arxiv.org/abs/2408.09955) (ACL 2025 Findings), is a fully **autonomous** large-scale LLM-based multi-agent system that needs no predefined SOPs — it dynamically decomposes tasks, spawns and coordinates agents in parallel, and scales to **590 agents** in a national policy simulation.
 
-On the data side, I build pioneering datasets and benchmarks (e.g., [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) at ICLR 2024 and [CrossAlpha](https://arxiv.org/abs/2605.29286)), and I characterize and mitigate model biases both empirically ([judging bias in large reasoning models](https://arxiv.org/abs/2504.09946), COLM 2025) and at training time via reinforcement learning ([Treat Bias as Noise](https://arxiv.org/abs/2602.01528)). I am also passionate about **LLMs for finance**: using LLMs to mine cross-market alpha factors from corporate disclosures and to guide trading decisions.
+On the data side, I build pioneering datasets and benchmarks (e.g., [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) at ICLR 2024 and [CrossAlpha](https://arxiv.org/abs/2605.29286)), and I characterize and mitigate model biases both empirically ([judging bias in large reasoning models](https://arxiv.org/abs/2504.09946), COLM 2025) and at training time via reinforcement learning ([Treat Bias as Noise](https://arxiv.org/abs/2602.01528)). My current focus is **LLMs for finance**: using LLMs to mine cross-market alpha factors from corporate disclosures and to guide trading decisions.
 
 I believe LLMs should be developed and deployed in a way that benefits all of humanity, not just a privileged segment. As a typical ENTP, I'm positive, outgoing, and full of curiosity. I enjoy discussing research, PhD applications, life choices, and beyond — feel free to reach out. <span style="color:#800020;font-weight:600;">I am always open to collaborations: if you share similar interests or see potential synergies, email me at persdre@gmail.com!</span>
 
 # 📰 News
 
+- *2026.08* — 🎉 **CrossAlpha: An Annual-Report Benchmark for Cross-Market Factor Research** was accepted to **EMNLP 2026 Findings**. Hope to see you all in Budapest!
 - *2026.05* — 📈 New preprint **CrossAlpha**: an annual-report benchmark for cross-market factor research, covering ~3,600 firms across 5 markets with ~19M firm-pair scores. [arXiv](https://arxiv.org/abs/2605.29286)
 - *2026.05* — 🎉 **4 papers** accepted to the **ICML 2026** Agents-in-the-Wild Workshop. Looking forward to meeting you in Seoul!
 - *2026.05* — 🏆 Received the <span class="news-hot">Outstanding Reviewer Award</span> from **EACL 2026**.
@@ -140,7 +141,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 </div>
 
 <div class="pub-card" data-topic="fin">
-  <span class="badge-venue">Preprint 2026</span>
+  <span class="badge-venue">EMNLP 2026 Findings</span>
   <span class="pub-title">CrossAlpha: An Annual-Report Benchmark for Cross-Market Factor Research</span>
   <span class="pub-links"><a href="https://arxiv.org/abs/2605.29286">Paper</a></span>
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tong, N. Chen, Z. Wu, B. He</span>
