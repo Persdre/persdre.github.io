@@ -275,10 +275,32 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
       });
     });
   }
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initPubFilter);
-  } else {
+  function initThumbLightbox() {
+    document.addEventListener('click', function (e) {
+      var t = e.target;
+      if (!t.classList || !t.classList.contains('pub-thumb')) return;
+      var overlay = document.createElement('div');
+      overlay.className = 'thumb-lightbox';
+      var img = document.createElement('img');
+      img.src = t.src;
+      overlay.appendChild(img);
+      overlay.addEventListener('click', function () { overlay.remove(); });
+      document.body.appendChild(overlay);
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Escape') return;
+      var open = document.querySelector('.thumb-lightbox');
+      if (open) open.remove();
+    });
+  }
+  function init() {
     initPubFilter();
+    initThumbLightbox();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
   }
 })();
 </script>

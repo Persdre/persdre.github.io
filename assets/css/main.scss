@@ -213,13 +213,14 @@ $qw-honor: #c0392b;
 
     .pub-thumb {
         flex: 0 0 auto;
-        width: 130px;
-        max-height: 100px;
+        width: 165px;
+        max-height: 110px;
         object-fit: contain;
         border: 1px solid #eee;
         border-radius: 4px;
         background: #fff;
         padding: 3px;
+        cursor: zoom-in;
     }
 
     .pub-body {
@@ -233,9 +234,28 @@ $qw-honor: #c0392b;
         }
 
         .pub-thumb {
-            width: 84px;
-            max-height: 68px;
+            width: 92px;
+            max-height: 72px;
         }
+    }
+}
+
+.thumb-lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.78);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    cursor: zoom-out;
+
+    img {
+        max-width: 94vw;
+        max-height: 92vh;
+        background: #fff;
+        border-radius: 6px;
+        padding: 10px;
     }
 }
 
