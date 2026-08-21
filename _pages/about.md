@@ -19,11 +19,11 @@ redirect_from:
 
 I am a Computer Science Ph.D. candidate at the National University of Singapore, advised by Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I work on **LLM for Finance**: teaching LLMs to read financial text and turn it into investment decisions, along three threads —
 
-- **Financial benchmarks & data.** Building the datasets this field is missing, e.g., [**CrossAlpha**](https://arxiv.org/abs/2605.29286) (EMNLP 2026 Findings), an annual-report benchmark testing whether disclosures in one market predict stock returns in another.
+- **Financial benchmarks & data.** Building the datasets this field is missing, e.g., [**CrossAlpha**](https://arxiv.org/abs/2605.29286) (EMNLP 2026 Findings), an annual-report benchmark testing whether disclosures in one market predict stock returns in another, and [**EX-Graph**](https://openreview.net/forum?id=juE0rWGCJW) (ICLR 2024), a pioneering dataset bridging Ethereum transactions and X accounts.
 - **LLM trading agents.** Agents that reason over market information to make trading decisions, e.g., [**CryptoTrade**](https://aclanthology.org/2024.emnlp-main.63.pdf) (EMNLP 2024) and [FS-ReasoningAgent](https://arxiv.org/abs/2410.12464) (ICLR 2025 Financial AI Workshop).
 - **Trustworthy LLM judgment.** Financial decisions need unbiased judges — I characterize LLM judging bias empirically ([COLM 2025](https://arxiv.org/abs/2504.09946)) and mitigate it via reinforcement learning ([Treat Bias as Noise](https://arxiv.org/abs/2602.01528)).
 
-Before this, I worked broadly on LLM multi-agent systems ([**MegaAgent**](https://arxiv.org/abs/2408.09955), ACL 2025 Findings — a 590-agent fully autonomous system) and graph datasets ([EX-Graph](https://openreview.net/forum?id=juE0rWGCJW), ICLR 2024). My work has appeared at **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, with several <span class="news-hot">Oral</span> presentations and an **Outstanding Reviewer Award** (EACL 2026).
+Before this, I worked broadly on LLM multi-agent systems ([**MegaAgent**](https://arxiv.org/abs/2408.09955), ACL 2025 Findings — a 590-agent fully autonomous system) and graph learning. My work has appeared at **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, with several <span class="news-hot">Oral</span> presentations and an **Outstanding Reviewer Award** (EACL 2026).
 
 <span style="color:#800020;font-weight:600;">I am always open to collaborations</span> — and happy to chat about research, PhD applications, or life choices. Email me at persdre@gmail.com!
 
@@ -225,20 +225,26 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   </div>
 </div>
 
-<div class="pub-card" data-topic="graph">
-  <span class="badge-venue">LOG 2025</span> <span class="badge-honor">Oral</span>
-  <span class="pub-title">Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs</span>
-  <span class="pub-tldr">Inserts buffer nodes into graphs to damp excessive majority-class influence in imbalanced node classification.</span>
-  <span class="pub-links"><a href="https://openreview.net/forum?id=6ikB5L1kzq">Paper</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Liu, Z. Zhang, B. Luo, B. He</span>
+<div class="pub-card has-thumb" data-topic="graph">
+  <img class="pub-thumb" src="/images/papers/buffer-nodes.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">LOG 2025</span> <span class="badge-honor">Oral</span>
+    <span class="pub-title">Less is More: Using Buffer Nodes to Reduce Excessive Majority Node Influence in Class Imbalance Graphs</span>
+    <span class="pub-tldr">Inserts buffer nodes into graphs to damp excessive majority-class influence in imbalanced node classification.</span>
+    <span class="pub-links"><a href="https://openreview.net/forum?id=6ikB5L1kzq">Paper</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Liu, Z. Zhang, B. Luo, B. He</span>
+  </div>
 </div>
 
-<div class="pub-card" data-topic="graph">
-  <span class="badge-venue">NeurIPS 2024 Datasets & Benchmarks</span>
-  <span class="pub-title">Multi-Chain Graphs of Graphs: A New Approach to Analyzing Blockchain Datasets</span>
-  <span class="pub-tldr">A graphs-of-graphs dataset spanning multiple blockchains, enabling cross-chain analysis.</span>
-  <span class="pub-links"><a href="https://openreview.net/forum?id=mlbVgVKwD7">Paper</a></span>
-  <span class="pub-authors">B. Luo, Z. Zhang, <span class="me">Qian Wang</span>, B. He</span>
+<div class="pub-card has-thumb" data-topic="graph">
+  <img class="pub-thumb" src="/images/papers/multichain-gog.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">NeurIPS 2024 Datasets & Benchmarks</span>
+    <span class="pub-title">Multi-Chain Graphs of Graphs: A New Approach to Analyzing Blockchain Datasets</span>
+    <span class="pub-tldr">A graphs-of-graphs dataset spanning multiple blockchains, enabling cross-chain analysis.</span>
+    <span class="pub-links"><a href="https://openreview.net/forum?id=mlbVgVKwD7">Paper</a></span>
+    <span class="pub-authors">B. Luo, Z. Zhang, <span class="me">Qian Wang</span>, B. He</span>
+  </div>
 </div>
 
 <div class="pub-card has-thumb" data-topic="graph">
