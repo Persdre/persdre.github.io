@@ -79,11 +79,14 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, N. Chen, T. Wang, B. He</span>
 </div>
 
-<div class="pub-card" data-topic="mas">
-  <span class="badge-venue">ACL 2026 Findings</span>
-  <span class="pub-title">Diversity Collapse in Multi-Agent LLM Systems: Structural Coupling and Collective Failure in Open-Ended Idea Generation</span>
-  <span class="pub-tldr">Shows how tightly-coupled multi-agent LLM discussion collapses open-ended idea generation into the same few ideas.</span>
-  <span class="pub-authors">N. Chen, Y. Tong, Y. Yang, X. Zhang, <span class="me">Qian Wang</span>, B. He</span>
+<div class="pub-card has-thumb" data-topic="mas">
+  <img class="pub-thumb" src="/images/papers/diversity-collapse.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">ACL 2026 Findings</span>
+    <span class="pub-title">Diversity Collapse in Multi-Agent LLM Systems: Structural Coupling and Collective Failure in Open-Ended Idea Generation</span>
+    <span class="pub-tldr">Shows how tightly-coupled multi-agent LLM discussion collapses open-ended idea generation into the same few ideas.</span>
+    <span class="pub-authors">N. Chen, Y. Tong, Y. Yang, X. Zhang, <span class="me">Qian Wang</span>, B. He</span>
+  </div>
 </div>
 
 <div class="pub-card has-thumb" data-topic="trust">
@@ -108,12 +111,15 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   </div>
 </div>
 
-<div class="pub-card" data-topic="trust">
-  <span class="badge-venue">Preprint 2025</span>
-  <span class="pub-title">JudgeLRM: Large Reasoning Models as a Judge</span>
-  <span class="pub-tldr">Trains large reasoning models into better judges with judgment-oriented reinforcement learning.</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2504.00050">Paper</a></span>
-  <span class="pub-authors">N. Chen, Z. Hu, Q. Zou, J. Wu, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
+<div class="pub-card has-thumb" data-topic="trust">
+  <img class="pub-thumb" src="/images/papers/judgelrm.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">Preprint 2025</span>
+    <span class="pub-title">JudgeLRM: Large Reasoning Models as a Judge</span>
+    <span class="pub-tldr">Trains large reasoning models into better judges with judgment-oriented reinforcement learning.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2504.00050">Paper</a></span>
+    <span class="pub-authors">N. Chen, Z. Hu, Q. Zou, J. Wu, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
+  </div>
 </div>
 
 <div class="pub-card has-thumb" data-topic="rl">
@@ -127,20 +133,26 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   </div>
 </div>
 
-<div class="pub-card" data-topic="rl">
-  <span class="badge-venue">Preprint 2026</span>
-  <span class="pub-title">Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies</span>
-  <span class="pub-tldr">Language agents with learnable policies that decide how to adapt themselves at test time.</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2604.00830">Paper</a></span>
-  <span class="pub-authors">Z. Lou, H. Chen, Y. Li, <span class="me">Qian Wang</span>, B. Hooi</span>
+<div class="pub-card has-thumb" data-topic="rl">
+  <img class="pub-thumb" src="/images/papers/learning-ttt.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">Preprint 2026</span>
+    <span class="pub-title">Learning to Learn-at-Test-Time: Language Agents with Learnable Adaptation Policies</span>
+    <span class="pub-tldr">Language agents with learnable policies that decide how to adapt themselves at test time.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2604.00830">Paper</a></span>
+    <span class="pub-authors">Z. Lou, H. Chen, Y. Li, <span class="me">Qian Wang</span>, B. Hooi</span>
+  </div>
 </div>
 
-<div class="pub-card" data-topic="rl">
-  <span class="badge-venue">Preprint 2026</span>
-  <span class="pub-title">RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection</span>
-  <span class="pub-tldr">A generative spatial reasoner that learns to reflect on its own intermediate steps via reinforcement learning.</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2602.19974">Paper</a></span>
-  <span class="pub-authors">T. Wang, Z. Ma, <span class="me">Qian Wang</span>, X. Zhang, X. Long, B. Zhou</span>
+<div class="pub-card has-thumb" data-topic="rl">
+  <img class="pub-thumb" src="/images/papers/rl-rig.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">Preprint 2026</span>
+    <span class="pub-title">RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection</span>
+    <span class="pub-tldr">A generative spatial reasoner that learns to reflect on its own intermediate steps via reinforcement learning.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2602.19974">Paper</a></span>
+    <span class="pub-authors">T. Wang, Z. Ma, <span class="me">Qian Wang</span>, X. Zhang, X. Long, B. Zhou</span>
+  </div>
 </div>
 
 <div class="pub-card has-thumb" data-topic="fma">
@@ -229,28 +241,37 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   <span class="pub-authors">B. Luo, Z. Zhang, <span class="me">Qian Wang</span>, B. He</span>
 </div>
 
-<div class="pub-card" data-topic="graph">
-  <span class="badge-venue">IEEE TKDE 2025</span>
-  <span class="pub-title">A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions</span>
-  <span class="pub-tldr">A systematic survey of imbalanced learning on graphs: problems, techniques, and future directions.</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2308.13821">Paper</a></span>
-  <span class="pub-authors">Z. Liu, Y. Li, N. Chen, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
+<div class="pub-card has-thumb" data-topic="graph">
+  <img class="pub-thumb" src="/images/papers/graph-imbalance-survey.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">IEEE TKDE 2025</span>
+    <span class="pub-title">A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions</span>
+    <span class="pub-tldr">A systematic survey of imbalanced learning on graphs: problems, techniques, and future directions.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2308.13821">Paper</a></span>
+    <span class="pub-authors">Z. Liu, Y. Li, N. Chen, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
+  </div>
 </div>
 
-<div class="pub-card" data-topic="sim">
-  <span class="badge-venue">Preprint 2025</span>
-  <span class="pub-title">LLM-based Human Simulations Have Not Yet Been Reliable</span>
-  <span class="pub-tldr">Argues LLM-based human simulations are not yet reliable, and maps out where and why they fail.</span>
-  <span class="pub-links"><a href="https://arxiv.org/abs/2501.08579">Paper</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, J. Wu, Z. Tang, B. Luo, N. Chen, W. Chen, B. He</span>
+<div class="pub-card has-thumb" data-topic="sim">
+  <img class="pub-thumb" src="/images/papers/human-simulations.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">Preprint 2025</span>
+    <span class="pub-title">LLM-based Human Simulations Have Not Yet Been Reliable</span>
+    <span class="pub-tldr">Argues LLM-based human simulations are not yet reliable, and maps out where and why they fail.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2501.08579">Paper</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, J. Wu, Z. Tang, B. Luo, N. Chen, W. Chen, B. He</span>
+  </div>
 </div>
 
-<div class="pub-card" data-topic="sim">
-  <span class="badge-venue">ICLR 2025 Blogposts</span>
-  <span class="pub-title">Can LLM Simulations Truly Reflect Humanity? A Deep Dive</span>
-  <span class="pub-tldr">A deep dive into whether LLM simulations truly reflect human behavior.</span>
-  <span class="pub-links"><a href="https://iclr-blogposts.github.io/2025/blog/rethinking-llm-simulation/">Paper</a></span>
-  <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, B. He</span>
+<div class="pub-card has-thumb" data-topic="sim">
+  <img class="pub-thumb" src="/images/papers/llm-sim-blogpost.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">ICLR 2025 Blogposts</span>
+    <span class="pub-title">Can LLM Simulations Truly Reflect Humanity? A Deep Dive</span>
+    <span class="pub-tldr">A deep dive into whether LLM simulations truly reflect human behavior.</span>
+    <span class="pub-links"><a href="https://iclr-blogposts.github.io/2025/blog/rethinking-llm-simulation/">Paper</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Tang, B. He</span>
+  </div>
 </div>
 
 </div>
