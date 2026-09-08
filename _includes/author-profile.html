@@ -70,6 +70,12 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu" aria-hidden="true"></i> ZhiHu</a></li>
       {% endif %}
+      {% if author.xiaohongshu %}
+      <li><a href="https://www.xiaohongshu.com/user/profile/{{ author.xiaohongshu }}"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> RedNote</a></li>
+      {% endif %}
+      {% if author.bilibili %}
+      <li><a href="https://space.bilibili.com/{{ author.bilibili }}"><i class="fas fa-fw fa-play-circle" aria-hidden="true"></i> Bilibili</a></li>
+      {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
       {% endif %}

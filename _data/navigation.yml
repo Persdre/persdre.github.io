@@ -1,28 +1,22 @@
 # main links links
 main:
   - title: "News"
-    url: "/blog/"
+    url: "/#-news"
 
-  - title: "About Me"
-    url: "/#about-me"
-
-  - title: "Selected Publications"
+  - title: "Publications"
     url: "/#-selected-publications"
-
-  - title: "Projects"
-    url: "/#-projects"
 
   - title: "Education"
     url: "/#-education"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks--interviews"
+  - title: "Experience"
+    url: "/#-experience"
 
   - title: "Awards"
     url: "/#-awards"
 
-  - title: "Industry Experience"
-    url: "/#-industry-experience"
+  - title: "Talks"
+    url: "/#-invited-talks--interviews"
 
   - title: "Service"
     url: "/#-service"

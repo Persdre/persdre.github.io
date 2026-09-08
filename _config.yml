@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qian Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "CS Ph.D. candidate @ NUS"
+  bio              : "Ph.D. Candidate @ NUS · Quant Researcher @ MS Capital"
   location         : "Singapore"
   employer         :
   pubmed           : 
@@ -57,7 +57,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "xiao-fan-90"
+  zhihu            : "persdre"
+  bilibili         : "23349422"
+  xiaohongshu      : "63b6469b000000002601156f"
 
 
 # Collections
