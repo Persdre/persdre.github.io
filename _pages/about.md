@@ -30,7 +30,7 @@ Hi! I work on **LLM for Finance**: teaching LLMs to read financial text and turn
 
 - **Financial Benchmarks & Data:** building the datasets this field is missing, e.g., [CrossAlpha](https://arxiv.org/abs/2605.29286) (EMNLP'26) and [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) (ICLR'24);
 - **LLM Trading Agents:** agents that <span class="bio-highlight">reason</span> over market information and <span class="bio-highlight">act</span> on it, e.g., [CryptoTrade](https://aclanthology.org/2024.emnlp-main.63.pdf) (EMNLP'24); and
-- **Trustworthy LLM Judgment:** <span class="bio-highlight">auditing</span> ([COLM'25](https://arxiv.org/abs/2504.09946)) and <span class="bio-highlight">mitigating</span> ([ICML'26 W](https://arxiv.org/abs/2602.01528)) the biases of LLM judges, so that financial decisions rest on unbiased judgment.
+- **Trustworthy LLM Judgment:** <span class="bio-highlight">auditing</span> ([COLM'25](https://arxiv.org/abs/2504.09946)) and <span class="bio-highlight">mitigating</span> ([ICML'26 AI4GOOD Workshop](https://arxiv.org/abs/2602.01528)) the biases of LLM judges, so that financial decisions rest on unbiased judgment.
 
 Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org/abs/2408.09955), ACL'25: a 590-agent fully autonomous system) and graph learning. My work has appeared at **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, with several <span class="news-hot">Oral</span> presentations and an **Outstanding Reviewer Award** (EACL 2026).
 
@@ -41,15 +41,15 @@ Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org
     <div class="research-card-title">📈 LLM for Finance</div>
     <ul>
       <li>Financial Benchmarks & Data <span class="venues">(EMNLP'26, ICLR'24, NeurIPS'24)</span></li>
-      <li>LLM Trading Agents <span class="venues">(EMNLP'24, ICLR'25 W)</span></li>
+      <li>LLM Trading Agents <span class="venues">(EMNLP'24, ICLR'25 Financial AI Workshop)</span></li>
     </ul>
     <a class="research-more" href="#-selected-publications" data-goto-filter="fin">Papers &rarr;</a>
   </div>
   <div class="research-card">
     <div class="research-card-title">🤖 Agentic AI</div>
     <ul>
-      <li>Multi-Agent Systems <span class="venues">(ACL'25, ACL'26, ICML'25 W)</span></li>
-      <li>Agent Memory <span class="venues">(ICML'26 W, arXiv'26)</span></li>
+      <li>Multi-Agent Systems <span class="venues">(ACL'25, ACL'26, ICML'25 Multi-Agent Systems Workshop)</span></li>
+      <li>Agent Memory <span class="venues">(ICML'26 Agents-in-the-Wild Workshop, arXiv'26)</span></li>
       <li>Human Simulation <span class="venues">(ICLR'25 Blog, arXiv'25)</span></li>
     </ul>
     <a class="research-more" href="#-selected-publications" data-goto-filter="mas">Papers &rarr;</a>
@@ -57,8 +57,8 @@ Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org
   <div class="research-card">
     <div class="research-card-title">🛡️ Trustworthy AI</div>
     <ul>
-      <li>LLM-as-a-Judge Bias <span class="venues">(COLM'25, NeurIPS'25 W)</span></li>
-      <li>Bias-Robust RL Training <span class="venues">(ICML'26 W)</span></li>
+      <li>LLM-as-a-Judge Bias <span class="venues">(COLM'25, NeurIPS'25 Lock-LLM Workshop)</span></li>
+      <li>Bias-Robust RL Training <span class="venues">(ICML'26 AI4GOOD Workshop)</span></li>
       <li>Foundation Model Analysis <span class="venues">(ICLR'26 Oral)</span></li>
     </ul>
     <a class="research-more" href="#-selected-publications" data-goto-filter="trust">Papers &rarr;</a>
