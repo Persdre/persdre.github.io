@@ -27,7 +27,7 @@ redirect_from:
     <a class="qw-pill" href="mailto:persdre@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
     <a class="qw-pill" href="https://scholar.google.com/citations?user=KAGrBdoAAAAJ"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Scholar</a>
     <a class="qw-pill" href="https://github.com/persdre"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
-    <a class="qw-pill" href="https://x.com/persdre"><svg class="qw-x-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2H21.5l-7.11 8.13L22.75 22h-6.55l-5.13-6.71L5.2 22H1.94l7.6-8.69L1.25 2h6.71l4.64 6.13L18.244 2zm-1.15 18.05h1.8L7.02 3.85H5.09l12.0 16.2z"/></svg> X</a>
+    <a class="qw-pill" href="https://x.com/persdre"><svg class="qw-x-icon" width="13" height="13" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2H21.5l-7.11 8.13L22.75 22h-6.55l-5.13-6.71L5.2 22H1.94l7.6-8.69L1.25 2h6.71l4.64 6.13L18.244 2zm-1.15 18.05h1.8L7.02 3.85H5.09l12.0 16.2z"/></svg> X</a>
     <a class="qw-pill" href="https://www.zhihu.com/people/persdre"><i class="fab fa-zhihu" aria-hidden="true"></i> Zhihu</a>
     <a class="qw-pill" href="https://www.xiaohongshu.com/user/profile/63b6469b000000002601156f"><i class="fas fa-book-open" aria-hidden="true"></i> RedNote</a>
     <a class="qw-pill" href="https://space.bilibili.com/23349422"><i class="fas fa-play-circle" aria-hidden="true"></i> Bilibili</a>
