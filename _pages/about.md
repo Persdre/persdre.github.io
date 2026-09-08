@@ -21,16 +21,17 @@ redirect_from:
     <a class="qw-badge" href="https://www.zhihu.com/people/persdre"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.zhihu.com%2Fapi%2Fv4%2Fmembers%2Fpersdre%3Finclude%3Dfollower_count&query=follower_count&label=Zhihu&labelColor=d8ecff&color=f4f7fa&logo=zhihu&logoColor=0084ff&style=flat&suffix=+Followers&cacheSeconds=3600" alt="Zhihu followers"></a>
     <a class="qw-badge" href="https://www.xiaohongshu.com/user/profile/63b6469b000000002601156f"><img src="https://img.shields.io/badge/RedNote-5929%20Followers-f4f7fa?style=flat&labelColor=ffe0e6&logo=xiaohongshu&logoColor=ff2442" alt="RedNote followers"></a>
     <a class="qw-badge" href="https://space.bilibili.com/23349422"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D23349422&query=%24.data.follower&label=Bilibili&labelColor=d8f3fb&color=f4f7fa&logo=bilibili&logoColor=00aeec&style=flat&suffix=+Followers&cacheSeconds=3600" alt="Bilibili followers"></a>
+    <a class="qw-badge" href="https://x.com/persdre"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.fxtwitter.com%2Fpersdre&query=%24.user.followers&label=X&labelColor=e6e6e6&color=f4f7fa&logo=x&logoColor=000000&style=flat&suffix=+Followers&cacheSeconds=3600" alt="X followers"></a>
   </div>
 
   <div class="qw-links">
-    <a class="qw-pill" href="mailto:persdre@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
-    <a class="qw-pill" href="https://scholar.google.com/citations?user=KAGrBdoAAAAJ"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Scholar</a>
-    <a class="qw-pill" href="https://github.com/persdre"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
-    <a class="qw-pill" href="https://x.com/persdre"><svg class="qw-x-icon" width="13" height="13" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2H21.5l-7.11 8.13L22.75 22h-6.55l-5.13-6.71L5.2 22H1.94l7.6-8.69L1.25 2h6.71l4.64 6.13L18.244 2zm-1.15 18.05h1.8L7.02 3.85H5.09l12.0 16.2z"/></svg> X</a>
-    <a class="qw-pill" href="https://www.zhihu.com/people/persdre"><i class="fab fa-zhihu" aria-hidden="true"></i> Zhihu</a>
-    <a class="qw-pill" href="https://www.xiaohongshu.com/user/profile/63b6469b000000002601156f"><i class="fas fa-book-open" aria-hidden="true"></i> RedNote</a>
-    <a class="qw-pill" href="https://space.bilibili.com/23349422"><i class="fas fa-play-circle" aria-hidden="true"></i> Bilibili</a>
+    <a class="qw-pill qw-pill--icon" href="mailto:persdre@gmail.com" aria-label="Email" title="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+    <a class="qw-pill qw-pill--icon" href="https://scholar.google.com/citations?user=KAGrBdoAAAAJ" aria-label="Scholar" title="Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
+    <a class="qw-pill qw-pill--icon" href="https://github.com/persdre" aria-label="GitHub" title="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
+    <a class="qw-pill qw-pill--icon" href="https://x.com/persdre" aria-label="X" title="X"><svg class="qw-x-icon" width="13" height="13" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2H21.5l-7.11 8.13L22.75 22h-6.55l-5.13-6.71L5.2 22H1.94l7.6-8.69L1.25 2h6.71l4.64 6.13L18.244 2zm-1.15 18.05h1.8L7.02 3.85H5.09l12.0 16.2z"/></svg></a>
+    <a class="qw-pill qw-pill--icon" href="https://www.zhihu.com/people/persdre" aria-label="Zhihu" title="Zhihu"><i class="fab fa-zhihu" aria-hidden="true"></i></a>
+    <a class="qw-pill qw-pill--icon" href="https://www.xiaohongshu.com/user/profile/63b6469b000000002601156f" aria-label="RedNote" title="RedNote"><i class="fas fa-book-open" aria-hidden="true"></i></a>
+    <a class="qw-pill qw-pill--icon" href="https://space.bilibili.com/23349422" aria-label="Bilibili" title="Bilibili"><i class="fas fa-play-circle" aria-hidden="true"></i></a>
   </div>
 </div>
 
