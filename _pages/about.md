@@ -478,7 +478,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   <li class="award-item">
     <time class="award-year" datetime="2024">2024</time>
     <div class="award-copy"><h3>Research Achievement Award</h3><p>National University of Singapore</p></div>
-    <div class="award-selectivity"></div>
+    <div class="award-selectivity"><strong>Top 10%</strong><span>of Ph.D. students</span></div>
   </li>
   <li class="award-item">
     <time class="award-year" datetime="2024">2024</time>
@@ -503,7 +503,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   <li class="award-item">
     <time class="award-year" datetime="2017">2017 &ndash; 2018</time>
     <div class="award-copy"><h3>Zhiyuan Honors Scholarship &times; 2</h3><p>Shanghai Jiao Tong University</p></div>
-    <div class="award-selectivity"></div>
+    <div class="award-selectivity"><strong>Top 5%</strong><span>of all undergraduates</span></div>
   </li>
   <li class="award-item">
     <time class="award-year" datetime="2017">2017</time>
