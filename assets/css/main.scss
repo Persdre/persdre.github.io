@@ -116,7 +116,7 @@ $qw-panel:      #f7fafc;
 $qw-accent:     #164a86;   // deep blue (water)
 $qw-accent-soft:#e8f1fb;
 $qw-honor:      #a36a12;   // gold (metal)
-$qw-honor-soft: #fdf5e6;
+$qw-honor-soft: #e8f1fb; // light blue (water); gold is used only for text/borders
 
 .page__content {
     color: $qw-text;
@@ -437,7 +437,7 @@ $qw-honor-soft: #fdf5e6;
 
 .badge-honor {
     display: inline-block;
-    background: $qw-honor-soft;
+    background: #fff;
     color: $qw-honor;
     border: 1px solid $qw-honor;
     border-radius: 4px;
