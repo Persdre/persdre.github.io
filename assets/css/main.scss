@@ -173,45 +173,6 @@ $qw-honor-soft: #fdf5e6;
         .qw-badge img { height: 20px; width: auto; display: block; }
     }
 
-    .qw-links {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 0.35em 0.45em;
-        clear: both;
-        margin: 0.75em 0 0;
-
-        .qw-pill { margin: 0 0.45em 0.35em 0; /* fallback spacing for browsers without flex gap */ }
-
-        .qw-pill--icon {
-            width: 2.1em;
-            height: 2.1em;
-            padding: 0;
-            justify-content: center;
-            font-size: 0.95em;
-            color: $qw-text;
-
-            i, svg { font-size: 1.05em; }
-            &:hover { color: $qw-accent; }
-        }
-    }
-
-    .qw-pill {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.35em;
-        border: 1px solid $qw-line;
-        border-radius: 999px;
-        padding: 0.22em 0.85em;
-        font-size: 0.82em;
-        font-weight: 600;
-        color: $qw-accent;
-        background: #fff;
-        text-decoration: none;
-        white-space: nowrap;
-        transition: background 0.15s ease, border-color 0.15s ease;
-
-        &:hover { background: $qw-accent-soft; border-color: $qw-accent; text-decoration: none; }
-    }
 }
 
 .bio-highlight { font-style: italic; font-weight: 600; }

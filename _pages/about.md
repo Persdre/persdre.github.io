@@ -24,15 +24,6 @@ redirect_from:
     <a class="qw-badge" href="https://x.com/persdre"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.fxtwitter.com%2Fpersdre&query=%24.user.followers&label=X&labelColor=e6e6e6&color=f4f7fa&logo=x&logoColor=000000&style=flat&suffix=+Followers&cacheSeconds=3600" alt="X followers"></a>
   </div>
 
-  <div class="qw-links">
-    <a class="qw-pill qw-pill--icon" href="mailto:persdre@gmail.com" aria-label="Email" title="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
-    <a class="qw-pill qw-pill--icon" href="https://scholar.google.com/citations?user=KAGrBdoAAAAJ" aria-label="Scholar" title="Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
-    <a class="qw-pill qw-pill--icon" href="https://github.com/persdre" aria-label="GitHub" title="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
-    <a class="qw-pill qw-pill--icon" href="https://x.com/persdre" aria-label="X" title="X"><svg class="qw-x-icon" width="13" height="13" viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2H21.5l-7.11 8.13L22.75 22h-6.55l-5.13-6.71L5.2 22H1.94l7.6-8.69L1.25 2h6.71l4.64 6.13L18.244 2zm-1.15 18.05h1.8L7.02 3.85H5.09l12.0 16.2z"/></svg></a>
-    <a class="qw-pill qw-pill--icon" href="https://www.zhihu.com/people/persdre" aria-label="Zhihu" title="Zhihu"><i class="fab fa-zhihu" aria-hidden="true"></i></a>
-    <a class="qw-pill qw-pill--icon" href="https://www.xiaohongshu.com/user/profile/63b6469b000000002601156f" aria-label="RedNote" title="RedNote"><i class="fas fa-book-open" aria-hidden="true"></i></a>
-    <a class="qw-pill qw-pill--icon" href="https://space.bilibili.com/23349422" aria-label="Bilibili" title="Bilibili"><i class="fas fa-play-circle" aria-hidden="true"></i></a>
-  </div>
 </div>
 
 Hi! I work on **LLM for Finance**: teaching LLMs to read financial text and turn it into investment decisions, with a focus on:
