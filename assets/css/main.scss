@@ -159,15 +159,28 @@ $qw-honor-soft: #fdf5e6;
         display: flex;
         flex-wrap: wrap;
         gap: 0.35em 0.5em;
-        margin-bottom: 0.6em;
+        min-height: 20px;
+        margin: 0 0 0.75em;
 
-        .qw-badge img { height: 20px; display: block; }
+        .qw-badge {
+            display: inline-flex;
+            align-items: center;
+            height: 20px;
+            line-height: 0;
+            margin: 0 0.5em 0.35em 0; /* fallback spacing for browsers without flex gap */
+        }
+
+        .qw-badge img { height: 20px; width: auto; display: block; }
     }
 
     .qw-links {
         display: flex;
         flex-wrap: wrap;
         gap: 0.35em 0.45em;
+        clear: both;
+        margin: 0.75em 0 0;
+
+        .qw-pill { margin: 0 0.45em 0.35em 0; /* fallback spacing for browsers without flex gap */ }
     }
 
     .qw-pill {
