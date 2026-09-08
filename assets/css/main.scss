@@ -191,6 +191,15 @@ $qw-honor-soft: #fdf5e6;
 
 .bio-highlight { font-style: italic; font-weight: 600; }
 
+.qw-x-icon {
+    width: 0.9em;
+    height: 0.9em;
+    fill: currentColor;
+    vertical-align: -0.1em;
+
+    &--fw { width: 1.25em; margin-right: 0.05em; }
+}
+
 .qw-cta {
     border-left: 3px solid $qw-honor;
     background: $qw-honor-soft;
