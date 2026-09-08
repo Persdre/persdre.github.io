@@ -87,7 +87,7 @@ Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org
   <div class="news-item"><div class="news-date">Aug 2026</div><div class="news-text">🎉 <strong>EMNLP'26:</strong> CrossAlpha accepted to EMNLP 2026 Findings. See you in Budapest! [<a href="https://arxiv.org/abs/2605.29286">PDF</a>]</div></div>
   <div class="news-item"><div class="news-date">May 2026</div><div class="news-text">📈 <strong>Preprint:</strong> CrossAlpha, an annual-report benchmark covering ~3,600 firms across 5 markets with ~19M firm-pair scores. [<a href="https://arxiv.org/abs/2605.29286">PDF</a>]</div></div>
   <div class="news-item"><div class="news-date">May 2026</div><div class="news-text">🎉 <strong>ICML'26:</strong> 4 papers accepted to the Agents-in-the-Wild Workshop. See you in Seoul!</div></div>
-  <div class="news-item"><div class="news-date">May 2026</div><div class="news-text">🏆 <strong>Award:</strong> <span class="news-hot">Outstanding Reviewer Award</span>, EACL 2026.</div></div>
+  <div class="news-item"><div class="news-date">May 2026</div><div class="news-text">🏆 <strong>Award:</strong> Outstanding Reviewer Award, EACL 2026.</div></div>
   <div class="news-item"><div class="news-date">May 2026</div><div class="news-text">🎯 <strong>ICML'26:</strong> Treat Bias as Noise accepted to the AI4GOOD Workshop, with collaborators from UC Berkeley. [<a href="https://arxiv.org/abs/2602.01528">PDF</a>]</div></div>
   <div class="news-item"><div class="news-date">Apr 2026</div><div class="news-text">🎉 <strong>ACL'26:</strong> 3 papers accepted to ACL 2026 (incl. Findings).</div></div>
   <div class="news-item"><div class="news-date">Jan 2026</div><div class="news-text">🌟 <strong>ICLR'26 Oral:</strong> LLM DNA accepted as an <span class="news-hot">oral</span> presentation. [<a href="https://arxiv.org/abs/2509.24496">PDF</a>]</div></div>
@@ -467,7 +467,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <ol class="awards-list">
   <li class="award-item">
     <time class="award-year" datetime="2026">2026</time>
-    <div class="award-copy"><h3><span class="news-hot">Outstanding Reviewer Award</span></h3><p>EACL 2026</p></div>
+    <div class="award-copy"><h3>Outstanding Reviewer Award</h3><p>EACL 2026</p></div>
     <div class="award-selectivity"></div>
   </li>
   <li class="award-item">
