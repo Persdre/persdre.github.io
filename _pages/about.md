@@ -12,7 +12,7 @@ redirect_from:
 
 <div class="qw-hero">
   <div class="qw-subtitle">
-    <div>Ph.D. Candidate @ <a href="https://www.comp.nus.edu.sg/">National University of Singapore</a> &middot; Advisor: <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a></div>
+    <div>CS Ph.D. Candidate @ <a href="https://www.comp.nus.edu.sg/">National University of Singapore</a> &middot; Advisor: <a href="https://www.comp.nus.edu.sg/~hebs/">Prof. Bingsheng He</a></div>
   </div>
 
   <div class="qw-badges" aria-label="Profile badges">
