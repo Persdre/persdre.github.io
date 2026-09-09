@@ -407,7 +407,6 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
     <div class="timeline-content">
       <h3><a href="https://www.comp.nus.edu.sg/">National University of Singapore</a></h3>
       <div class="timeline-date">B.Comp. in Computer Science &middot; Minor in Economics</div>
-      <div class="timeline-detail">Ong Sin Seng &amp; Lim Song Kie Bursary</div>
     </div>
   </div>
   <div class="timeline-item">
