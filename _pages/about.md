@@ -76,6 +76,7 @@ Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org
 # 📰 News
 
 <div class="news-container">
+  <div class="news-item"><div class="news-date">Sep 2026</div><div class="news-text">📝 <strong>PaperWeekly:</strong> Republished two of my RedNote posts as a combined article on research trends and acceptance rates across 42,123 ICLR papers (2017–2026), with my permission. [<a href="https://mp.weixin.qq.com/s/CnOUUNABeEm9DUp4EMFEAw">Article (Chinese)</a>]</div></div>
   <div class="news-item"><div class="news-date">Sep 2026</div><div class="news-text">🎉 <strong>AACL-IJCNLP'26:</strong> LLM Agent Memory: A Survey from a Unified Representation–Management Perspective accepted to AACL-IJCNLP 2026 Main. [<a href="https://openreview.net/forum?id=KPs1EgGKcT">Paper</a>]</div></div>
   <div class="news-item"><div class="news-date">Aug 2026</div><div class="news-text">🎉 <strong>EMNLP'26:</strong> CrossAlpha accepted to EMNLP 2026 Findings. See you in Budapest! [<a href="https://arxiv.org/abs/2605.29286">PDF</a>]</div></div>
   <div class="news-item"><div class="news-date">May 2026</div><div class="news-text">📈 <strong>Preprint:</strong> CrossAlpha, an annual-report benchmark covering ~3,600 firms across 5 markets with ~19M firm-pair scores. [<a href="https://arxiv.org/abs/2605.29286">PDF</a>]</div></div>
