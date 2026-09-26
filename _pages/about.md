@@ -209,7 +209,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   </div>
 </div>
 
-<div class="pub-card has-thumb" data-topic="rl">
+<div class="pub-card has-thumb" data-topic="rl trust">
   <img class="pub-thumb" src="/images/papers/treat-bias-as-noise.png" alt="" loading="lazy">
   <div class="pub-body">
     <span class="badge-venue">NeurIPS 2026</span>
@@ -346,7 +346,8 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
       b.classList.toggle('active', b.getAttribute('data-filter') === topic);
     });
     list.querySelectorAll('.pub-card').forEach(function (card) {
-      var show = (topic === 'all' || card.getAttribute('data-topic') === topic);
+      var topics = (card.getAttribute('data-topic') || '').split(/\s+/);
+      var show = (topic === 'all' || topics.indexOf(topic) !== -1);
       card.style.display = show ? '' : 'none';
     });
   }
