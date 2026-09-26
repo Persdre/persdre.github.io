@@ -30,7 +30,7 @@ Hi! I work on **LLM for Finance**: teaching LLMs to read financial text and turn
 
 - **Financial Benchmarks & Data:** building the datasets this field is missing, e.g., [CrossAlpha](https://arxiv.org/abs/2605.29286) (EMNLP'26) and [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) (ICLR'24);
 - **LLM Trading Agents:** agents that <span class="bio-highlight">reason</span> over market information and <span class="bio-highlight">act</span> on it, e.g., [CryptoTrade](https://aclanthology.org/2024.emnlp-main.63.pdf) (EMNLP'24); and
-- **Trustworthy LLM Judgment:** <span class="bio-highlight">auditing</span> ([COLM'25](https://arxiv.org/abs/2504.09946)) and <span class="bio-highlight">mitigating</span> ([ICML'26 AI4GOOD Workshop](https://arxiv.org/abs/2602.01528)) the biases of LLM judges, so that financial decisions rest on unbiased judgment.
+- **Trustworthy LLM Judgment:** <span class="bio-highlight">auditing</span> ([COLM'25](https://arxiv.org/abs/2504.09946)) and <span class="bio-highlight">mitigating</span> ([NeurIPS'26](https://arxiv.org/abs/2602.01528)) the biases of LLM judges, so that financial decisions rest on unbiased judgment.
 
 Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org/abs/2408.09955), ACL'25: a 590-agent fully autonomous system) and graph learning. My work has appeared at **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, with several <span class="news-hot">Oral</span> presentations and an **Outstanding Reviewer Award** (EACL 2026).
 
@@ -58,7 +58,7 @@ Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org
     <div class="research-card-title">🛡️ Trustworthy AI</div>
     <ul>
       <li>LLM-as-a-Judge Bias <span class="venues">(COLM'25, NeurIPS'25 Lock-LLM Workshop)</span></li>
-      <li>Bias-Robust RL Training <span class="venues">(ICML'26 AI4GOOD Workshop)</span></li>
+      <li>Bias-Robust RL Training <span class="venues">(NeurIPS'26)</span></li>
       <li>Foundation Model Analysis <span class="venues">(ICLR'26 Oral)</span></li>
     </ul>
     <a class="research-more" href="#-selected-publications" data-goto-filter="trust">Papers &rarr;</a>
@@ -76,6 +76,7 @@ Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org
 # 📰 News
 
 <div class="news-container">
+  <div class="news-item"><div class="news-date">Sep 2026</div><div class="news-text">🎉 <strong>NeurIPS'26:</strong> 3 papers accepted to NeurIPS 2026, including my first-author paper <em>Treat Bias as Noise</em>. Looking forward to seeing you in Sydney! [<a href="https://arxiv.org/abs/2602.01528">Paper</a>]</div></div>
   <div class="news-item"><div class="news-date">Sep 2026</div><div class="news-text">📝 <strong>PaperWeekly:</strong> Republished two of my RedNote posts as a combined article on research trends and acceptance rates across 42,123 ICLR papers (2017–2026), with my permission. [<a href="https://mp.weixin.qq.com/s/CnOUUNABeEm9DUp4EMFEAw">Article (Chinese)</a>]</div></div>
   <div class="news-item"><div class="news-date">Sep 2026</div><div class="news-text">🎉 <strong>AACL-IJCNLP'26:</strong> LLM Agent Memory: A Survey from a Unified Representation–Management Perspective accepted to AACL-IJCNLP 2026 Main. [<a href="https://openreview.net/forum?id=KPs1EgGKcT">Paper</a>]</div></div>
   <div class="news-item"><div class="news-date">Aug 2026</div><div class="news-text">🎉 <strong>EMNLP'26:</strong> CrossAlpha accepted to EMNLP 2026 Findings. See you in Budapest! [<a href="https://arxiv.org/abs/2605.29286">PDF</a>]</div></div>
@@ -211,7 +212,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 <div class="pub-card has-thumb" data-topic="rl">
   <img class="pub-thumb" src="/images/papers/treat-bias-as-noise.png" alt="" loading="lazy">
   <div class="pub-body">
-    <span class="badge-venue">ICML 2026 AI4GOOD Workshop</span>
+    <span class="badge-venue">NeurIPS 2026</span>
     <span class="pub-title">Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning</span>
     <span class="pub-tldr">RL training that treats biased cues as noise, yielding LLM reasoning that stays robust on biased prompts.</span>
     <span class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></span>
