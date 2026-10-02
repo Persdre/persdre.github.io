@@ -269,17 +269,6 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 </div>
 
 <div class="pub-card has-thumb" data-topic="graph">
-  <img class="pub-thumb" src="/images/papers/ex-graph.png" alt="" loading="lazy">
-  <div class="pub-body">
-    <span class="badge-venue">ICLR 2024</span>
-    <span class="pub-title">EX-Graph: A Pioneering Dataset Bridging Ethereum and X</span>
-    <span class="pub-tldr">The first public dataset linking Ethereum transaction wallets with X (Twitter) accounts.</span>
-    <span class="pub-links"><a href="https://openreview.net/forum?id=juE0rWGCJW">Paper</a> <a href="https://github.com/Persdre/EX-Graph">Code</a></span>
-    <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Zhang, Z. Liu, S. Lu, B. Luo, B. He</span>
-  </div>
-</div>
-
-<div class="pub-card has-thumb" data-topic="graph">
   <img class="pub-thumb" src="/images/papers/buffer-nodes.png" alt="" loading="lazy">
   <div class="pub-body">
     <span class="badge-venue">LOG 2025</span> <span class="badge-honor">Oral</span>
@@ -287,6 +276,17 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
     <span class="pub-tldr">Inserts buffer nodes into graphs to damp excessive majority-class influence in imbalanced node classification.</span>
     <span class="pub-links"><a href="https://openreview.net/forum?id=6ikB5L1kzq">Paper</a></span>
     <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Liu, Z. Zhang, B. Luo, B. He</span>
+  </div>
+</div>
+
+<div class="pub-card has-thumb" data-topic="graph">
+  <img class="pub-thumb" src="/images/papers/ex-graph.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">ICLR 2024</span>
+    <span class="pub-title">EX-Graph: A Pioneering Dataset Bridging Ethereum and X</span>
+    <span class="pub-tldr">The first public dataset linking Ethereum transaction wallets with X (Twitter) accounts.</span>
+    <span class="pub-links"><a href="https://openreview.net/forum?id=juE0rWGCJW">Paper</a> <a href="https://github.com/Persdre/EX-Graph">Code</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, Z. Zhang, Z. Liu, S. Lu, B. Luo, B. He</span>
   </div>
 </div>
 
