@@ -114,6 +114,17 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
 
 <div id="pub-list">
 
+<div class="pub-card has-thumb" data-topic="rl trust">
+  <img class="pub-thumb" src="/images/papers/treat-bias-as-noise.png" alt="" loading="lazy">
+  <div class="pub-body">
+    <span class="badge-venue">NeurIPS 2026</span>
+    <span class="pub-title">Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning</span>
+    <span class="pub-tldr">RL training that treats biased cues as noise, yielding LLM reasoning that stays robust on biased prompts.</span>
+    <span class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></span>
+    <span class="pub-authors"><span class="me">Qian Wang</span>, X. Zhao, Z. Zhang, Z. Lou, N. Chen, D. Song, B. He</span>
+  </div>
+</div>
+
 <div class="pub-card has-thumb" data-topic="fin">
   <img class="pub-thumb" src="/images/papers/crossalpha.png" alt="" loading="lazy">
   <div class="pub-body">
@@ -206,17 +217,6 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
     <span class="pub-tldr">Trains large reasoning models into better judges with judgment-oriented reinforcement learning.</span>
     <span class="pub-links"><a href="https://arxiv.org/abs/2504.00050">Paper</a></span>
     <span class="pub-authors">N. Chen, Z. Hu, Q. Zou, J. Wu, <span class="me">Qian Wang</span>, B. Hooi, B. He</span>
-  </div>
-</div>
-
-<div class="pub-card has-thumb" data-topic="rl trust">
-  <img class="pub-thumb" src="/images/papers/treat-bias-as-noise.png" alt="" loading="lazy">
-  <div class="pub-body">
-    <span class="badge-venue">NeurIPS 2026</span>
-    <span class="pub-title">Treat Bias as Noise: Training Bias-Robust LLM Reasoning via Reinforcement Learning</span>
-    <span class="pub-tldr">RL training that treats biased cues as noise, yielding LLM reasoning that stays robust on biased prompts.</span>
-    <span class="pub-links"><a href="https://arxiv.org/abs/2602.01528">Paper</a></span>
-    <span class="pub-authors"><span class="me">Qian Wang</span>, X. Zhao, Z. Zhang, Z. Lou, N. Chen, D. Song, B. He</span>
   </div>
 </div>
 
