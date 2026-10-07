@@ -19,59 +19,48 @@ redirect_from:
     <a class="qw-badge" href="https://scholar.google.com/citations?user=KAGrBdoAAAAJ"><img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DKAGrBdoAAAAJ&query=%28%2F%2Ftd%5B%40class%3D%27gsc_rsb_std%27%5D%29%5B1%5D&label=Scholar&labelColor=dceafe&color=f4f7fa&logo=googlescholar&logoColor=4285f4&style=flat&suffix=+Citations&cacheSeconds=86400" alt="Google Scholar citations"></a>
     <a class="qw-badge" href="https://github.com/persdre"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fpersdre&query=count&color=f4f7fa&label=GitHub&labelColor=e2e4e8&logo=github&logoColor=181717&style=flat&suffix=+Followers&cacheSeconds=3600" alt="GitHub followers"></a>
     <a class="qw-badge" href="https://www.xiaohongshu.com/user/profile/63b6469b000000002601156f"><img src="https://img.shields.io/badge/RedNote-6185%20Followers-f4f7fa?style=flat&labelColor=ffe0e6&logo=xiaohongshu&logoColor=ff2442" alt="RedNote followers"></a>
-    <a class="qw-badge" href="https://x.com/persdre"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.fxtwitter.com%2Fpersdre&query=%24.user.followers&label=X&labelColor=e6e6e6&color=f4f7fa&logo=x&logoColor=000000&style=flat&suffix=+Followers&cacheSeconds=3600" alt="X followers"></a>
+    <a class="qw-badge" href="https://x.com/persdre"><img src="https://img.shields.io/badge/X-417%20Followers-f4f7fa?style=flat&labelColor=e6e6e6&logo=x&logoColor=000000" alt="X followers"></a>
     <a class="qw-badge" href="https://www.zhihu.com/people/persdre"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.zhihu.com%2Fapi%2Fv4%2Fmembers%2Fpersdre%3Finclude%3Dfollower_count&query=follower_count&label=Zhihu&labelColor=d8ecff&color=f4f7fa&logo=zhihu&logoColor=0084ff&style=flat&suffix=+Followers&cacheSeconds=3600" alt="Zhihu followers"></a>
     <a class="qw-badge" href="https://space.bilibili.com/23349422"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D23349422&query=%24.data.follower&label=Bilibili&labelColor=d8f3fb&color=f4f7fa&logo=bilibili&logoColor=00aeec&style=flat&suffix=+Followers&cacheSeconds=3600" alt="Bilibili followers"></a>
   </div>
 
 </div>
 
-Hi! I work on **LLM for Finance**: teaching LLMs to read financial text and turn it into investment decisions, with a focus on:
+<p class="qw-thesis">Hi! I build LLMs that read financial text and turn it into investment decisions, and I study the biases that bend their judgment.</p>
 
-- **Financial Benchmarks & Data:** building the datasets this field is missing, e.g., [CrossAlpha](https://arxiv.org/abs/2605.29286) (EMNLP'26) and [EX-Graph](https://openreview.net/forum?id=juE0rWGCJW) (ICLR'24);
-- **LLM Trading Agents:** agents that <span class="bio-highlight">reason</span> over market information and <span class="bio-highlight">act</span> on it, e.g., [CryptoTrade](https://aclanthology.org/2024.emnlp-main.63.pdf) (EMNLP'24); and
-- **Trustworthy LLM Judgment:** <span class="bio-highlight">auditing</span> ([COLM'25](https://arxiv.org/abs/2504.09946)) and <span class="bio-highlight">mitigating</span> ([NeurIPS'26](https://arxiv.org/abs/2602.01528)) the biases of LLM judges, so that financial decisions rest on unbiased judgment.
-
-Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org/abs/2408.09955), ACL'25: a 590-agent fully autonomous system) and graph learning. My work has appeared at **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, with several <span class="news-hot">Oral</span> presentations and an **Outstanding Reviewer Award** (EACL 2026).
-
-<p class="qw-cta">I am always happy to chat about research, collaborations, PhD applications, or life choices. Reach me at <a href="mailto:persdre@gmail.com">persdre@gmail.com</a>.</p>
-
-<div class="research-grid">
-  <div class="research-card">
-    <div class="research-card-title">📈 LLM for Finance</div>
+<div class="qw-pipeline">
+  <div class="qw-stage">
+    <div class="qw-stage-head"><span class="qw-stage-num">1</span>Data</div>
+    <p class="qw-stage-lede">Benchmarks the field is missing, built from the documents investors actually read.</p>
     <ul>
-      <li>Financial Benchmarks & Data <span class="venues">(EMNLP'26, ICLR'24, NeurIPS'24)</span></li>
-      <li>LLM Trading Agents <span class="venues">(EMNLP'24, ICLR'25 Financial AI Workshop)</span></li>
+      <li><a href="https://arxiv.org/abs/2605.29286">CrossAlpha</a> <span class="venues">EMNLP'26</span><br>Do annual reports from one market predict returns in another?</li>
+      <li><a href="https://openreview.net/forum?id=juE0rWGCJW">EX-Graph</a> <span class="venues">ICLR'24</span><br>The first public dataset linking Ethereum wallets to X accounts.</li>
     </ul>
     <a class="research-more" href="#-selected-publications" data-goto-filter="fin">Papers &rarr;</a>
   </div>
-  <div class="research-card">
-    <div class="research-card-title">🤖 Agentic AI</div>
+  <div class="qw-stage">
+    <div class="qw-stage-head"><span class="qw-stage-num">2</span>Decisions</div>
+    <p class="qw-stage-lede">Agents that reason over market information and trade on it.</p>
     <ul>
-      <li>Multi-Agent Systems <span class="venues">(ACL'25, ACL'26, ICML'25 Multi-Agent Systems Workshop)</span></li>
-      <li>Agent Memory <span class="venues">(ICML'26 Agents-in-the-Wild Workshop, arXiv'26)</span></li>
-      <li>Human Simulation <span class="venues">(ICLR'25 Blog, arXiv'25)</span></li>
+      <li><a href="https://aclanthology.org/2024.emnlp-main.63.pdf">CryptoTrade</a> <span class="venues">EMNLP'24</span><br>A reflective agent fusing on-chain and off-chain signals.</li>
+      <li><a href="https://arxiv.org/abs/2410.12464">FS-ReasoningAgent</a> <span class="venues">ICLR'25 FinAI Workshop</span><br>Separating facts from opinions makes trading decisions better.</li>
     </ul>
-    <a class="research-more" href="#-selected-publications" data-goto-filter="mas">Papers &rarr;</a>
+    <a class="research-more" href="#-selected-publications" data-goto-filter="fin">Papers &rarr;</a>
   </div>
-  <div class="research-card">
-    <div class="research-card-title">🛡️ Trustworthy AI</div>
+  <div class="qw-stage">
+    <div class="qw-stage-head"><span class="qw-stage-num">3</span>Judgment</div>
+    <p class="qw-stage-lede">Making sure the model's judgment follows the evidence and ignores the framing.</p>
     <ul>
-      <li>LLM-as-a-Judge Bias <span class="venues">(COLM'25, NeurIPS'25 Lock-LLM Workshop)</span></li>
-      <li>Bias-Robust RL Training <span class="venues">(NeurIPS'26)</span></li>
-      <li>Foundation Model Analysis <span class="venues">(ICLR'26 Oral)</span></li>
+      <li><a href="https://arxiv.org/abs/2504.09946">Judging Bias in LRMs</a> <span class="venues">COLM'25</span><br>Reasoning models still fall for bandwagon, authority and position cues.</li>
+      <li><a href="https://arxiv.org/abs/2602.01528">Treat Bias as Noise</a> <span class="venues">NeurIPS'26</span><br>RL training that keeps reasoning robust on biased prompts.</li>
     </ul>
     <a class="research-more" href="#-selected-publications" data-goto-filter="trust">Papers &rarr;</a>
   </div>
-  <div class="research-card">
-    <div class="research-card-title">🕸️ Graph Learning</div>
-    <ul>
-      <li>Blockchain Graph Datasets <span class="venues">(ICLR'24, NeurIPS'24)</span></li>
-      <li>Class-Imbalanced Graphs <span class="venues">(LOG'25 Oral, TKDE'25)</span></li>
-    </ul>
-    <a class="research-more" href="#-selected-publications" data-goto-filter="graph">Papers &rarr;</a>
-  </div>
 </div>
+
+Beyond finance, I work on LLM multi-agent systems ([MegaAgent](https://arxiv.org/abs/2408.09955), ACL'25: a 590-agent fully autonomous system) and foundation model analysis ([LLM DNA](https://arxiv.org/abs/2509.24496), ICLR'26 <span class="news-hot">Oral</span>). My work has appeared at **ICLR, NeurIPS, ICML, ACL, EMNLP, COLM, and LOG**, with several <span class="news-hot">Oral</span> presentations and an **Outstanding Reviewer Award** (EACL 2026).
+
+<p class="qw-cta">I am always happy to chat about research, collaborations, PhD applications, or life choices. Reach me at <a href="mailto:persdre@gmail.com">persdre@gmail.com</a>.</p>
 
 # 📰 News
 

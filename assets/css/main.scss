@@ -233,6 +233,77 @@ $qw-honor-soft: #e8f1fb; // light blue (water); gold is used only for text/borde
     }
 }
 
+/* --- Research pipeline: data -> decisions -> judgment --- */
+.qw-thesis { font-size: 1.12em; font-weight: 600; color: $qw-ink; line-height: 1.5; margin: 0.4em 0 0.9em; }
+
+.qw-pipeline {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.6em;
+    margin: 0.5em 0 1.3em;
+
+    @media (max-width: 800px) { grid-template-columns: 1fr; gap: 1.4em; }
+}
+
+.qw-stage {
+    position: relative;
+    border: 1px solid $qw-line;
+    border-top: 3px solid $qw-accent;
+    border-radius: 8px;
+    background: #fff;
+    padding: 0.7em 0.95em 0.6em;
+    display: flex;
+    flex-direction: column;
+
+    /* arrow into the next stage */
+    &:not(:last-child)::after {
+        content: "\2192";
+        position: absolute;
+        right: -1.25em;
+        top: 50%;
+        transform: translateY(-50%);
+        color: $qw-accent;
+        font-weight: 700;
+        font-size: 1.05em;
+    }
+    @media (max-width: 800px) {
+        &:not(:last-child)::after {
+            content: "\2193";
+            right: auto;
+            left: 50%;
+            top: auto;
+            bottom: -1.3em;
+            transform: translateX(-50%);
+        }
+    }
+
+    .qw-stage-head { font-weight: 700; color: $qw-ink; font-size: 1.02em; display: flex; align-items: center; gap: 0.45em; }
+    .qw-stage-num {
+        display: inline-grid;
+        place-items: center;
+        width: 1.45em;
+        height: 1.45em;
+        border-radius: 50%;
+        background: $qw-accent;
+        color: #fff;
+        font-size: 0.8em;
+    }
+    .qw-stage-lede { font-size: 0.9em; color: $qw-muted; margin: 0.3em 0 0.5em; line-height: 1.45; }
+
+    ul { list-style: none; margin: 0 0 0.4em; padding: 0; font-size: 0.86em; line-height: 1.45; }
+    li { margin: 0 0 0.5em; }
+    .venues { color: $qw-muted; font-size: 0.9em; }
+
+    .research-more {
+        margin-top: auto;
+        align-self: flex-end;
+        font-size: 0.82em;
+        font-weight: 600;
+        text-decoration: none;
+        &:hover { text-decoration: underline; }
+    }
+}
+
 /* --- News / talks: date column + one-line entry --- */
 .news-container,
 .talk-list {
