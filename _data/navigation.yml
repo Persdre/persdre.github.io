@@ -1,22 +1,7 @@
-# main links links
+# main links
 main:
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/publications/"
 
-  - title: "Education"
-    url: "/#-education"
-
-  - title: "Experience"
-    url: "/#-experience"
-
-  - title: "Awards"
-    url: "/#-awards"
-
-  - title: "Talks"
-    url: "/#-invited-talks--interviews"
-
-  - title: "Service"
-    url: "/#-service"
+  - title: "CV"
+    url: "/cv/"
