@@ -39,7 +39,7 @@ redirect_from:
     <a class="research-more" href="#-selected-publications" data-goto-filter="fin">Papers &rarr;</a>
   </div>
   <div class="qw-stage">
-    <div class="qw-stage-head"><span class="qw-stage-num">2</span>Decisions</div>
+    <div class="qw-stage-head"><span class="qw-stage-num">2</span>Agents</div>
     <p class="qw-stage-lede">Agents that reason over market information and trade on it.</p>
     <ul>
       <li><a href="https://aclanthology.org/2024.emnlp-main.63.pdf">CryptoTrade</a> <span class="venues">EMNLP'24</span><br>A reflective agent fusing on-chain and off-chain signals.</li>
@@ -48,8 +48,8 @@ redirect_from:
     <a class="research-more" href="#-selected-publications" data-goto-filter="fin">Papers &rarr;</a>
   </div>
   <div class="qw-stage">
-    <div class="qw-stage-head"><span class="qw-stage-num">3</span>Judgment</div>
-    <p class="qw-stage-lede">Making sure the model's judgment follows the evidence and ignores the framing.</p>
+    <div class="qw-stage-head"><span class="qw-stage-num">3</span>Bias</div>
+    <p class="qw-stage-lede">Finding and removing the biases that sway an LLM's judgment.</p>
     <ul>
       <li><a href="https://arxiv.org/abs/2504.09946">Judging Bias in LRMs</a> <span class="venues">COLM'25</span><br>Reasoning models still fall for bandwagon, authority and position cues.</li>
       <li><a href="https://arxiv.org/abs/2602.01528">Treat Bias as Noise</a> <span class="venues">NeurIPS'26</span><br>RL training that keeps reasoning robust on biased prompts.</li>
