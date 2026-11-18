@@ -1,9 +1,13 @@
 name: Get Citation Data
 
 on: 
- page_build: 
+ page_build:
+ workflow_dispatch:
  schedule:
   - cron:  '0 8 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -26,4 +30,4 @@ jobs:
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        GOOGLE_SCHOLAR_ID: KAGrBdoAAAAJ

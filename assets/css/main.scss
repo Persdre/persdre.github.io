@@ -534,3 +534,10 @@ $qw-honor-soft: #e8f1fb; // light blue (water); gold is used only for text/borde
 }
 
 .news-hot { color: $qw-honor; font-weight: 700; }
+
+.pub-cites {
+    font-size: 0.82em;
+    color: $qw-muted;
+    vertical-align: middle;
+    &:empty { display: none; }
+}
