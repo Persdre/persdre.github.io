@@ -119,7 +119,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   <span class="pub-title">BiasTrojan: LLM Judgers Are Easily Distorted by Few Hundreds of Contrastive Biased Training Data</span>
   <span class="pub-tldr">A few hundred biased training samples are enough to turn an LLM into a biased judge, and the bias survives continued post-training.</span>
   <span class="pub-links"><a href="https://neurips.cc/virtual/2026/poster/150175">Paper</a></span>
-  <span class="pub-authors">Z. Tang, Z. Tang, <span class="me">Qian Wang</span>, G. Pan, Y. Yang, W. He, S. Shi, X. Chu, B. Li</span>
+  <span class="pub-authors">Zichen Tang, Zhenheng Tang, <span class="me">Qian Wang</span>, G. Pan, Y. Yang, W. He, S. Shi, X. Chu, B. Li</span>
 </div>
 
 <div class="pub-card" data-topic="trust">
@@ -127,7 +127,7 @@ Click a topic to filter; my name is shown in **bold**. The complete list is on m
   <span class="pub-title">Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)</span>
   <span class="pub-tldr">A benchmark showing LLM recommender agents in paper review, e-commerce, and hiring get swayed by injected biases even when they can find the right answer.</span>
   <span class="pub-links"><a href="https://arxiv.org/abs/2603.17417">Paper</a> <a href="https://github.com/trl730109/LLM-as-a-Recommender">Code</a></span>
-  <span class="pub-authors">Z. Tang, Z. Zhang, <span class="me">Qian Wang</span>, Z. Tang, B. Li, X. Chu</span>
+  <span class="pub-authors">Zichen Tang, Z. Zhang, <span class="me">Qian Wang</span>, Zhenheng Tang, B. Li, X. Chu</span>
 </div>
 
 <div class="pub-card has-thumb" data-topic="fin">
